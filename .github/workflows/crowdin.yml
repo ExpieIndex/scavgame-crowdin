@@ -2,7 +2,7 @@ name: Crowdin Sync
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */3 * * *'
   push:
     branches:
       - main
@@ -16,6 +16,7 @@ permissions:
 
 jobs:
   synchronize-with-crowdin:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -29,6 +30,7 @@ jobs:
           download_translations: true
           create_pull_request: false
           push_translations: true
+          localization_branch_name: main
           commit_message: "New translation from Crowdin"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
