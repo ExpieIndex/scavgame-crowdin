@@ -67,42 +67,44 @@ jobs:
             fi
           fi
 
-          cat > pr_body.md <<EOF
-          ## Type of Contribution
+          cat > pr_body.md <<'EOF'
+## Type of Contribution
 
-          - [X] New locale
-          - [ ] Update to existing locale
-          - [ ] Fix (typos, grammar, consistency)
-          - [ ] Other (please describe):
+- [X] New locale
+- [ ] Update to existing locale
+- [ ] Fix (typos, grammar, consistency)
+- [ ] Other (please describe):
 
-          ## Target Locale
+## Target Locale
 
-          Language: (e.g. pt-BR): \`ID\`
+Language: (e.g. pt-BR): `ID`
 
-          ## Description
+## Description
 
-          Please describe what this pull request includes:
+Please describe what this pull request includes:
 
-          - $CROWDIN_STATUS
-          - Complete translation for `main (97%)`, `buildings (95%)`, `moodles (54%)`, `other (95%)`
+- $CROWDIN_STATUS
+- Full/Partial translation for `main`, `buildings`, `moodles`, `other`
 
-          ## Locale Checklist
+## Locale Checklist
 
-          ### General Requirements
+### General Requirements
 
-          - [x] I’ve read and followed the contribution guide's recommendations.
-          - [x] No keys are missing or extra compared to \`en.json\`.
-          - [x] Untranslated lines remain in **English**.
-          - [x] I updated the \`README.md\`
+- [x] I've read and followed the contribution guide's recommendations.
+- [x] No keys are missing or extra compared to `en.json`.
+- [x] Untranslated lines remain in **English**.
+- [x] I updated the `README.md`
 
-          ### Review & Quality
+### Review & Quality
 
-          - [x] The translation has been reviewed by at least one other native speaker.
-          EOF
+- [x] The translation has been reviewed by at least one other native speaker.
+EOF
+
+          sed -i "s|\$CROWDIN_STATUS|$CROWDIN_STATUS|g" pr_body.md
 
           gh pr create \
             --repo Orsoniks/scavgame-locale \
             --base main \
             --head ExpieIndex:$BRANCH_NAME \
-            --title "Initial pull request for the Bahasa Indonesia localization" \
+            --title "Add Bahasa Indonesia (ID) locale" \
             --body-file pr_body.md
