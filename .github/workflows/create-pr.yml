@@ -19,7 +19,7 @@ jobs:
 
       - name: Create Pull Request with gh
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PR_PAT: ${{ secrets.GH_PR_PAT }}
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
         run: |
@@ -113,7 +113,12 @@ jobs:
           sed -i "s|\$STATS|$STATS|g" pr_body.md
           sed -i "s|\$MODIFIED_FILES|$MODIFIED_FILES|g" pr_body.md
 
-          gh pr create \
+          if [ -z "${GH_PR_PAT:-}" ]; then
+            echo "Missing secret GH_PR_PAT."
+            exit 1
+          fi
+
+          GH_TOKEN="$GH_PR_PAT" gh pr create \
             --repo Orsoniks/scavgame-locale \
             --base main \
             --head ExpieIndex:$BRANCH_NAME \
