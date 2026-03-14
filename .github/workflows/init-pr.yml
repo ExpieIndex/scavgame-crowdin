@@ -1,4 +1,4 @@
-name: Create PR
+name: Init PR
 
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ permissions:
   pull-requests: write
 
 jobs:
-  create-pr:
+  init-pr:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main
@@ -17,7 +17,7 @@ jobs:
           ref: main
           fetch-depth: 0
 
-      - name: Create Pull Request with gh
+      - name: Create Initial Pull Request
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
@@ -26,31 +26,28 @@ jobs:
           set -e
           git config user.name "ExpieIndex"
           git config user.email "expieindex@users.noreply.github.com"
-          
+
           git remote add upstream https://github.com/Orsoniks/scavgame-locale.git
           git fetch upstream main
-          
-          if git diff --quiet upstream/main main -- ID.json; then
+
+          if git diff --quiet upstream/main main -- ID.json README.md; then
             echo "No changes. Exiting."
             exit 0
           fi
 
-          BRANCH_NAME="id-sync-$(date +%s)"
-          git checkout -b $BRANCH_NAME upstream/main
-          
-          git checkout main -- ID.json
-          git add ID.json
-          
+          BRANCH_NAME="id-init-$(date +%s)"
+          git checkout -b "$BRANCH_NAME" upstream/main
+
+          git checkout main -- ID.json README.md
+          git add ID.json README.md
+
           if git diff --cached --quiet; then
-            echo "No changes. Exiting."
+            echo "No changes to commit. Exiting."
             exit 0
           fi
 
-          git commit -m "Update Indonesian locale (ID.json)"
-          git push -u origin $BRANCH_NAME
-
-          MODIFIED_FILES=$(git diff --name-status upstream/main $BRANCH_NAME -- ID.json || true)
-          STATS=$(git diff --shortstat upstream/main $BRANCH_NAME)
+          git commit -m "Init Indonesian locale (ID.json)"
+          git push -u origin "$BRANCH_NAME"
 
           CROWDIN_STATUS="Unknown"
           if [ -n "${CROWDIN_PROJECT_ID:-}" ] && [ -n "${CROWDIN_PERSONAL_TOKEN:-}" ]; then
@@ -73,9 +70,9 @@ jobs:
           cat > pr_body.md <<EOF
           ## Type of Contribution
 
-          - [ ] New locale
-          - [x] Update to existing locale
-          - [x] Fix (typos, grammar, consistency)
+          - [X] New locale
+          - [ ] Update to existing locale
+          - [ ] Fix (typos, grammar, consistency)
           - [ ] Other (please describe):
 
           ## Target Locale
@@ -87,13 +84,7 @@ jobs:
           Please describe what this pull request includes:
 
           - $CROWDIN_STATUS
-          - Diff summary:
-
-          \`\`\`
-          $STATS
-
-          $MODIFIED_FILES
-          \`\`\`
+          - Complete translation for `main (97%)`, `buildings (95%)`, `moodles (54%)`, `other (95%)`
 
           ## Locale Checklist
 
@@ -102,7 +93,7 @@ jobs:
           - [x] I’ve read and followed the contribution guide's recommendations.
           - [x] No keys are missing or extra compared to \`en.json\`.
           - [x] Untranslated lines remain in **English**.
-          - [ ] I updated the \`README.md\`
+          - [x] I updated the \`README.md\`
 
           ### Review & Quality
 
@@ -113,5 +104,5 @@ jobs:
             --repo Orsoniks/scavgame-locale \
             --base main \
             --head ExpieIndex:$BRANCH_NAME \
-            --title "Update Indonesian locale (ID.json)" \
+            --title "Initial pull request for the Bahasa Indonesia localization" \
             --body-file pr_body.md

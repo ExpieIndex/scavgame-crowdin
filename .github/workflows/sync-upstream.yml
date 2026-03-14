@@ -20,8 +20,8 @@ jobs:
 
       - name: Add upstream and sync
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "ExpieIndex"
+          git config user.email "expieindex@users.noreply.github.com"
           git remote add upstream https://github.com/Orsoniks/scavgame-locale.git
           git fetch upstream main
           git merge upstream/main --no-edit || (echo "Merge conflict detected" && exit 1)
