@@ -67,38 +67,38 @@ jobs:
             fi
           fi
 
-          cat > pr_body.md <<'EOF'
-## Type of Contribution
-
-- [X] New locale
-- [ ] Update to existing locale
-- [ ] Fix (typos, grammar, consistency)
-- [ ] Other (please describe):
-
-## Target Locale
-
-Language: (e.g. pt-BR): `ID`
-
-## Description
-
-Please describe what this pull request includes:
-
-- $CROWDIN_STATUS
-- Full/Partial translation for `main`, `buildings`, `moodles`, `other`
-
-## Locale Checklist
-
-### General Requirements
-
-- [x] I've read and followed the contribution guide's recommendations.
-- [x] No keys are missing or extra compared to `en.json`.
-- [x] Untranslated lines remain in **English**.
-- [x] I updated the `README.md`
-
-### Review & Quality
-
-- [x] The translation has been reviewed by at least one other native speaker.
-EOF
+          {
+            echo "## Type of Contribution"
+            echo
+            echo "- [X] New locale"
+            echo "- [ ] Update to existing locale"
+            echo "- [ ] Fix (typos, grammar, consistency)"
+            echo "- [ ] Other (please describe):"
+            echo
+            echo "## Target Locale"
+            echo
+            echo 'Language: (e.g. pt-BR): `ID`'
+            echo
+            echo "## Description"
+            echo
+            echo "Please describe what this pull request includes:"
+            echo
+            echo "- $CROWDIN_STATUS"
+            echo '- Full/Partial translation for `main`, `buildings`, `moodles`, `other`'
+            echo
+            echo "## Locale Checklist"
+            echo
+            echo "### General Requirements"
+            echo
+            echo "- [x] I've read and followed the contribution guide's recommendations."
+            echo '- [x] No keys are missing or extra compared to `en.json`.'
+            echo "- [x] Untranslated lines remain in **English**."
+            echo '- [x] I updated the `README.md`'
+            echo
+            echo "### Review & Quality"
+            echo
+            echo "- [x] The translation has been reviewed by at least one other native speaker."
+          } > pr_body.md
 
           sed -i "s|\$CROWDIN_STATUS|$CROWDIN_STATUS|g" pr_body.md
 
