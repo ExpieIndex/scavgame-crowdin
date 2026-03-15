@@ -18,11 +18,19 @@ jobs:
           ref: main
           fetch-depth: 0
 
-      - name: Add upstream and sync
+      - name: Sync EN.json from upstream
         run: |
           git config user.name "ExpieIndex"
           git config user.email "expieindex@users.noreply.github.com"
           git remote add upstream https://github.com/Orsoniks/scavgame-locale.git
           git fetch upstream main
-          git merge upstream/main --no-edit || (echo "Merge conflict detected" && exit 1)
+          git checkout upstream/main -- EN.json
+
+          if git diff --quiet -- EN.json; then
+            echo "No EN.json changes. Exiting."
+            exit 0
+          fi
+
+          git add EN.json
+          git commit -m "chore: sync EN.json from upstream"
           git push origin main
