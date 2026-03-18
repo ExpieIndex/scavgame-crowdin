@@ -1671,7 +1671,7 @@
         "rest": "istirahat",
         "restdsc": "Beristirahatlah bersama pedagang untuk membangun kepercayaan dan mendapatkan tidur yang lebih nyaman. Syarat dan ketentuan tidur yang biasa berlaku.",
         "tradermove": "Pindah",
-        "tradermovedsc": "Minta secara halus ke pedagang untuk pindah kesamping, jika dia menutupi sesuatu yang menting.",
+        "tradermovedsc": "Dengan sopan meminta pedagang untuk pindah kesamping, jika dia menutupi sesuatu yang menting.",
         "exit": "Keluar",
         "free": "<color=\"orange\">GRATIS!",
         "deceased": "Tewas",
@@ -1728,7 +1728,7 @@
                 "Aku siap...",
                 "Aku gak mau melakuin ini...",
                 "Ayo.",
-                "Ku harus gerak cepat.",
+                "Aku harus gerak cepat.",
                 "Ooh!",
                 "Keliatan... Lebih abu-abu dari apa yang aku bayangin.",
                 "Betapa.. kelabu.",
@@ -1857,7 +1857,7 @@
                 "Aku mendingan kelaperan.",
                 "Ini semacam hukuman...?",
                 "Gak bisa diterima.",
-                "Emang ku harus makan ini? Ugh.",
+                "Emang aku harus makan ini? Ugh.",
                 "Ack! Rasanya buruk banget!",
                 "Ew ew ew! Uugh!",
                 "Amit-amitlah!",
@@ -1900,7 +1900,7 @@
                 "EW! Gak mau!",
                 "Gak bakal aku MASUKIN atau di MANAPUN dekat mulutku.",
                 "Gak usah kepikiran.",
-                "Ku gak akan biarin pikiran aneh-anehku menang.",
+                "Aku gak akan biarin pikiran aneh-anehku menang.",
                 "Ew. Gak cok."
             ],
             "tired": [
@@ -2138,7 +2138,7 @@
                 "Lapar.",
                 "Bakal kulahap makan malam sekarang juga.",
                 "Makan?",
-                "Ada yang bisa dimanakan?",
+                "Ada yang bisa dimakan?",
                 "Ada makanan? Aku lapar.",
                 "Aku mau makanan."
             ],
@@ -2313,7 +2313,7 @@
                 "Apa hidupku bakal begini sekarang?"
             ],
             "gloomy": [
-                "Things could be better.",
+                "Ini bisa lebih baik...",
                 "This is just... terrible.",
                 "I hope things get better. Quick.",
                 "This is going down hill...",
