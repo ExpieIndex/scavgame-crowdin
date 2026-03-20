@@ -2620,7 +2620,7 @@
                 "FUCK! FUCK! BANDAGE!",
                 "HELP ME! I'M... Bleeding... Please...",
                 "Are... Are these my last moments..?",
-                "Focus... Focus... We can fix this...",
+                "Fokus... Fokus... Kita bisa perbaiki ini...",
                 "I can fix this... Come on... Fuck...",
                 "This is a... fucking... nightmare...",
                 "AHHHH! AAAAAHHHH!",
@@ -3546,7 +3546,7 @@
                 "Affirmative..."
             ],
             "traderhagglefail": [
-                "How about no?",
+                "Bagaimana kalau enggak?",
                 "I'm not a damn charity.",
                 "I only accept facts and logic, not uncoordinated pleas.",
                 "No.",
@@ -3558,7 +3558,7 @@
             "traderbuy": [
                 "No refunds.",
                 "Here you are.",
-                "Don't break it.",
+                "Jangan di rusak.",
                 "Good luck with this.",
                 "I hope you know how to use this.",
                 "Hope it'll be useful.",
@@ -3943,7 +3943,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "can the scientists really see me here? they always wanted me to say out loud what i was thinking, but here, im just talking to myself. i suppose i have the freedom to stop, but... it feels therapeutic. if i dont make it, maybe at least these notes will.",
+                "Item1": "apakah para ilmuan beneran bisa liat aku disini? mereka sering ingin aku ngomongin apa yang di pikiran aku, tapi disini aku cuman ngomong sama diri sendiri. memang aku bisa berhenti kapan saja, tapi rasanya seperti terapi. kalau aku ga selamat, semoga catatan ini bisa selamat.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4010,7 +4010,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "i met up with someone, we agreed to try to go out to the surface through one of those holes to the outside. my friend stepped out first, and immediately they started stumbling in shock. they seemed to be in a lot of pain. they vomited a bunch, then collapsed and stopped breathing soon after. their skin started blistering too, especially around the head and neck. something is preventing us from leaving. im scared.",
+                "Item1": "aku bertemu dengan seseorang, kita sepakat untuk mencoba keluar ke permukaan melewati salah satu lubang itu ke luar. teman ku yang pertama keluar, dan mereka langsung oleng karena kaget. kelihatannya mereka kesakitan banget. mereka muntah berkali-kali, setelah itu terjatuh dan berhenti bernafas. kulit mereka mulai melepuh juga, terutama di sekitar kepala dan leher. ada yang mencegah kita untuk keluar. aku takut.",
                 "Item2": "Sprites/noteDrawings/radiation",
                 "Item3": "experiment"
             },
