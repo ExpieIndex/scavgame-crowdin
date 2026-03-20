@@ -2576,10 +2576,10 @@
                 "Help! I'm bleeding!",
                 "Aku kehilangan darah!",
                 "I'm spilling blood all over the place!",
-                "I'm wounded!",
+                "Aku terluka!",
                 "I need to patch myself up!",
                 "Bleeding!",
-                "This isn't great...",
+                "Ini gak bagus...",
                 "Losing blood...",
                 "I'm losin' my life juice!",
                 "I'm bleeding.",
@@ -3437,7 +3437,7 @@
                 "Did I eat something metallic?",
                 "I didn't know metal had a smell.",
                 "There's a metal taste in my mouth...",
-                "...Metal...?",
+                "...Logam...?",
                 "What     is  happening",
                 "This      this  is    wrong .",
                 "I'm smelling something REALLY weird...",
@@ -3487,13 +3487,13 @@
         {
             "tradermeetnormal": [
                 "Greetings.",
-                "Hello.",
+                "Halo.",
                 "My pleasure to meet you.",
                 "Ah! Hello there!",
                 "Welcome, fellow traveler.",
                 "Greetings to you.",
-                "Welcome.",
-                "Nice to meet you!",
+                "Selamat Datang.",
+                "Senang bertemu dengan mu!",
                 "I hope all is well."
             ],
             "tradermeetgood": [
@@ -3505,7 +3505,7 @@
             ],
             "tradermeetbad": [
                 "...I am not impressed.",
-                "Ough. Hello...",
+                "Aduh. Halo...",
                 "...You confound me. Greetings.",
                 "...Hello.",
                 "Greetings. Please refrain from touching me.",
@@ -3536,10 +3536,10 @@
                 "You may stop gifting me things, I'd prefer not giving out everything else on me."
             ],
             "traderhagglesuccess": [
-                "Fine.",
+                "Baik.",
                 "I will make an exception for you.",
                 "Ah, you seem nice.",
-                "You make a good point.",
+                "Kau pintar.",
                 "I accept your request.",
                 "I hear you, buddy. Sure.",
                 "I have to agree.",
@@ -3590,11 +3590,11 @@
             "traderwarning": [
                 "Leave at once.",
                 "I do NOT appreciate your presence. Leave.",
-                "OUT.",
+                "KELUAR.",
                 "Do you not think I'm serious? Out.",
                 "Get. Out.",
-                "Please. Leave.",
-                "Leave.",
+                "Tolong. Pergi.",
+                "Pergi.",
                 "I'm not dealing with you right now.",
                 "Please leave my pod in peace. I got here first."
             ],
@@ -3616,10 +3616,10 @@
                 "What a display of affection..."
             ],
             "traderhugfail": [
-                "NO TOUCHIES!",
-                "Refrain.",
+                "GAK BOLEH SENTUH!",
+                "Tahan.",
                 "Cease. Do not embrace me.",
-                "No. Stop. Do not touch me.",
+                "Gak. Berhenti. Jangan sentuh aku.",
                 "Ew! Get your hands off of me."
             ],
             "traderseegun": [
@@ -3640,7 +3640,7 @@
             ],
             "traderlightbreak": [
                 "...Dude. I have eyes. Thief... Leave!",
-                "Oh, you idiot! Leave, now! OUT!",
+                "Oh, dasar bodoh! Pergi, sekarang! KELUAR!",
                 "EY! Fuck you! Get the fuck out!",
                 "Why the fuck would you do that!? Get out! I needed that light!",
                 "Why are you destroying my pod!? Get OUT! LEAVE!"
@@ -3772,7 +3772,7 @@
                 "Dune and fri-end clo-se?... Wh-at..."
             ],
             "traderhugfail": [
-                "GRRR! Away! Ggrrn...",
+                "GRRR! Minggir! Ggrrn...",
                 "Ngghrr! No! Aw-ay!",
                 "No! Dune not let...",
                 "Dune dis-like fri-end close...",
@@ -3823,12 +3823,12 @@
     "notes": [
         [
             {
-                "Item1": "this is horrifying. there's so many corpses... im scared. why did they send so many of us here? i dont understand. i really dont understand. they knocked me out cold with some kind of dart and forced me into a pod to be sent here. i hate this planet.",
+                "Item1": "ini mengerikan. banyak sekali mayatnya... aku takut. kenapa mereka mengirim banyak dari kita ke sini? aku nggak paham. aku benar-benar gak paham. mereka membuatku pingsan dengan semacam anak panah dan memaksa ku ke dalam kapsul untuk dikirim kesini. aku benci planet ini.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "I inquired others around the ability to see our physical status in our minds, and it turns out this is something shared by almost everyone else here. Quite interesting - this is not something we've ever been able to do back in our homes. Have we been implanted with something? There are no visible attachments on any of us. I have also noted that very few people here do not share this experience, seemingly lacking whatever lets us do this. Odd.",
+                "Item1": "Aku menanyakan yang lainnya tentang kemampuan kami untuk melihat status tubuh di dalam pikiran kami, dan ternyata ini adalah hal yang hampir semuanya mengalami nya juga. Agak menarik - ini bukanlah hal yang kita pernah lakukan di rumah kami sebelumnya. Apakah kami telah diimplan sesuatu? Gak ada benda tambahan yang terlihat di tubuh kami masing-masing. Aku juga melihat kalau beberapa sedikit orang tidak memiliki kemampuan ini, sepertinya mereka kekurangan sesuatu yang memungkinkan kami untuk hal ini. Aneh.",
                 "Item2": "Sprites/noteDrawings/puppet",
                 "Item3": "milky"
             },
