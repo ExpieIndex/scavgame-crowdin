@@ -3592,7 +3592,7 @@
                 "I do NOT appreciate your presence. Leave.",
                 "KELUAR.",
                 "Do you not think I'm serious? Out.",
-                "Get. Out.",
+                "Keluar.",
                 "Tolong. Pergi.",
                 "Pergi.",
                 "I'm not dealing with you right now.",
@@ -3629,32 +3629,32 @@
                 "Are you TRYING to make yourself a threat to me or do you just think the gun looks cool..?"
             ],
             "tradermeetimpairedspeech": [
-                "What are you saying..? I can't understand you.",
-                "Your speech is extremely muffled. Just letting you know.",
+                "Ngomong apa sih..? Aku gak paham kamu.",
+                "Ucapan mu gak jelas. Hanya memberi tahu mu.",
                 "I can barely make out what you're saying to me."
             ],
             "traderseehurt": [
                 "You appear to be injured and bleeding... You can take a bandage if you wish.",
                 "Ew! Please don't bleed all over my floor. Grab a bandage and treat yourself if you see one, mine are free.",
-                "That doesn't look good... You may take a bandage for free if you can find one on me."
+                "Itu terlihat tidak bagus... Kamu boleh ambil perban gratis kalau kamu dapat menemukannya pada ku."
             ],
             "traderlightbreak": [
-                "...Dude. I have eyes. Thief... Leave!",
+                "...Woi. Aku punya mata. Kau pencuri. Pergi!",
                 "Oh, dasar bodoh! Pergi, sekarang! KELUAR!",
-                "EY! Fuck you! Get the fuck out!",
-                "Why the fuck would you do that!? Get out! I needed that light!",
-                "Why are you destroying my pod!? Get OUT! LEAVE!"
+                "WOI! ANJING! KELUAR LU SEKARANG!",
+                "Lu ngapain harus gitu!? Keluar! Aku butuh lampu itu!",
+                "Ngapain lu ngancurin kapsul aku! Keluar! PERGI!"
             ],
             "tradermove": [
                 "Okay."
             ],
             "tradermovefail": [
-                "Why would I move for someone like you?"
+                "Ngapain aku perlu pindah demi orang kayak mu?"
             ]
         },
         {
             "tradermeetnormal": [
-                "Mmm... Hell-o....",
+                "Mmm... H-Halo....",
                 "Well-come... Fri-end...",
                 "F-riend... Hell-o... Have s-it...",
                 "H-i-y... Fr-iend... Per-son...",
@@ -3823,7 +3823,7 @@
     "notes": [
         [
             {
-                "Item1": "ini mengerikan. banyak sekali mayatnya... aku takut. kenapa mereka mengirim banyak dari kita ke sini? aku nggak paham. aku benar-benar gak paham. mereka membuatku pingsan dengan semacam anak panah dan memaksa ku ke dalam kapsul untuk dikirim kesini. aku benci planet ini.",
+                "Item1": "ini mengerikan. banyak sekali mayatnya... aku takut. kenapa mereka mengirim banyak dari kami ke sini? aku nggak paham. aku benar-benar gak paham. mereka membuatku pingsan dengan semacam anak panah dan memaksa ku ke dalam kapsul untuk dikirim kesini. aku benci planet ini.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -3833,7 +3833,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "i keep losing weight. i need to eat more to stay in shape. all this running around makes you consume calories really fast. i guess i need to be full more often.",
+                "Item1": "aku terus kehilangan berat badan. aku perlu makan lebih untuk tetap bugar. selama ini berlari membuat hilangnya kalori secara cepat. kayaknya aku harus lebih sering kenyang.",
                 "Item2": "Sprites/noteDrawings/underweight",
                 "Item3": "experiment"
             },
