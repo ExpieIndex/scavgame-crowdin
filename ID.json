@@ -3492,7 +3492,7 @@
                 "Ah! Hello there!",
                 "Welcome, fellow traveler.",
                 "Greetings to you.",
-                "Selamat Datang.",
+                "Selamat datang.",
                 "Senang bertemu dengan mu!",
                 "I hope all is well."
             ],
@@ -3838,17 +3838,17 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "this is horrible. this is fucking horrible. i cant do it anymore. this is a death mission. abandon all hope. there is no point to this",
+                "Item1": "ini mengerikan. bener-bener mengerikan. aku gak bisa lakuin ini lagi. ini misi maut. gak ada harapan. gak ada gunanya semua ini",
                 "Item2": "Sprites/noteDrawings/x",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i dont get why we're here. what for? i know im supposed to retrieve some kind of battery cell or something. im assuming others have the same mission. arent there more efficient ways of doing this? logically? why send us here. i miss my friends. i dont want to die.",
+                "Item1": "aku gak ngerti ngapain kami disini. buat apa sih? aku tau kita disuruh ambil sebuah batre atau semacamnya. kurasa yang lain juga disuruh yang sama. tapi emang enggak ada cara efisien yang lain? yang logis gitu? ngapain harus kami yang dikirim.. aku kangen teman ku. aku gak mau mati.",
                 "Item2": "Sprites/noteDrawings/alone",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i fell down. bad. my leg is mangled. this is really bad. trying to move at all is a pain. i need some painkillers for this.",
+                "Item1": "aku terjatuh. parah. kakiku hancur lebur. bener-bener buruk. gerak dikit bikin sakit banget. aku butuh penghilang rasa sakit untuk kakiku.",
                 "Item2": "Sprites/noteDrawings/brokenleg",
                 "Item3": "experiment"
             },
@@ -3858,7 +3858,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "I have found drawing to be a decent escape to the situation I have found myself in. It seems all of us are struggling with our mental states, one way or another. It is nice to get a distraction from the harsh reality at times.",
+                "Item1": "Aku baru aja nemuin kalo ngambar itu bisa jadi cara yang enak buat kabur dari situasi aku sekarang. sepertinya semuanya juga kesusahan dengan kondisi mental kami masing-masing, satu cara atau yang lain. agak enak bisa dapet distraksi dari kenyataan kami yang keras.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -3868,7 +3868,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "planet is good .  eat a lot of good flesh .  dune happy\n(You can make out what looks like a very poorly made self-portrait.)",
+                "Item1": "planet bagus. makan banyak daging enak. dune senang\n(Anda dapat melihat sesuatu yang tampak seperti potret diri yang dibuat dengan sangat buruk.)",
                 "Item2": "Sprites/noteDrawings/dune",
                 "Item3": "dune"
             },
