@@ -4126,7 +4126,7 @@
             {
                 "Item1": "inúmeros arbustos por volta, embora não possa dizer que algum deles está vivo. parecem ser bem úteis para criar cordas e amortecer quedas, mas podem esconder armadilhas...",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "experimento"
             },
             {
                 "Item1": "its so hot down here. i feel like i am just rushing from lifepod to lifepod. i don't even want to open the drop capsules, those heat me up too. yet my dune friend stimpy seems to not mind too much. are they just not complaining, or is all that skin cooling them down?",
@@ -4161,12 +4161,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "The button next to the trigger on a pistol is the magazine release, whereas on a shotgun, it's typically the safety. Also, whenever you work the action (like pulling the bolt), it ejects the round in the chamber. Last time I did that, I lost a buckshot - pretty unfortunate.",
+                "Item1": "O botão perto do gatilho libera o carregador, enquanto na escopeta, geralmente é o de segurança. Também, sempre que você realiza a ação (puxar o parafuso), ejeta um cartucho da câmara. A última vez que fiz isso, gastei um cartucho - que má sorte.",
                 "Item2": "Sprites/noteDrawings/pistol",
-                "Item3": "milky"
+                "Item3": "leitoso"
             },
             {
-                "Item1": "drinkable water here is really scarce, and i dont think that tar-looking stuff is safe. some of the vegetation here has enough water content to be crushed into a juice, although the taste isnt very pleasant. it beats being thirsty though",
+                "Item1": "água potável é bem escassa por aqui, e creio que aquele negócio preto não seja seguro. algumas das vegetações aqui podem virar suco ao espremer, embora o gosto não seja tão agradável. pelo menos mata a sede",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4217,19 +4217,19 @@
             {
                 "Item1": "dune cold. dig warm not warm enough. dune eat fur friend. eat raw! dune has fur. fur warm for dune. dune full and warm. dune happy not cold.",
                 "Item2": "",
-                "Item3": "dune"
+                "Item3": "duna"
             },
             {
                 "Item1": "its cold down here, i keep having to duck into lifepods to warm up… although sometimes theres these little humming stoves that i can stop by for warmth, i just need to be careful not to touch them for too long, they make me feel sick. just enough to warm up and then keep going. if i were you id play it safe and look out for anything digging towards me when im resting. i can hear stuff tunneling around me.",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "experimento"
             }
         ],
         [
             {
                 "Item1": "É estranho como chove aqui. Eu nunca tinha visto chuva de verdade antes... É até bonita, mesmo sendo meio suja. Ainda me pergunto como é possível haver uma concentração tão alta de água aqui embaixo. Talvez a água da calota de gelo acima esteja pingando até aqui?",
                 "Item2": "",
-                "Item3": "milky"
+                "Item3": "leitoso"
             },
             {
                 "Item1": "I dont know what hit me but I cant feel my leg anymore, all I can see is a tangled mess of muscle bone and blood\nmy body is screaming for the agony to end \nthe only thing I have is this blue device on my chest. I was told by the trader I bought it from that it should only be used in emergencies.\nThe pain is not unbearable anymore, but the light is blinking now. I dont know how long I have left. will the darkness return when this thing runs out? I dont want to fade away...",
