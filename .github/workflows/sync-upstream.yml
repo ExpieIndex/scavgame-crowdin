@@ -26,7 +26,7 @@ jobs:
           git fetch upstream main
           git checkout upstream/main -- EN.json
 
-          if git diff --quiet -- EN.json; then
+          if git diff --quiet HEAD -- EN.json; then
             echo "No EN.json changes. Exiting."
             exit 0
           fi
