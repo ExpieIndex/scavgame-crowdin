@@ -7,7 +7,7 @@
         "rippeddressing": "Perban robek",
         "rippeddressingdsc": "Segulung kecil perban. Bisa digunakan untuk perban darurat sederhana untuk luka berdarah.",
         "rag": "Kain lusuh",
-        "ragdsc": "Secarik kain usang. Bisa digunakan untuk perban darurat. Gunakan di inventaris untuk mengeringkan dirimu. ",
+        "ragdsc": "Secarik kain usang. Bisa digunakan untuk perban darurat. Gunakan di inventaris untuk mengeringkan dirimu.",
         "analgesicgauze": "Kasa medis",
         "analgesicgauzedsc": "Kasa tenun terbuat dari kapas, mengandung obat analgesik. Lumayan dalam memperlambat pendarahan dan mengurangi rasa sakit dari luka.",
         "alginate": "Perban alginat",
@@ -24,7 +24,7 @@
         "paincreamdsc": "Botol 100ml kecil untuk menyimpan krim pereda nyeri. Dosisnya 10ml.",
         "morphine": "Suntik morfin",
         "morphinedsc": "Suntik 100ml yang dapat menyuntikkan cairan secara intravena. Label overdosis tertera 88ml.",
-        "makeshiftlrd": "P.R.L. buatan",
+        "makeshiftlrd": "P.R.L. Rakitan",
         "makeshiftlrddsc": "Perangkat Resusitasi Lokal buatan. Tampaknya seperti direkatkan lakban. Meningkatkan kesehatan otot dan mendisinfeksi anggota tubuh yang diobati, SERTA anggota tubuh di sekitarnya. Sedikit mengurangi pendarahan internal jika digunakan di dada. Butuh setidaknya 25ml serum PRL untuk berfungsi.",
         "lrd": "P.R.L.",
         "lrddsc": "Perangkat Resusitasi Lokal, dirancang untuk memudahkan pemberian perawatan trauma umum yang efektif. Meningkatkan kesehatan anggota tubuh, memperlambat pendarahan, memberikan obat pereda nyeri dan mendisinfeksi anggota tubuh yang diobati, serta anggota tubuh di sekitarnya. Sangat mengurangi pendarahan internal jika digunakan di dada. Butuh setidaknya 25ml serum PRL untuk berfungsi.",
@@ -591,8 +591,8 @@
         "xalorisdsc": "Sejenis pakis seperti spons dan berduri yang memanaskan udara di sekitarnya untuk menyebarkan spora di sekitarnya. Bermanfaat untuk melindungi dari dingin, tetapi menghirup sporanya terlalu lama dapat mengganggu sistem kekebalan tubuh.",
         "lifepodheater": "Pemanas ruangan",
         "lifepodheaterdsc": "Menjaga suhu agar tetap enak dan nyaman.",
-        "tutorialcraftingbutton": "Reset button",
-        "tutorialcraftingbuttondsc": "Press this if you messed something up and need to start over.",
+        "tutorialcraftingbutton": "Tombol Ulang",
+        "tutorialcraftingbuttondsc": "Tekan ini jika kamu membuat kesalahan dan perlu mulai dari awal.",
         "barbedwirefence": "Pagar kawat",
         "barbedwirefencedsc": "Jangan sentuh duri-durinya.",
         "beartrap": "Mesin tua",
@@ -744,7 +744,7 @@
         "grabbershroom": "Kapang pengait",
         "grabbershroomdsc": "Kamu kesusahan untuk memahami bagaimana bisa jamur bisa melakukan ini.",
         "terminal": "Terminal",
-        "terminaldsc": "An old computer terminal."
+        "terminaldsc": "Sebuah komputer terminal tua."
     },
     "moodles": {
         "braindamage4": "Koma",
@@ -1926,7 +1926,7 @@
         "tutclosehealthpanel": "Close the health panel.",
         "tutopenhealthpanel": "Open the health panel.",
         "tutnice": "Nice.",
-        "startlorenote": "Year 2XXX \n<>\nHumanity has technologically progressed to a significant extent. \n<>\nOne corporation began to put research into bio-engineering, combining animal and human DNA. \n<>\nThis led to their creation of the Experiment species, along with dozens of later offshoots. \n<>\nAfter years of unethical private testing in labs, they set their sights on something bigger. \n<>\nThey knew of a gray planet with thriving flora, fauna and an easy space travel path. \n<>\nSoon, thousands of specimens, buildings and miscellaneous cargo were sent. \n<>\nWhile most was shipped correctly, a large amount of cargo was mistakenly sent to the planet's expansive cave network due to a calibration error. \n<>\nThis includes a mistakenly sent piece of important experimental technology, which now sat deep in the underground systems, without an easy way to get it back. \n<>\nThis, however, was seen as an opportunity by the scientists to do more behavioural research by sending thousands of specimens down to retrieve the lost tech. \n<>\nThe chance of it working were low, but shipment is cheap and their breathing fodder is plenty. \n<>\nYou are one unlucky specimen.\nResistance is not an option."
+        "startlorenote": "Tahun 2XXX \n<>\nUmat manusia telah mengalami kemajuan teknologi yang signifikan. \n<>\nSatu perusahaan mulai melakukan penelitian di bidang bio-rekayasa, menggabungkan DNA hewan dan manusia. \n<>\nDari sini telah terbit penciptaan spesies Eksperimen, dengan puluhan anakan selanjutnya. \n<>\nSetelah bertahun-tahun melakukan pengujian pribadi yang tidak etis di dalam laboratorium, mereka mengarah pandangan mereka pada sesuatu yang lebih besar. \n<>\nMereka mengetahui sebuah planet abu-abu dengan flora dan fauna yang berkembang pesat serta jalur perjalanan ruang angkasa yang mudah.\n<>\nSegera, ribuan spesimen, bangunan, dan kargo lainnya telah dikirim. \n<>\nMeskipun sebagian besar dikirim dengan benar, sejumlah besar kargo secara keliru dikirim ke jaringan gua yang luas di planet tersebut karena kesalahan kalibrasi. \n<>\nIni termasuk sebuah teknologi eksperimental penting yang salah kirim, yang sekarang berada jauh di dalam sistem bawah tanah, tanpa cara mudah untuk mendapatkannya kembali. \n<>\nNamun, ini dilihat sebagai peluang oleh para ilmuwan untuk melakukan lebih banyak penelitian perilaku dengan mengirim ribuan spesimen ke bawah untuk mengambil teknologi yang hilang. \n<>\nPeluang keberhasilannya rendah, tetapi pengiriman murah dan pakan mereka berlimpah. \n<>\nkamu adalah salah satu spesimen yang tidak beruntung.\nPerlawanan bukanlah pilihan."
     },
     "character": [
         {
@@ -2795,7 +2795,7 @@
                 "Butuh perban!",
                 "Ku gak suka berdarah...",
                 "Darahku menetes...",
-                "Darahku...",
+                "Darahku... ",
                 "Itu darahku...",
                 "Oh... Itu darah...",
                 "Aku harus dirawat.",
