@@ -918,7 +918,7 @@
         "braindamage3dsc": "realita ..  berhenti   masuk   akal",
         "braindamage2dsc": "Kerusakan mental parah. Kemampuan untuk bernalar dan memenuhi kebutuhan diri terbatas. Terdapat kerusakan otak parah.",
         "braindamage1dsc": "Gangguan mental dari kerusakan otak. Kamu merasa bingung yang tidak enak...",
-        "strokedsc": "Pendarahan di otak, kemungkinan disebabkan oleh hipertensi parah. Karena sudah berlanjut, Kesempatan hidup hampir tidak ada kecuali kamu memiliki Braingrow atau prokoagulan.",
+        "strokedsc": "Pendarahan di otak, kemungkinan disebabkan oleh hipertensi parah. Karena sudah terlanjut, Kesempatan hidup hampir tidak ada kecuali kamu memiliki Braingrow atau prokoagulan.",
         "cantbreathedsc": "Hilang nafas! Kesadaran akan hilang dan kematian datang jika tidak ditangani.",
         "thoraxdestroyeddsc": "Paru-parumu terlalu rusak untuk berfungsi, akibat kondisi otot thoraks kritis.",
         "pulmonaryembolismdsc": "Sebuah gumpalan darah besar telah tersangkut di paru-paru, menyumbati arteri. Kerusakan paru-paru parah dan sesak napas akan terjadi. Segera kurangi kekentalan darahmu.",
@@ -2309,7 +2309,7 @@
                 "Cc.... Cok... ugh... Darah... Gak mungkin bagus...",
                 "Wow... barusan... muntah... Darah? ...huh?",
                 "Ghhuhh... Tadi kenapa Aku... Abis...",
-                "Aku... guugh... ...Kuyakin itu darah... Aku berdarah didalem...",
+                "Aku... guugh... ...Ku yakin itu darah... Aku berdarah didalem...",
                 "Ini gak... ghghuh... Muntah... Ini gak... Oh...",
                 "Bajingan... Ough... Sial... Jangan seperti ini..."
             ],
@@ -2429,7 +2429,7 @@
                 "Gaada air...",
                 "Air?... mohon...",
                 "Aku sangat terdehidrasi...",
-                "I feel like I'm going to shrivel up and die..."
+                "Aku merasa pengen melayu dan mati..."
             ],
             "limbmuscle": [
                 "Aku gak bisa nggerakin <limb>ku!",
@@ -2604,7 +2604,7 @@
                 "Gua akan bunuh si bajingan yang naruh gua disini.",
                 "Gua mulai menjadi gila.",
                 "Aku mau banting kepalaku ke dinding.",
-                "Gua bakal ngerobek mata gua sendiri. ",
+                "Gua bakal ngerobek mata gua sendiri.",
                 "Aku mulai pengen ngelukain diriku sendiri.",
                 "Ah... Ahh gawat.",
                 "Tamatlah riwayatku.",
@@ -2719,7 +2719,7 @@
                 "Aku telah mengambil keputusan sadar untuk mencabut nyawaku sendiri, disini dan sekarang. Sampai jumpa, bajingan.",
                 "Udah gue bilang. DAH GUE BILANGIN. Jancok... Sialan... Bakar di api neraka, anjing.",
                 "Gue lebih bagus sebagai mayat membusuk. Hidup gue berakhir saat gue dikirim ke sini. Selamat tinggal.",
-                "Persetan SEMUA INI! GUA SELESAI! AAAGHHH! BERENGSEK INI SEMUA! ",
+                "Persetan SEMUA INI! GUA SELESAI! AAAGHHH! BERENGSEK INI SEMUA!",
                 "Aku. Aku udah... nyerah. Tiada waktu buat surat bunuh diri. Aku capek dari semua ini. Sampai jumpa.",
                 "Gak... Nggak ada dendam, kan?.. hah... Aku... Aku capek banget... Selamat... malam...",
                 "Gua gak mau lanjut. Gua gak mau. Tamat riwayat gua. Dah. Sialan ini.",
