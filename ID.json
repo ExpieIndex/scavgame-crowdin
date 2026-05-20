@@ -926,11 +926,11 @@
         "oxygen2dsc": "SpO2 di bawah 75%, menyebabkan takikardia dan mengurangi kadar oksigen ke otak. Walau tidak lethal, ini bertanda adanya kondisi yang mendasar.",
         "oxygen3dsc": "SpO2 di bawah 60%, mengurangi kadar oksigen ke sel-sel tubuh dan bisa memicu aritmia jantung. Lethal jika dibiarkan lanjut.",
         "oxygen4dsc": "SpO2 di bawah 45%. Ada sesuatu yang sangat, sangat salah dalam tubuhmu. Lethal jika dibiarkan berlanjut.",
-        "fibrillation1dsc": "Abnormal heart rhythm, likely caused by severe strain to the body. May progress further if the cause isn't addressed. Can be defibrillated.",
-        "fibrillation2dsc": "Severe irregular heartbeat, preventing effective blood pumping. Will progress into lethal V-fib if not treated. Can be defibrillated.",
-        "fibrillation3dsc": "Life threatening, chaotic heart rhythm. Asystole is soon to follow. Things have gone horribly wrong.",
-        "palpitationsdsc": "You feel your heart pounding out of your chest. Are you just anxious, or is something horribly wrong?",
-        "cardiacarrestdsc": "Asystole. If you're somehow conscious, this has a low chance of being treated via defibrillation. Otherwise, cerebral hypoxia and death is soon to follow.",
+        "fibrillation1dsc": "irama jantung abnormal, kemungkinan besar disebabkan oleh renggangan besar di tubuh. Bisa memburuk jika tidak ditangani. Bisa dilakukan defibrilasi",
+        "fibrillation2dsc": "Denyut jantung abnormal parah, mencegah pemompaan darah yang efektif. Akan memburuk menjadi fibrasi ventrikel yang berbahaya jika tidak ditangani. Bisa dilakukan defibrilasi",
+        "fibrillation3dsc": "Denyut jantung kacau yang mengancam jiwa. Asistol akan menyusul. Segala sudah menjadi sangat buruk.",
+        "palpitationsdsc": "Kamu merasa jantungmu berdegup kencang. Apakah kamu merasa gugup, atau ada sesuatu yang benar-benar salah?",
+        "cardiacarrestdsc": "Asistol. Jika entah bagaimana kamu sadar, ini memiliki kemungkinan rendah untuk ditangani melalui defibrilasi. Jika tidak, hipoksia serebral dan kematian akan segera menyusul.",
         "hypoventilation1dsc": "Lowered respiratory rate.",
         "hypoventilation2dsc": "Highly lowered respiratory rate, enough to slowly lower blood oxygen concentration.",
         "hypotension1dsc": "Slightly decreased blood pressure. You feel slightly dizzy.",
@@ -944,7 +944,7 @@
         "venom1dsc": "Slight hemotoxin presence in the bloodstream. Did something bite you?",
         "venom2dsc": "Hemotoxin present in the bloodstream, impairing blood clotting and destroying blood cells. Watch for vital signs.",
         "venom3dsc": "Large amount of hemotoxin present in the bloodstream, clogging your blood and destroying blood cells. Watch for vital signs.",
-        "venom4dsc": "Your blood more closely resembles marmalade than something that can upkeep life.",
+        "venom4dsc": "Darahmu lebih mirip papeda dari pada sesuatu yang bisa menopang kehidupan.",
         "pain1dsc": "Merasa sakit ringan.",
         "pain2dsc": "Berasa cukup sakit. Ketidakbahagiaan perlahan naik.",
         "pain3dsc": "Setengah sadar, pikiran kabur karena rasa sakit yang hebat. Ketidakbahagiaan naik.",
@@ -4168,7 +4168,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "It's full of all kinds of critters that constantly roam around everywhere. I'm a bit of a pacifist, so I try running away from them, rather than fighting them, as I don't know who's gonna kill whom first... After all, the wounds they leave in me hurt like hell... I don't know anymore... Do our captors even know what we're going through down here?",
+                "Item1": "Tempat ini dipenuhi berbagai macam makhluk yang terus-menerus berkeliaran ke mana-mana. aku agak pasifis orangnya, jadi aku lebih milih lari daripada ngelawan mereka, karena aku nggak tau siapa yang akan ngebunuh siapa lebih dulu... Lagipula, luka yang mereka tinggalkan di diriku terasa menyakitkan sekali... Aku dah nggak tau lagi... Apakah para penculik kita tahu apa yang kita alami di sini?",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4200,12 +4200,12 @@
         ],
         [
             {
-                "Item1": "ugh, this place sucks. i keep being bitten by random spiders i cant see in time. i think theyre venomous, as they leave nasty looking infected wounds in me... the glowplant fruit do help with those though",
+                "Item1": "ugh, tempat ini nyebelin. aku terus-terusan digigit laba-laba yang nggak keliatan dan nggak sempat kuliat. kayaknya mereka berbisa, soalnya ninggalin luka yang keliatan parah dan terinfeksi di tubuhku... tapi buah sinar memang ngebantu ngobati luka-luka itu",
                 "Item2": "Sprites/noteDrawings/spider",
                 "Item3": "experiment"
             },
             {
-                "Item1": "things are going good for me. tasty food in my belly and maybe a mushtail or two makes me happy. the traders smile back at me too! i just hate seeing myself bleed, it scares me",
+                "Item1": "semuanya berjalan lancar bagiku. perutku terisi makanan enak\ndan mungkin satu (cabang ekor?) atau dua ngebuatku Bahagia. para pedagang pun membalas senyumanku! aku hanya benci milihat diriku sendiri berdarah, itu ngebuatku takut",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4215,7 +4215,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "the red blinking lights in the dark are spike traps. watch out for them. please. please. someone just walked into one in the distance, i just heard a yelp and silence after. stay safe",
+                "Item1": "lampu merah yang berkedip-kedip di kegelapan itu adalah perangkap paku. hati-hati. tolong. plis. baru aja ada orang yang terperosok ke salah satunya di kejauhan, aku baru aja denger teriakan dan kemudian sunyi. jaga diri baik-baik",
                 "Item2": "",
                 "Item3": "experiment"
             },
