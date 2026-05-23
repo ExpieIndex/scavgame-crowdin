@@ -253,7 +253,7 @@
         "titaniumpickaxe": "티타늄 곡괭이",
         "titaniumpickaxedsc": "단조한 티타늄으로 만든 도구. 매우 튼튼하고 땅을 파내는 데 효과적이지만, 전투에는 적합하지 않다.",
         "titaniummultitool": "티타늄 멀티툴",
-        "titaniummultitooldsc": "제작에 사용되는 작지만 튼튼한 도구. 윗부분에 무거운 망치가 달려 있고 손잡이에는 작지만 매우 날카로운 칼날이 숨겨져 있다. 땅파기나 전투에는 그다지 쓸모가 없지만, 가볍고 온갖 제작법을 버텨낼 것이다.\n\n<color=\"red\">건강 패널에서 심하게 감염된 사지를 절단하는데 사용할 수 있다.",
+        "titaniummultitooldsc": "A small, yet very firm and durable tool used for crafting, with a heavy hammer top and a tiny yet razor sharp blade hidden in the handle. While not useful for digging nor combat, it will last nigh indefinitely for all sorts of crafting recipes, and is light.\n\n<color=\"red\">Can be used in the health panel to amputate severely infected limbs.",
         "titaniummachete": "티타늄 마체테",
         "titaniummachetedsc": "튼튼하고 전투에 사용하기 적합한 도구다. 가벼워서 휘두르기 편하지만, 여전히 날카롭고 치명적이다. 날 모서리는 열처리되어 오랫동안 날카로움을 유지하게 되어있다. 자기 방어에 훌륭한 도구이지만, 최후의 수단으로 땅을 파는데 사용할 수도 있다.\n\n<color=\"red\">건강 패널에서 심하게 감염된 사지를 절단하는데 사용할 수 있다.",
         "sledgehammer": "슬레지해머",
@@ -423,7 +423,7 @@
         "wrench": "렌치",
         "wrenchdsc": "그립감과 기계적 힘을 이용해 물체를 비틀어 돌리는 작업을 수월하게 해주는 공구. 탈골이 일어난 신체 부위를 손을 사용하는 것보다 더 효과적으로 교정하는 데 사용할 수 있다. 망치질에도 유용하다.",
         "makeshiftwrench": "간이 렌치",
-        "makeshiftwrenchdsc": "볼트를 조이는 것보다 때려 끼우는 데 더 적합할 것 같은 조잡한 도구. 탈골에는 도움을 주지 않지만, 제작에 유용하다.",
+        "makeshiftwrenchdsc": "A crude tool that's probably better at hitting bolts into place than actually turning them. It won't help with dislocations, but is useful in crafting.",
         "bruisekit": "외상 치료 키트",
         "bruisekitdsc": "근육 치유를 돕도록 만들어진 약물 및 기타 의약품의 합성물. 근육과 피부 체력을 회복하고 탈골을 완화한다. 출혈에는 영향을 주지 않는다.",
         "medicalsuture": "의료용 봉합사",
@@ -685,7 +685,7 @@
         "crystalmassive": "Crystal",
         "crystalmassivedsc": "A towering bioluminescent crystal.",
         "crystalenemy": "Manifestation",
-        "crystalenemydsc": "An expression of malignant intent, from somethimg far, far beyond your limited physical comprehension.",
+        "crystalenemydsc": "An expression of malignant intent, from something far, far beyond your limited physical comprehension.",
         "sandrose": "샌드 로즈",
         "sandrosedsc": "모서리가 둥근 직사각형 모양의 큰 물건이 여러 개 자라난 듯 보이는 이상하게 아름다운 식물.",
         "scrapeater": "고철 투입구",
@@ -1129,7 +1129,7 @@
         "layermodifier2dsc": "이곳의 공기는 예상보다 훨씬 따뜻하다!",
         "layermodifier3dsc": "이곳의 공기는 예상보다 춥다.",
         "layermodifier4dsc": "이곳의 공기는 매우 춥다!",
-        "layermodifier5dsc": "The terrain here is unusally flooded.",
+        "layermodifier5dsc": "The terrain here is unusually flooded.",
         "layermodifier6dsc": "이곳에서는 웅덩이를 보기 어려울 것이다.",
         "layermodifier7dsc": "이곳은 사방에서 물이 떨어지고 있다...",
         "layermodifier8dsc": "이곳은 곤충 활동이 매우 활발해 보인다.",
@@ -1275,7 +1275,7 @@
         "saline": "생리식염수",
         "salinedsc": "저혈량증 및 갈증 치료에 자주 사용되는 염분과 물의 혼합물이다.",
         "antivenom": "Antivenom",
-        "antivenomdsc": "A treatment for evenomation, it's composed of antibodies that disable hemotoxins in the bloodstream. Works intravenously.",
+        "antivenomdsc": "A treatment for envenomation, it's composed of antibodies that disable hemotoxins in the bloodstream. Works intravenously.",
         "blood": "혈액",
         "blooddsc": "노란색 혈액이다. 당신에게는 정상이겠지만, 생체 공학 과정의 부작용인 것 같다. 저혈량증 치료에 사용된다.",
         "redblood": "붉은 혈액",
@@ -1413,13 +1413,13 @@
         "runsetlootmultiplier": "Distance loot multiplier",
         "runsetlootmultiplierdsc": "Loot density is multiplied by this for each layer you cross\n\nIn other words, if you set it to e.g. 0.5x, the amount of loot would be halved every time you descend a layer",
         "runsetbasetrapdensity": "Trap density",
-        "runsetbasetrapdensitydsc": "How many traps appeas in every layer. Affects things like mechanical traps, enemies, other hazards.",
+        "runsetbasetrapdensitydsc": "How many traps appear in every layer. Affects things like mechanical traps, enemies, other hazards.",
         "runsettrapincrease": "Distance trap increase",
         "runsettrapincreasedsc": "This number is added to the trap density for each layer you cross\n\nIn other words, if you set it to e.g. 0.5x, the trap amount would go from 1x -> 1.5x -> 2x and so on",
         "runsettimelimit": "Layer time limit",
         "runsettimelimitdsc": "In minutes, how long can you stay in every layer before punishment",
         "runsetstartingsupplies": "Starting supplies",
-        "runsetstartingsuppliesdsc": "What items you start out with",
+        "runsetstartingsuppliesdsc": "What items you start with",
         "runsetstartingsuppliesnone": "Nothing",
         "runsetstartingsupplieslight": "Flashlight",
         "runsetstartingsuppliesfull": "Full kit",
@@ -1518,6 +1518,10 @@
         "gamesetresheightdsc": "",
         "gamesetfullscreen": "Fullscreen",
         "gamesetfullscreendsc": "Toggle between windowed and borderless",
+        "gamesetvsync": "V-Sync",
+        "gamesetvsyncdsc": "Toggle vertical synchronization, which reduces screen tearing at the cost of input lag. Overrides the max framerate setting if on",
+        "gamesetframerate": "Max framerate",
+        "gamesetframeratedsc": "If above 0, sets how fast the game is allowed to run. A value of 0 means unlimited. Overriden if V-Sync is on",
         "gamesetpixelate": "Pixelated rendering",
         "gamesetpixelatedsc": "Toggle downscaled of full resolution rendering. Note that disabling pixelated rendering sacrifices some of the game's intended artstyle.",
         "gamesetbloom": "Bloom",
@@ -1807,6 +1811,7 @@
         "settings": "Settings",
         "custommusic": "커스텀 음악",
         "custommusicdsc": "커스텀 음악 디렉터리를 엽니다.\nMP3 플레이어에서 선택지로 표시되도록 .mp3/.ogg./.wav 파일을 넣을 수 있습니다.\n다른 파일 형식은 지원되지 않습니다.",
+        "credits": "Credits",
         "layer": "층",
         "toggleheatmode": "난방 모드 바꾸기",
         "activateshower": "샤워 활성화",
@@ -1947,7 +1952,7 @@
         "tutbasic8": "Agile little thing, aren't you.",
         "tutbasic9": "Now, let's go over holding things.",
         "tutbasic10": "Item interactions are done with [RIGHT CLICK]. Click on yourself to see your inventory, click away to close.",
-        "tutbasic11": "Here's something for you to play with. [RIGHT CLICK] and drag it onto yourself, then a slot to pick it up.",
+        "tutbasic11": "Here's something for you to play with. [RIGHT CLICK] and drag it onto yourself, then a slot to pick it up. You can hold [CONTROL] to see item labels, making it easier to locate them.",
         "tutbasic12": "Neat. You can also use the item from the inventory. Drag it into the center to use it and continue.",
         "tutbasic13": "Tastes amazing, doesn't it? You should eat the entire thing now.",
         "tutbasic13fail": "I wanted you to pick it up, not eat it... Gosh, the entire thing? All at once..?",
@@ -4444,7 +4449,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Humans do strange things. You should never trust them to be nice.\nBut you can trust them to keep you alive.<>\nI broke my arm once, and they put it in a “cast.” I did not like it. It was heavy and stopped my arm from moving at all. It seemed they made it worse on purpose, and they made me wear it for a long time.<>\nThey removed it one day, and my arm was fine.<>\nThe humans made it worse, so it could get better.<>\n\nI think they did something similar to Jumper's head.\nJumper used to scream and cry a lot. One time they hurt themselves, and the humans took them away.<>\nJumper is back now. They don't cry anymore. They don't talk. They look sleepy all the time. Their head is like my arm used to be. I can't see any “casts” around it, and their behavior worries me, but at least they don't hurt themselves anymore. I hope the humans undo whatever they did once Jumper's head is fixed.<>\n\nI miss them.",
+                "Item1": "Humans do strange things. You should never trust them to be nice.\nBut you can trust them to keep you alive.<>\nI broke my arm once, and they put it in a \"cast.\" I did not like it. It was heavy and stopped my arm from moving at all. It seemed they made it worse on purpose, and they made me wear it for a long time.<>\nThey removed it one day, and my arm was fine.<>\nThe humans made it worse, so it could get better.<>\n\nI think they did something similar to Jumper's head.\nJumper used to scream and cry a lot. One time they hurt themselves, and the humans took them away.<>\nJumper is back now. They don't cry anymore. They don't talk. They look sleepy all the time. Their head is like my arm used to be. I can't see any \"casts\" around it, and their behavior worries me, but at least they don't hurt themselves anymore. I hope the humans undo whatever they did once Jumper's head is fixed.<>\n\nI miss them.",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -4767,11 +4772,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"Experiment\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparitively quick onset of cancer renders them neigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine characteristics, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Stiders\".\n\n[PAGE 1 OF 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"Experiment\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparitively quick onset of cancer renders them nigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine characteristics, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Stiders\".\n\n[PAGE 1 OF 2]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and neigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and nigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
             "Item2": ""
         },
         {
@@ -4791,7 +4796,7 @@
             "Item2": ""
         },
         {
-            "Item1": "(The PDA is damaged; the screen is cracked, and some electronics are exposed. With some work, you can get it running.)\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Mechanical Engineer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nI don't like this one bit. Our main task for this quarter was to develo <corrupt:0xFFF0CE> So why are we back here again. I had already planned a week's vacation with some friends and had to cancel those plans because some m <corrupt:0xFFFFFF> o wait? This current task is also sketchy as hell. I'd understand expanding our new neural platform for betterment of patients, but \"p <corrupt:0xFF0BEA> o is this for? Convicts? I mean our government, even our company wouldn't put this into a civilian package right? Maybe it's for the army? So they can give basic orders directly to soldiers and make sure that people don't leak restricted informations? Even tha <corrupt:0xFBC00F> Anyway looks like we have to find a way of allowing for better information transfer while using our base battery. Actually scratch that, They wanted this addon to be used for control with a lethal failsafe, right? Then we ca <corrupt:0xFFFFFF> s way we'll have two power sources with the ability to destabilize one of them by overcharging. I'll draw something up, let me know whe\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(You hear a “bzzzz” sound and can see faint smoke rising from the device.)",
+            "Item1": "(The PDA is damaged; the screen is cracked, and some electronics are exposed. With some work, you can get it running.)\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Mechanical Engineer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nI don't like this one bit. Our main task for this quarter was to develo <corrupt:0xFFF0CE> So why are we back here again. I had already planned a week's vacation with some friends and had to cancel those plans because some m <corrupt:0xFFFFFF> o wait? This current task is also sketchy as hell. I'd understand expanding our new neural platform for betterment of patients, but \"p <corrupt:0xFF0BEA> o is this for? Convicts? I mean our government, even our company wouldn't put this into a civilian package right? Maybe it's for the army? So they can give basic orders directly to soldiers and make sure that people don't leak restricted informations? Even tha <corrupt:0xFBC00F> Anyway looks like we have to find a way of allowing for better information transfer while using our base battery. Actually scratch that, They wanted this addon to be used for control with a lethal failsafe, right? Then we ca <corrupt:0xFFFFFF> s way we'll have two power sources with the ability to destabilize one of them by overcharging. I'll draw something up, let me know whe\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(You hear a \"bzzzz\" sound and can see faint smoke rising from the device.)",
             "Item2": ""
         },
         {
