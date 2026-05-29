@@ -1519,9 +1519,9 @@
         "gamesetfullscreen": "Layar penuh",
         "gamesetfullscreendsc": "Beralih antara mode jendela dan tanpa bingkai",
         "gamesetvsync": "V-sync",
-        "gamesetvsyncdsc": "Toggle vertical synchronization, which reduces screen tearing at the cost of input lag. Overrides the max framerate setting if on",
-        "gamesetframerate": "Max framerate",
-        "gamesetframeratedsc": "If above 0, sets how fast the game is allowed to run. A value of 0 means unlimited. Overriden if V-Sync is on",
+        "gamesetvsyncdsc": "Ubah mode sinkronisasi vertikal, yang mengurangi tampilan robek dengan ganti latensi masukan lebih tinggi. Mengesampingkan aturan laju bingkai jika dinyalakan",
+        "gamesetframerate": "Laju bingkai maksimal",
+        "gamesetframeratedsc": "Jika diatas 0, mengatur seberapa cepat game bisa dijalankan. Nilai 0 berarti tak terbatas. Akan dikesampingkan jika Sinkronisasi Vertikal diaktifkan",
         "gamesetpixelate": "Tampilan berpiksel",
         "gamesetpixelatedsc": "Beralih antara mode tampilan yang dikecilkan skalanya dengan mode render resolusi penuh. Ingat bahwa mematkan mode tapilan yang diperkecil skalanya mengorbakan sebagian dari gaya game yang diperuntuhkan.",
         "gamesetbloom": "Pendar",
@@ -1544,7 +1544,7 @@
         "gamesetinventoryuseleniencydsc": "Seberapa lama kamu harus menunggu setelah membuka inventaris sebelum kamu bisa menggunakan barang. Nilai yang lebih rendah membolehkan dirimu untuk menggunakan barang lebih awal",
         "gamesetskipintro": "Lewati prakata",
         "gamesetskipintrodsc": "Karena kamu sudah melihat teks prakata terlalu banyak kali...",
-        "gamesetrpc": "Rich presence",
+        "gamesetrpc": "Status aktifitas",
         "gamesetrpcdsc": "Atur mode Discord Rich Presence untuk game yang ditampilkan di profilmu",
         "gamesetmastervolume": "Volume utama",
         "gamesetmastervolumedsc": "",
@@ -1811,7 +1811,7 @@
         "settings": "Pengaturan",
         "custommusic": "Musik kustom",
         "custommusicdsc": "Buka direktori musik kustom.\nKamu bisa meletakkan file .mp3/.ogg/.wav di sana agar muncul sebagai pilihan saat menggunakan pemutar MP3.\nJenis file lain tidak didukung.",
-        "credits": "Credits",
+        "credits": "Kredit",
         "layer": "Lapisan",
         "toggleheatmode": "Ubah mode pemanasan",
         "activateshower": "Nyalakan kuncuran",
@@ -1883,7 +1883,7 @@
         "traderpurchase": "Beli barang",
         "tradingblocked": "Dibeli terlalu dini",
         "theirinventory": "Inventaris dia",
-        "yourinventory": "Inventarismu",
+        "yourinventory": "Inventaris kamu",
         "haggle": "Tawar",
         "haggledsc": "Cobalah untuk menegosiasikan harga yang lebih rendah. Bisa jadi pedagang akan marah jika dilakukan dengan salah.\nMemberikan pengalaman INT jika kamu berhasil.",
         "haggledune": "Gigitan bersahaja",
@@ -1951,7 +1951,7 @@
         "tutbasic7": "Coba mencapai ke Perangkat Tangan Latihan.",
         "tutbasic8": "Lincah sekali ya kamu.",
         "tutbasic9": "Selanjutnya, kita belajar memegang benda.",
-        "tutbasic10": "[RIGHT CLICK] untuk interaksi barang. Klik dirimu untuk melihat inventarismu, klik di luar untuk menutup.",
+        "tutbasic10": "[KLIK KANAN] untuk interaksi barang. Klik dirimu untuk melihat inventarismu, klik di luar untuk menutup.",
         "tutbasic11": "Ini sesuatu untuk kamu mainin. [RIGHT CLICK] dan tarik ke dirimu, lalu tarik ke salah satu slot invetarismu. Tahan [CONTROL] untuk melihat label benda, biar lebih mudah melihatnya.",
         "tutbasic12": "Bagus. Kamu juga bisa gunakan benda dari inventaris. Tarik benda ke tengah lingkaran.",
         "tutbasic13": "Luar biasa gak rasanya? Silakan habiskan makanannya.",
@@ -2760,16 +2760,16 @@
             ],
             "depressed": [
                 "Aku udah gak kuat lagi.",
-                "...Kenapa aku mencoba?",
+                "...Kenapa ku terusin mencoba?",
                 "Mending... aku... nyerah...",
                 "Aku gak bisa sanggup kayak begini.",
-                "Haruskah... aku mencoba?",
+                "Haruskah aku... terus mencoba?",
                 "Ini nggak ada gunanya.",
-                "Mohon... apapun biar aku merasa lebih baik...",
+                "Kumohon... apapun biar aku merasa lebih baik...",
                 "Adakah yang bisa meringan deritaanku? Apapun?",
                 "Aku cuma pengen ini berhenti.",
                 "Ini hidupku sekarang... Mantep.",
-                "Aku terlalu payah untuk ini...",
+                "Aku terlalu menyedihkan untuk ini...",
                 "Tempat ini bakal ngehancurin aku.",
                 "Aku gak sanggup menyelesain ini.",
                 "Apa yang harus ku lakuin...",
@@ -2779,29 +2779,29 @@
                 "Aku gak bisa begini... lebih lama lagi.",
                 "Aku butuh sesuatu untuk melupain ini.",
                 "Aku merasa. Pasrah.",
-                "Kenapa mereka melakukan ini kepada ku?",
+                "Kenapa mereka ngelakuin ini pada ku?",
                 "Kenapa aku masih disini, hanya untuk menderita?...",
                 "Andai aku bisa... lebih memahami ini.",
-                "Aku harus melupain ini.",
+                "Aku harus nyibukkan diriku.",
                 "...Gak....baik....",
-                "Aku bener-bener merasa pasrah.",
+                "Aku bener-bener merasa buruk.",
                 "SIALAN ini!",
                 "Aku pengen nangis...",
                 "Coookk...",
-                "Aku bisa kok rebahan terus mati di tempat.",
+                "Aku bisa aja terbaring sampe mati di sini.",
                 "Aku kesusahan banget...",
                 "Aku... sendirian BANGET disini...",
-                "Gua akan bunuh si bajingan yang naruh gua disini.",
-                "Gua mulai menjadi gila.",
-                "Aku mau banting kepalaku ke dinding.",
-                "Gua bakal ngerobek mata gua sendiri.",
+                "Bakalku bunuh si bajingan yang naruh gua disini.",
+                "Gua bakal mulai ngamuk gila anjing.",
+                "Mau ku banting palaku sama dinding.",
+                "Mau gua robek mata gua keluar anjing.",
                 "Aku mulai pengen ngelukain diriku sendiri.",
                 "Ah... Ahh gawat.",
-                "Tamatlah riwayatku.",
-                "Sial... SIALAN!!! NGAPAIN gua DISINI sih???",
-                "Aku do'a kematianku akan cepat bila datang.",
-                "Aku bener-bener mulai ingin merencanain kematianku.",
-                "Jangan maksain gua, betapa kecil pun.",
+                "...",
+                "Sial... SIALAN!!! Ngapain gua DISINI ANJING???",
+                "Akan ku do'akan ajalku kan tiba dengan cepat saat tiba waktunya.",
+                "Aku mulai pengen ngepertimbangin ngakhirin hidupku.",
+                "Jangan maksain gua lagi anjing.",
                 "Aku gak... Gak mau mati disini...",
                 "Siapapun... Mohon... Tolong bantu aku...",
                 "TOLOOONG!!! SIAPAPUN!? MOHON!!!...",
@@ -2809,7 +2809,7 @@
                 "Ini semua bener-bener ngecewain.",
                 "Dunia ini membenci aku.",
                 "aaAAHH!!",
-                "Ahahahah..."
+                "Wkwkwkwk..."
             ],
             "miserable": [
                 "Gua ingin akhirin hidup gua.",
@@ -2892,35 +2892,35 @@
                 "AGH! Benda BODOH! Grhh..."
             ],
             "suicide": [
-                "Sampai jumpa. Sampai JUMPA ANJING. Gua udah SELESAI!!! SIALAN SEMUA INI!",
-                "Gua nyerah. Sialan ini, sialan gua dan sialan LO.",
+                "Sampai jumpa. Sampai JUMPA ANJING. Gua udah SELESAI!!! PERSETANLAH KALIAN INI!",
+                "Gua nyerah. Sialan ini, sialan gua dan SIALAN lu.",
                 "Gua udah bilang. Gua udah BILANG, bego. Gua NYERAH!",
-                "Gua meninggalin dunia keparat ini selamanya.",
-                "Sampai jumpa. Sialan ini semua. Gua mau keluar. Bakal masuk neraka karena ini.",
-                "Gua udah MUAK ama semua ini. Gua udah SELESAI! BERENGSEK LO!!!",
-                "Akhir jalan, berengsek. Akhir tujuan gua. GUA CABUT!!!",
+                "Gua tinggalin dunia keparat ini selamanya.",
+                "Sampai jumpa. Bai. Sialan ini. Aku dah kelar anjing. biarin dah kalo masuk neraka.",
+                "Gua udah MUAK ama semua ini. Gua udah SELESAI! PERSETANLAH ANJING!!!",
+                "Akhir perjalanan, anjing. Akhir tujuan gua. GUA CABUT!!!",
                 "Itu udah cukup... Da-da... Maaf untuk ini... Semoga ada akhirat untuk aku...",
                 "Ini akhir hidupku. Semoga mayatku jadi berguna buat siapapun yang nemuin. Aku udah nggak sanggup. Maaf.",
                 "Ini gak ada gunanya lagi. Dari awal emang KAGAK ada. Gua akhirin ini semua. Mampus gua... Sialan ini SEMUA.",
-                "Kalo nusukin tangan gua gak ngebunuh gua, gua bakal ngecongkel mata gua sendiri, supaya gua gak ngeliat dunia kejam ini selamanya.",
-                "Aku gak tau apa yang bakal terjadi setelah ini, tapi akhirnya aku bisa istirahat... Santai sekarang... Gak perlu ber-emosi lagi.",
+                "Kalo ngerobek pergelanganku gak bakal ngebunuhku, gua bakal ngecongkel mata gua keluar cok, biar gua gak perlu ngelihatin dunia kejam ini lagi.",
+                "Aku gak tau apa yang bakal terjadi setelah ini, tapi akhirnya aku bisa istirahat... Santai sekarang... Gak perlu berperasaan lagi...",
                 "AHHH! PERSETAN INI! SEMUA INI! GUA DAH KUAT LAGI! KELUARIN GUA DARI SINI! GUA CAPEK!",
                 "Udah cukup. Gua udah MUAK, anjing. Akhirnya gua lakuin ini... Sampe jumpa. Gua NYERAH.",
                 "Aku telah mengambil keputusan sadar untuk mencabut nyawaku sendiri, disini dan sekarang. Sampai jumpa, bajingan.",
-                "Udah gua bilang. DAH GUA BILANGIN. Jancok... Sialan... Bakar di api neraka, anjing.",
-                "Gue lebih bagus sebagai mayat membusuk. Hidup gue berakhir saat gue dikirim ke sini. Selamat tinggal.",
+                "Udah gua bilang. DAH GUA BILANGIN. Jancok... Sialan... Terbakar api neraka, anjing.",
+                "Emang lebih baik kalo jadi mayat membusuk. Hidupku berakhir sesampainya gua disini. Selamat tinggal.",
                 "Persetan SEMUA INI! GUA SELESAI! AAAGHHH! BERENGSEK INI SEMUA!",
                 "Aku. Aku udah... nyerah. Tiada waktu buat surat bunuh diri. Aku capek dari semua ini. Sampai jumpa.",
-                "Gak... Nggak ada dendam, kan?.. hah... Aku... Aku capek banget... Selamat... malam...",
+                "Gak... Nggak ada dendam... kan?.. hah... Aku... Aku capek banget... S-selamat... malam...",
                 "Gua gak mau lanjut. Gua gak mau. Tamat riwayat gua. Dah. Sialan ini.",
-                "Dari awal gak ada harapan. SIALAN. Ini. Gua KELUAR! BIARIN GUA SENDIRI! GUA GAK AKAN BIARIN TEMPAT INI NGAMBIL NYAWA GUA!",
+                "Dari awal udah gak ada harapan. SIALAN. Ini. Gua PERGI! BIARIN GUA SENDIRI! AKU GAK BAKAL NGEBIARIN INI TEMPAT NGERENGGUT NYAWAKU!",
                 "Liiiiihat itu... Hahahah... Aku akan pamit dari alam semesta ini... Ninggalin dunia berengsek ini... Ini... Melegakan...",
-                "Gitu... Begitulah... Ku pengen nikmatin waktu terakhirku... Santai dan... Tidur... Satu kali lagi...",
-                "Semoga lo seneng dengan apa yang lo lakuin. Bajingan. Bangsat lo. ANJING GOBLOK. Masuk neraka.",
-                "Tanganku menyucur darah... Semua ini bakal berakhir nanti... Hahah...",
+                "Gitu... Begitulah... Ku pengen nikmatin waktu terakhirku... Santai dan... Terlelap... Untuk terakhir kalinya...",
+                "Semoga lo seneng dengan apa yang lo lakuin. Bajingan. Bangsat lo. ANJING GOBLOK. Masuk neraka sana.",
+                "Tanganku menyucur darah... Semua ini bakal berakhir nanti... Wkwk...",
                 "Bangsat lo. BANGSAT lo. Gua selesai. GUA SELESAI, ANJING!",
                 "Gua PERGI dari tempat ini, meskipun gua bisa atau NGGAK. SIALAN LO.",
-                "SIALAN ini. Usai SUDAH. Ke neraka hidupku.",
+                "SIALAN ini. Usai SUDAH. Ke neraka sama hidupku.",
                 "Persetan ama ini. Gua muak. Bangsat. Gua udah cukup. Gua udah cukup. Gua udah cukup. Gua udah cukup.",
                 "Tai ledik... Gua udah usai... Sial...",
                 "Aku pamit. Semoga aku gak ke nereka karena ini.",
@@ -3898,41 +3898,41 @@
                 "...A-ah... Baiklah... Y-ya... S-sampai jumpa, k-kalau gitu..."
             ],
             "vomitresponse": [
-                "Uuuhmm... You good..?"
+                "Uuuhmm... Kamu baik-baik saja..?"
             ],
             "vomitbloodresponse": [
-                "Ack! Did you just... Oh... Hey, you know you just... Threw up blood, right?"
+                "Ahh! Tadi kamukan...Oh... Hei, taukan kamu baru aja... Muntah darahkan, kan?"
             ],
             "hungryresponse": [
-                "There's a bunch of food out there, you know...",
-                "Well, I could give you food in exchange for something..?"
+                "Ada banyak makanan diluar sana, tau kan...",
+                "Ya, Bisa ku berikan kamu makanan sebagai ganti buat sesuatu..?"
             ],
             "thirstyresponse": [
-                "I'd wager you can find some water out...",
-                "Last I heard you can only go for three \"days\" without water, haha..."
+                "Bisa ku taruhkan kalo lu bisa ketemu air diluar...",
+                "Terakhir ku dengan kamu bisa bertahan tiga \"hari\" tanpa air, wkwk..."
             ],
             "sadresponse": [
-                "Hey, it's okay... You're still alive and kicking, right..."
+                "Hei, gak papa... Kamukan masih hidup dan bernafas, kan..."
             ],
             "depressedresponse": [
-                "...Calm down, please... It'll be fine..."
+                "...Tenanglah, aku mohon... Semua kan baik-baik saja..."
             ],
             "selfharmresponse": [
-                "...W-why... Did you..."
+                "...K-kenapa... Kamu tadi..."
             ],
             "braindamagedresponse": [
-                "...You don't sound... Very well.",
-                "...What?"
+                "...Kamu gak kedengaran... Baik-baik saja.",
+                "...Apa?"
             ],
             "hotresponse": [
-                "Turn the heat down, then."
+                "Kecilin suhunya, kalo gitu."
             ],
             "coldresponse": [
-                "You know, we do have a heater here..."
+                "Kau tau, kita punya pemanas disini..."
             ],
             "bleedingresponse": [
-                "It... Does look bad... But, I... I'm sure you can fix it...",
-                "H-hey, calm down. You'll be okay."
+                "Itu... Kelihatan buruk... Tapi, aku... Aku yakin kalau kamu bisa ngeperbaikinnya...",
+                "H-hei, tenang saja. kamu akan baik-baik saja."
             ]
         },
         {
