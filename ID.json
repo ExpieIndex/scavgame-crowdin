@@ -3937,156 +3937,156 @@
         },
         {
             "tradermeetnormal": [
-                "Greetings.",
+                "Salam.",
                 "Halo.",
-                "My pleasure to meet you.",
-                "Ah! Hello there!",
-                "Welcome, fellow traveler.",
-                "Greetings to you.",
+                "Senang bertemu dengan Anda.",
+                "Ah! Halo disana!",
+                "Selamat datang, pengembara.",
+                "Salam kepada dirimu.",
                 "Selamat datang.",
                 "Senang bertemu dengan mu!",
-                "I hope all is well."
+                "Saya berharap semua baik-baik saja."
             ],
             "tradermeetgood": [
-                "I'm honored to see another survivor.",
-                "Oh! Hello! How are you doing, friend?",
-                "Greetings, dear. How are you doing?",
-                "Ah! Greetings. You look very chipper!",
-                "Ah, how happy I am to see someone like you!"
+                "Saya merasa terhormat untuk bertemu penyitas lainnya.",
+                "Oh! Halo! Bagaimana kabarmu, kawan?",
+                "Salam. Apa kabar?",
+                "Ah! Salam. Anda terlihat sangat ceria!",
+                "Ah, betapa senangnya hati saya bisa bertemu seorang seperti dirimu!"
             ],
             "tradermeetbad": [
-                "...I am not impressed.",
+                "...Aku tidak terkesan.",
                 "Aduh. Halo...",
-                "...You confound me. Greetings.",
-                "...Hello.",
-                "Greetings. Please refrain from touching me.",
-                "Hello, fellow survivor.",
-                "Greetings. Please use the door next time.",
-                "Welcome.",
-                "Greetings."
+                "...Kamu membingungkan diriku. Salam.",
+                "...Halo.",
+                "Salam. Tolong tetap menjauh dari diri saya.",
+                "Halo, sesama penyitas.",
+                "Salam. Tolong gunakan pintu lain waktu.",
+                "Selamat datang.",
+                "Salam."
             ],
             "traderwakegreet": [
-                "Good morning.",
-                "Hey, you're finally awake.",
-                "Greetings, you've awoken.",
-                "Guess who's awake!",
-                "Sleepyhead. Welcome back!",
-                "You were sleeping like a puppy, haha..."
+                "Selamat pagi.",
+                "Hai, akhirnya kamu bangun.",
+                "Salam, Anda sudah bangun.",
+                "Tebak siapa yang baru bangun!",
+                "Tukang tidur. Halo lagi!",
+                "Aku tidur seperti anak anjing kecil, haha..."
             ],
             "tradergiveitem": [
                 "Makasih.",
-                "That'll come in useful.",
-                "Thank you for the contribution.",
-                "I'm taking this.",
-                "Useful.",
-                "My pleasure.",
-                "I'll make good use of this."
+                "Ini akan berguna.",
+                "Terima kasih dengan pemberiannya.",
+                "Akan saya bawa.",
+                "Berguna.",
+                "Dengan senang hati.",
+                "Akan saya gunakan dengan sebaik-baiknya."
             ],
             "tradergiveitemrefuse": [
-                "This is enough for now. I have no more space for these trinkets.",
-                "You may stop gifting me things, I'd prefer not giving out everything else on me."
+                "Ini sudah cukup untuk sekarang. Saya sudah kehabisan tempat untuk barang-barang ini.",
+                "Anda saya persilahkan untuk berhenti memberi, Saya lebih memilih untuk tidak memberikan semua yang saya miliki."
             ],
             "traderhagglesuccess": [
                 "Baik.",
-                "I will make an exception for you.",
-                "Ah, you seem nice.",
+                "Akan aku beri pengeculaian untuk kamu.",
+                "Ah, Anda nampak baik.",
                 "Kau pintar.",
-                "I accept your request.",
-                "I hear you, buddy. Sure.",
-                "I have to agree.",
-                "Affirmative..."
+                "Akan saya terima permintaan dirimu.",
+                "Saya mengerti. Tentu.",
+                "Saya setuju.",
+                "Dipahami..."
             ],
             "traderhagglefail": [
                 "Bagaimana kalau enggak?",
-                "I'm not a damn charity.",
-                "I only accept facts and logic, not uncoordinated pleas.",
-                "No.",
-                "That was the worst argument I've ever heard.",
-                "I have to deny your appeal.",
-                "Negative.",
-                "No exceptions, sorry."
+                "Aku bukan badan amal.",
+                "Saya hanya menerima fakta dan logika, bukan permohonan tidak jelas.",
+                "Tidak.",
+                "Itu adalah argumen terburuk yang saya pernah dengar.",
+                "Saya harus menolak permintaanmu.",
+                "Ditolak.",
+                "Tidak ada pengecualian. maafkan saya."
             ],
             "traderbuy": [
-                "No refunds.",
-                "Here you are.",
+                "Tidak ada pengembalian.",
+                "Ini dia.",
                 "Jangan di rusak.",
-                "Good luck with this.",
-                "I hope you know how to use this.",
-                "Hope it'll be useful.",
-                "Here's your reward."
+                "Semoga Anda beruntung dengan ini.",
+                "Semoga Anda tahu bagaimana cara menggunakan ini.",
+                "Semoga ini akan bermanfaat.",
+                "Ini balas budiku."
             ],
             "traderbuyfail": [
-                "No.",
-                "I'm not a charity.",
-                "I don't give out things for free.",
-                "Pay up first.",
-                "I'm not giving you anything without an appropriate return.",
-                "Do I look like a charity to you?",
-                "You're joking.",
-                "How insulting."
+                "Tidak.",
+                "Aku bukan badan amal.",
+                "Saya tidak memberikan apapun dengan percuma.",
+                "Bayar dulu.",
+                "Saya tidak akan memberikan apapun tanpa timbal balik yang setara.",
+                "Apakah ahu terlihat seperti badan amal untukmu?",
+                "Kamu bercanda.",
+                "Betapa mengejek."
             ],
             "traderbuyfailmaxvalue": [
-                "Enough trading for today. You've bought out a lot already.",
-                "I don't wish to thoroughly swap our possessions. Let's call it a day."
+                "Sudah cukup untuk hari ini. Kamu sudah beli banyak sekali.",
+                "Saya tidak mengharapkan untuk menukar seluruh kepemilikan kita. Mari kita sudahi untuk sekarang."
             ],
             "traderthreatensuccess": [
-                "It is not in my interests to get hurt. Take whatever and leave.",
-                "Fine. Take your pick and please exit my pod.",
-                "I hope misfortune awaits you. Fine. Take it and leave.",
-                "You are a horrible person, you know that?",
-                "So this is how you solve issues. Mhm. Fine.",
-                "Did it really have to come to this? You know better... Ugh. Fine.",
-                "A robbery was not something present on my bucket list. But, fine. Just don't hurt me."
+                "Bukan niat saya untuk sampai terluka. Ambil apapun dan pergilah.",
+                "Sudah. Ambil yang kamu inginkan dan tolong keluar dari kapsulku.",
+                "Saya harapkan akan ada malapetaka bagimu. Ya sudah. Ambilah dan pergi.",
+                "Dirimu adalah seorang yang buruk, kamu tahu itu?",
+                "Jadi beginikah caramu menyelesaikan masalah. Mhm. Ya sudah.",
+                "Apakah harus menjadi seperti ini? Kamu tahu yang lebih baik... Ugh. Ya sudah.",
+                "Perampokan bukanlah hal yang aku rencanakan. Tapi, silahkan. Jangan lukai diriku."
             ],
             "traderwarning": [
-                "Leave at once.",
-                "I do NOT appreciate your presence. Leave.",
+                "Keluar sekarang.",
+                "Saya TIDAK menghargai keberadaanmu. Keluar.",
                 "KELUAR.",
-                "Do you not think I'm serious? Out.",
+                "Kamu berpikir jika ini hanya bercanda? Keluar.",
                 "Keluar.",
                 "Tolong. Pergi.",
                 "Pergi.",
-                "I'm not dealing with you right now.",
-                "Please leave my pod in peace. I got here first."
+                "Saya tidak ingin berurusan dengan dirimu sekarang.",
+                "Keluar dari kapsulku dengan tenang. Saya sampai di sini duluan."
             ],
             "tradercombat": [
-                "I didn't want it to come to this.",
-                "Fucking imbecile.",
-                "Get the fuck out.",
-                "Oh, FUCK you!",
-                "GET OUT!",
-                "This is MY POD! OUT!",
-                "I'm NOT tolerating another moment of YOUR presence!"
+                "Aku tidak berharap untuk seperti ini.",
+                "Dungu keparat.",
+                "Keluar sialan.",
+                "Oh, BAJINGAN kau!",
+                "PERGI!",
+                "Ini KAPSULKU! PERGI!",
+                "Saya TIDAK mentoleransi kemeradaan DIRIMU lebih lagi!"
             ],
             "traderhugsuccess": [
-                "Ahh... I'll... I'll allow it.",
-                "How affectionate...",
-                "Awww. You really needed that...",
-                "Aww, what a nice person you are.",
+                "Ahh... Akan... Akan saya perbolehkan.",
+                "Betapa sayangnya dirimu...",
+                "Awww. Kamu sangat memerlukannya...",
+                "Aww sungguh seorang yang baik hati kamu ini.",
                 "Mmmhh...",
-                "What a display of affection..."
+                "Sebuah tindakan yang penuh kasih sayang..."
             ],
             "traderhugfail": [
                 "GAK BOLEH SENTUH!",
                 "Tahan.",
-                "Cease. Do not embrace me.",
+                "Menjauh. Jangan sentuh saya.",
                 "Gak. Berhenti. Jangan sentuh aku.",
-                "Ew! Get your hands off of me."
+                "Ew! Jauhkan tanganmu dariku."
             ],
             "traderseegun": [
-                "Before we talk, please remove that gun from your person. Anyway...",
-                "I hope this isn't a robbery. If not, put the gun away... Either way...",
-                "Get that gun away from me, this isn't an active shootout. Anyway...",
-                "Are you TRYING to make yourself a threat to me or do you just think the gun looks cool..?"
+                "Sebelum kita lanjut, tolong lepaskan senapanmu dari badanmu. Bagaimanapun...",
+                "Saya harap ini bukan perampokan. jika bukan, tolong letakan senapannya... Bagaimanapun juga...",
+                "Jauhkan senapan itu dari diri saya, ini bukan baku tembak aktif. Bagaimanapun...",
+                "Apakah kamu MENCOBA untuk membuat dirimu terlihat menakutkan di depan saya atau kamu hanya perpikir jika senapannya terlihat keren..?"
             ],
             "tradermeetimpairedspeech": [
                 "Ngomong apa sih..? Aku gak paham kamu.",
                 "Ucapan mu gak jelas. Hanya memberi tahu mu.",
-                "I can barely make out what you're saying to me."
+                "Aku hampir tidak bisa memahami apa yang kamu ucapkan ke saya."
             ],
             "traderseehurt": [
-                "You appear to be injured and bleeding... You can take a bandage if you wish.",
-                "Ew! Please don't bleed all over my floor. Grab a bandage and treat yourself if you see one, mine are free.",
+                "Anda sepertinya terluka dan berdarah... Anda bisa mengambil perban jika mau.",
+                "Ew! Tolong jangan berdarah diatas lantaiku. Ambil lah perban dan rawat dirimu jika ketemu, punya ku gratis.",
                 "Itu terlihat tidak bagus... Kamu boleh ambil perban gratis kalau kamu dapat menemukannya pada ku."
             ],
             "traderlightbreak": [
@@ -4097,47 +4097,47 @@
                 "Ngapain lu ngancurin kapsul aku! Keluar! PERGI!"
             ],
             "tradermove": [
-                "Okay."
+                "Baiklah."
             ],
             "tradermovefail": [
                 "Ngapain aku perlu pindah demi orang kayak mu?"
             ],
             "vomitresponse": [
-                "You appear to have returned your stomach contents."
+                "Anda nampaknya telah mengeluarkan isi perutmu."
             ],
             "vomitbloodresponse": [
-                "...It appears you are bleeding internally. Please direct your mouth away from me for the forseeable future."
+                "...Nampaknya dirimu sedang mengalami pendarahan internal. Tolong jauhkan mulutmu dari saya sampai masa yang mendatang."
             ],
             "hungryresponse": [
-                "If you imagine me to satiate your hunger without payment, you would be sorely mistaken.",
-                "I'm not a charity. Find some food, or exhange something with me."
+                "Jika Anda berharap saya bisa melegakan laparmu tanpa pembayaran, maka Anda akan salah kaprah.",
+                "Saya bukan badan amal. Carilah makanan, atau tukar sesuatu dengan saya."
             ],
             "thirstyresponse": [
-                "Many pools of drinkable water permeate this place. Make use of them.",
-                "Find thine source of water elsewhere."
+                "Banyak kolam air yang bisa diminum merembes disini. Gunakan mereka.",
+                "Carilah sumber air di tempat lain."
             ],
             "sadresponse": [
-                "Please, cease your wailings."
+                "Tolong, sudahilah kesedihanmu."
             ],
             "depressedresponse": [
-                "Spiraling into desparity will not solve any of your problems."
+                "Terjun kedalam kepasrahan tidak akan menyelesaikan masalahmu."
             ],
             "selfharmresponse": [
-                "...You really are ill. Stop this."
+                "...kamu benar-benar gila. Hentikan ini."
             ],
             "braindamagedresponse": [
-                "You are entirely incoherent.",
-                "I'd wager you have a concussion."
+                "Anda sepenuhnya tidak bisa dipahami.",
+                "Bisa saya taruhkan jika dirimu mengalami gegar otak."
             ],
             "hotresponse": [
-                "I may let you use this lifepod's cooler if you behave."
+                "Akan saya bolehkan dirimu menggunakan pendingin kapsul penyelamat ini jika dirimu bisa bersikap."
             ],
             "coldresponse": [
-                "Exercise. You will warm up in the blink of an eye."
+                "Berolahragalah. Kamu akan hangat dalam sekejap mata."
             ],
             "bleedingresponse": [
-                "Please don't bleed all over me.",
-                "I implore you to take care of your wounds."
+                "Tolong jangan berdarah sampai ke diriku.",
+                "Harus saya ingatkan Anda untuk merawat lukamu."
             ]
         },
         {
@@ -4186,29 +4186,29 @@
                 "Tidak lagi ambil!",
                 "Ini cu-kup...",
                 "Te-man.. Tidak.. Paham.. Cu-kup...",
-                "Dune n-ot... Take mo-re!",
-                "No! Dune ha-ve eno-ugh..."
+                "Dune t-tidak... Ambil la-gi!",
+                "Tidak! Dune cu-kup punya..."
             ],
             "traderbite": [
-                "Good... Enjoy tast-e. Like fri-end more!",
-                "Yes... Than-k for... Du-ne din-ner...",
-                "Hmmhhm... Than-k... Good tas-te... Grab any-thing..!",
-                "Eat good... Fri-end good...",
-                "Dune lo-ves fri-end taste...",
-                "Go-od fri-end... Ate we-ll..."
+                "Bagus... Suka ras-a. Suka te-man lagi!",
+                "Iya... Terim-a Ka-sih untuk... Makan-an Du-ne...",
+                "Hmmhhm... Terim-a ka-sih... Ra-sa bagus... Ambil lah se-mua..!",
+                "Makan bagus... Te-man bagus...",
+                "Dune cin-ta rasa te-man...",
+                "Te-man ba-gus... Makan ba-nyak..."
             ],
             "traderbuy": [
-                "Have thing. Friend des-erve!",
-                "Take thi-ng! As rew-ard...",
-                "Dune gi-ve back gif-t! Fri-end have...",
-                "Du-ne give...",
-                "Dune... Pa-y ba-ck...",
-                "Fri-end give... Once... Dune give too...",
-                "You... Ta-ke thing! Fri-end good..."
+                "Punya lah barang. Teman bol-eh!",
+                "Ambil lah ba-rang! untuk hadi-ah...",
+                "Dune be-ri hadia-h! Te-man punya...",
+                "Du-be beri...",
+                "Dune... Bay-ar bal-ik...",
+                "Te-man beri... Sekali... Dune beri juga...",
+                "Kamu... Am-bil barang! Te-man bagus..."
             ],
             "traderbuyfail": [
-                "Grrrr!",
-                "No! Ggrhhr...",
+                "Grrr!",
+                "Tidak! Ggrhhr...",
                 "No! Gi-ve own!",
                 "Grrrr... Dune need thi-ng too!",
                 "Du-ne not gif-t... Giv-e now!... Grrrr...",
@@ -4275,73 +4275,73 @@
                 "Why fri-end ho-ld... thing of pain?...",
                 "Dune... Fear in-st-ant... Hurt thing...",
                 "Why fri-end ho-ld... Click-boom... Dune... Dislike...",
-                "Dune fear... Fee-mee-jee?... Pain... Not get...",
-                "Un-fair fi-ghter... Dune... Dislike... Gu-n..."
+                "Dune takut... Sem-nam-pang?... Sakit... Tidak ambil...",
+                "La-wan tidak a-dil... Dune... tidak suka... senap-an..."
             ],
             "tradermeetimpairedspeech": [
-                "Dune not under-stand... Word bet-ter! Fri-end word bad...",
-                "What is fri-end say..? Voice is muf-fle...",
-                "Dune word ba-d... Fri-end word bad... Bad bad!...",
-                "Du-ne hard talk... Fri-end talk... ba-d...",
-                "Dune no-t unde-r-stand... You...",
-                "Du-ne tro-uble hear fri-end!"
+                "Dune tidak pa-ham... Kata bagus-an! Te-man kata buruk...",
+                "Apa te-man bilang..? Suara tertu-tup...",
+                "Dune kata bur-uk... Te-man kata buruk... buruk buruk!...",
+                "Du-ne kata sulit... Te-man kata... bu-ruk...",
+                "Dune tid-ak pa-ham... kamu...",
+                "Du-ne su-lit dengar te-man!"
             ],
             "traderseehurt": [
-                "Fri-end hurt... Ngghhgrr... Take fix thin-g... Free...",
-                "Why hurt?.. Dune can... gi-ve li-fe thing... Free...",
-                "Fri-end i-nj-ure... Dune give thing-help... Free...",
-                "Th-is fri-end bo-dy bad... Dune ca-n gift fix...",
-                "Fri-end feel pain... Dune gift help..."
+                "Te-man sakit... Ngghhgrr... Ambil bend-a obat-i... Gratis...",
+                "Kenapa sakit?.. Dune bisa... be-ri benda sela-mat... Gratis...",
+                "Te-man Terl-u-ka... Dune beri bantu benda... Gratis...",
+                "Tu-buh te-man in-i buruk... Dune ber-i hadiah obati...",
+                "Te-man me-rasa sakit... Dune hadi-ah bantu..."
             ],
             "traderlightbreak": [
-                "NNGGHHRR! Why fri-end steal! Go away! GGrrhhhhhh... BAD..!",
-                "GRRR! EVIL! GE-T OUT!",
-                "BAD! Grrrr... Fri-end bad... Bad! Lea-ve!",
-                "Dune NOT SEE! BAD FRI-END! GO AWAY... AW-AY!",
-                "Fri-end steal! Not fri-end..."
+                "NNGGHHRR! Kenapa te-man curi! Pergi! GGrrhhhhhh... BURUK..!",
+                "GRRR! JAHAT! KE-LUAR!",
+                "BURUK! Grrrrr... Te-man buruk... Buruk! Kelu-ar!",
+                "Dune TIDAK ME-LIHAT! TE-MAN BURUK! PERGI... PERG-I!",
+                "Te-man curi! Tidak Te-man..."
             ],
             "tradermove": [
-                "Du-ne... Mo-ve..."
+                "Du-ne... Pin-dah..."
             ],
             "tradermovefail": [
-                "Du-ne like cur-rent spot..."
+                "Du-ne suka tempat i-ni..."
             ],
             "vomitresponse": [
-                "Fri-end... Throw... Up... Feel si-ck?"
+                "Te-man... Muntah... Me-rasa sa-kit?"
             ],
             "vomitbloodresponse": [
-                "Du-ne... Smell blo-od... From... Fri-end... Tas-ty..?"
+                "Du-ne... Bau dar-ah... Dari... Te-man... En-ak..?"
             ],
             "hungryresponse": [
-                "Du-ne understand... Dune hung-ry too!",
-                "Agree... Du-ne need fo-od too!"
+                "Du-ne paham... Dune lap-ar juga!",
+                "Sama... Du-ne butuh makan-an juga!"
             ],
             "thirstyresponse": [
-                "Du-ne drink puddle... Feel bet-ter... Friend try?",
-                "Mm-m... Slu-rp time?"
+                "Du-ne minum genang-an... Me-rasa ba-gus... Teman coba?",
+                "Mm-m...Waktu mi-num?"
             ],
             "sadresponse": [
-                "Fri-end feel bad..? Why?"
+                "Te-man me-rasa buruk..? Kenapa?"
             ],
             "depressedresponse": [
-                "Fri-end look very bad... Co-me sit with du-ne!"
+                "Te-man ter-lihat sangat buruk... Da-tang duduk dengan du-ne!"
             ],
             "selfharmresponse": [
-                "Why is fri-end hurt? Fri-end evil?"
+                "Kenapa te-man me-nyakit? Te-man jahat?"
             ],
             "braindamagedresponse": [
-                "Du-ne agree.",
+                "Du-ne sama.",
                 ".........?"
             ],
             "hotresponse": [
-                "Du-ne never feel hot! Du-ne love heat..."
+                "Du-ne tidak pernah me-rasa panas! Du-ne suka panas..."
             ],
             "coldresponse": [
-                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th dune..."
+                "Du-ne takut di-ngin... Ruang Pa-nas! Te-man me-tetap de-ngan dune..."
             ],
             "bleedingresponse": [
-                "Fri-end is hurt. Fri-end need help!",
-                "Fri-end smell like blood. Du-ne like."
+                "Te-man ter-sakit. Te-man butuh bantu-an!",
+                "Te-man bau darah... Du-ne suka."
             ]
         }
     ],
