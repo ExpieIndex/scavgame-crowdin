@@ -18,7 +18,7 @@
         "plasticbandagedsc": "특수하게 합성된 견고한 소재로 만들어진 붕대. 상처를 효과적으로 덮고 골절을 안정시킨다. 근육에는 아무런 효과가 없다.",
         "adhesivebandage": "반창고",
         "adhesivebandagedsc": "작은 상처를 치료하도록 만들어진 의료용 반창고 팩. 출혈을 줄인다.",
-        "musharm": "머쉬 암",
+        "musharm": "Wrapvine",
         "musharmdsc": "Inedible plant part, useful as a one-time makeshift bandage. Can be used as foliage for crafing.",
         "paincream": "통증 완화 크림 병",
         "paincreamdsc": "통증 완화 크림이 들어있는 작은 100ml 병. 적정 투여량은 10ml다.",
@@ -211,7 +211,7 @@
         "alcohol": "술병",
         "alcoholdsc": "0.4L의 액체를 담을 수 있는 유리병.",
         "exposedcore": "Exposed core",
-        "exposedcoredsc": "The dormant remains of something once animated. You could probably eat it to absorb its energy in the form of nutrients and water. <i>It looks like it's slowly morphing into something...",
+        "exposedcoredsc": "The dormant remains of something once animated. You could probably eat it to absorb its energy in the form of nutrients and water. <i>It looks like it's slowly morphing into something...</i>",
         "foliage": "잎사귀",
         "foliagedsc": "일반적인 외계 식물. 겨우 먹을만한 수준인데다 맛도 만족스럽지 못하다. 배탈이 날 수 있다. 빠르게 썩는다.",
         "foliagemeal": "조리한 잎사귀",
@@ -298,12 +298,12 @@
         "tutorialradiodsc": "훈련 기간동안 지급받는 물건. 이 기기에서 흘러나오는 목소리가 실시간으로 전해지는 것인지 아니면 녹음된 것인지는 확실하지 않다. 누를 수 있는 버튼이 달려있다.",
         "mp3player": "MP3 플레이어",
         "mp3playerdsc": "의외로 아직도 작동하는 듯 하다. 음악 몇 가지가 든 저장 장치가 내장되어 있다. 기분 전환을 위해 재생할 수 있다.",
-        "mushpear": "머쉬 페어",
-        "mushpeardsc": "식물의 물을 분산시키도록 만들어진 파란색 부분. 체중을 흡수하는 듯한 이상한 성질을 띠고 있는데다 맛이 좋지 않아 간신히 먹을 수 있는 수준이다. 섭취하면 체중이 감소한다. 소량이지만 마약 성분이 있는 듯 하다.",
-        "mushtail": "머쉬 테일",
-        "mushtaildsc": "머쉬 플랜트의 꼬리 끝부분. 섭취 시 바로 잠깐동안 기절시키고 깨어났을 때 눈에 띄게 기분이 좋게 하는 이상한 화학 물질을 포함하고 있다. 영양가는 없다.",
-        "mushball": "머쉬 볼",
-        "mushballdsc": "거품 같은 수분을 제법 머금고 있는 둥근 과일. 겉보기에도 맛보기에도 약간 구미가 당기지는 않지만 수분 함량이 높다. 빠르게 썩는다.",
+        "mushpear": "Numberry",
+        "mushpeardsc": "A part of a hydreed that filters and distributes water. Has an odd weight-absorbing property and an off-putting taste. Lowers body mass when eaten. Seems to have trace opiate concentration.",
+        "mushtail": "Naptail",
+        "mushtaildsc": "The tail-end of a hydreed. Contains a chemical which can instantly knock someone out for a while, with a visible mood increase afterwards. Odd. No nutritional value.",
+        "aquapple": "Aquapple",
+        "aquappledsc": "A watery, bubble-shaped fruit. Looks and feels a little disgusting, but has high water content. Decays very fast.",
         "droppings": "배설물",
         "droppingsdsc": "똥이다.",
         "smallpack": "소형 백팩",
@@ -314,6 +314,8 @@
         "bigpackdsc": "중간 정도 크기의 배낭.",
         "bikehelmet": "자전거 안전모",
         "bikehelmetdsc": "머리에 가해지는 충격의 부담을 줄여주도록 설계된 헬멧. 낙상으로 인해 머리에 가해지는 부상의 정도를 줄여준다.",
+        "riothelmet": "Riot helmet",
+        "riothelmetdsc": "An advanced helmet that greatly reduces the severity of head trauma.",
         "holidayhat": "크리스마스 모자",
         "holidayhatdsc": "You've heard that people wear these for some kind of special occasion, though you're not sure what it's about. It's nice that you were sent with one, at least.",
         "headlamp": "헤드램프",
@@ -334,6 +336,8 @@
         "balaclavadsc": "단열재를 속에 채운 머리 전체를 감싸는 두꺼운 천 조각. 약간의 보호 기능과 단열 기능을 제공한다.",
         "latexgloves": "라텍스 장갑",
         "latexglovesdsc": "라텍스 재질의 장갑 한 쌍. 위험요소들로부터 약간의 보호 기능을 제공한다.",
+        "tacticalgloves": "Tactical gloves",
+        "tacticalglovesdsc": "A pair of advanced synthetic gloves. Effectively protects your hands from physical trauma.",
         "fannypack": "패니 백",
         "fannypackdsc": "배에 찰 수 있게 만들어진 작은 가방.",
         "bandolier": "탄약대",
@@ -342,6 +346,8 @@
         "bellyarmordsc": "복부에 착용하도록 만들어진 커다란 금속 조각이다. 뛰어난 보호력과 약간의 단열 기능을 제공한다.",
         "belt": "벨트",
         "beltdsc": "A leather belt that goes over your belly. Can only hold tools.",
+        "traumarig": "Trauma rig",
+        "traumarigdsc": "An advanced synthetic protective pouch that can hold various tools, weapons and medical gear. Also protects your torso!",
         "popcorn": "팝콘",
         "popcorndsc": "A bucket containing a bunch of corn kernels, puffed up from being heated. You find it to be quite a novel concept. Tasty. Has a long shelf life.",
         "nopopcorn": "팝콘 없음",
@@ -380,6 +386,10 @@
         "carcasssplintdsc": "벌레 잔해 여러 개를 이어붙여 만든 단단하고 긴 튜브. 골절이 일어난 신체 부위에 대는 간이 부목으로 사용하기에 적당하다.",
         "terrainscanner": "지형 스캐너",
         "terrainscannerdsc": "Shows you a low-quality map of the terrain below you. Terrain is highlighted in green, solid buildings in red. Might be slightly inaccurate. Goes 24 meters down.",
+        "geigercounter": "Geiger counter",
+        "geigercounterdsc": "An electronic instrument for detecting and measuring ionizing radiation with the use of a Geiger–Müller tube. Use to toggle.",
+        "handcrank": "Hand crank charger",
+        "handcrankdsc": "A device which can recharge spent batteries via a manual cranking motion. Slot in a battery and crank away!",
         "sleepingbag": "Sleeping bag",
         "sleepingbagdsc": "An insulated covering for a person to sleep in. Use to sleep in it, bumping the sleeping quality up a tier (capped at Good) and giving you some insulation for the night. Normal sleep restrictions apply.",
         "liquidcentrifuge": "Liquid centrifuge",
@@ -434,14 +444,16 @@
         "browncapdsc": "정확히 어떤 종류의 곰팡이인지 알 수 없다. 확실한 것이 있다면 이 버섯은 상처를 치료하거나 먹은 이를 한 번에 보내버리는 등의 효과를 불러일으킬 수 있다는 것이다.",
         "sneakers": "운동화",
         "sneakersdsc": "발에 딱 맞진 않은 한 쌍의 운동화. 발을 쑤셔 넣어 유리 파편으로부터 안전할 수 있다.",
+        "tacticalboots": "Tactical boots",
+        "tacticalbootsdsc": "A pair of heavy synthetic boots, made to effectively protect the feet from various forms of trauma.",
         "frigiantfruit": "프리지언트 열매",
         "frigiantfruitdsc": "아주 차갑고 딱딱한 유리같은 열매다. 맛있지만, 많이 추워진다. 얼어붙는 추위에서 먹지 않는게 좋다.",
-        "purpleherb": "보라색 약초",
-        "purpleherbdsc": "거친 질감을 가진 물기 없는 보라색 풀. 메스꺼움을 해소하고 청각 손실을 치료하는 데 약간 도움이 되며 상황에 따라 몸에 발생한 내출혈을 치료할 수 있다. 섭취 시 체온이 올라가는 경향이 있으니 조심해서 사용할 것.",
-        "bulbskin": "벌브 스킨",
-        "bulbskindsc": "식물의 노란색 표면의 기름진 일부분. 섭취 시 다량의 아드레날린과 소량의 수분을 제공하지만 뇌 기능에 약간의 영향을 끼칠 수 있다. 또한 진통제를 머금은 간이 붕대처럼 사용할 수 있다.",
-        "geigefruit": "가이거 후르츠",
-        "geigefruitdsc": "이상해보이는 직사각형 모양의 반짝거리는 과일. 기름 냄새가 나지만 맛은 괜찮다! 허기와 갈증을 해소해준다. 잠시동안 숨통을 괴롭게 할 수 있고 무작위로 방사성 질환을 발생시키거나 악화시킬 수 있다. 속도가 붙은 채 지면에 충돌하면 큰 소리를 발생시키니 다음으로 뛸 곳의 높이를 가늠하는 데 사용할 수 있다.",
+        "helluce": "Helluce",
+        "hellucedsc": "A dry, purple herb with an especially spicy taste. Helps against sickness, slightly helps hearing loss and might lessen internal bleeding. It has a tendency to highly increase the consumer's body temperature.",
+        "bulbskin": "Popskin",
+        "bulbskindsc": "A piece of thick, yellow membrane. Satiates thirst, but might minorly affect brain function. Can also be used as a makeshift bandage and analgesic.",
+        "popfruit": "Popfruit",
+        "popfruitdsc": "An odd, rectangular shiny fruit. Tasty, refills hunger and thirst. May randomly help or intensify radiation sickness slightly. Has a loud reaction when impacting the ground at speeds - useful for checking drop height.",
         "antisepticmush": "방부제 머쉬",
         "antisepticmushdsc": "열매와 잎사귀를 으깨 만든 혼합물로, 감염 치료에 효과적이다. 한 번 사용하면 효과가 지속된다.",
         "striderpelt": "스트라이더 펠트",
@@ -485,9 +497,9 @@
         "scrapcube": "고철 큐브",
         "scrapcubedsc": "고철을 녹여 만든 큐브. 그다지 튼튼하진 않지만, 제작에 사용할 수 있을 것이다.",
         "scrappanel": "고철 판",
-        "scrappaneldsc": "얇은 고철 판. 그다지 튼튼하진 않지만, 제작에 사용할 수 있을 것이다.",
+        "scrappaneldsc": "Thin sheet of scrap metal. Not particularly strong, but will do in crafting.",
         "scraptube": "고철 튜브",
-        "scraptubedsc": "고철로 만든 속이 빈 튜브. 그다지 튼튼하진 않지만, 제작에 사용할 수 있을 것이다. 조잡한 간이 망치로 사용할 수도 있다.",
+        "scraptubedsc": "Hollow tube made of scrap metal. Not particularly strong, but will do in crafting. Could act as a shoddy makeshift hammer.",
         "woodscraps": "폐목재",
         "woodscrapsdsc": "파쇄한 나무 조각들이다. 제작 재료로 만들 수 있을 것이다.",
         "woodcube": "나무 큐브",
@@ -624,8 +636,8 @@
         "ladderdsc": "A vertical set of rungs used for climbing or descending. You assumably know how to use it.",
         "shadecrawler": "셰이드 크롤러",
         "shadecrawlerdsc": "",
-        "wallbiter": "월 바이터",
-        "wallbiterdsc": "놀라우리만치 크고 여섯 개의 다리에다가 털까지 달린 짐승. 날카로운 이빨처럼 보이는 부분이 튀어나온 것이 보인다. 움직임이 불규칙적인 듯 보인다.",
+        "wallbiter": "Sand stalker",
+        "wallbiterdsc": "A large, fluffy, six legged beast. You can see what looks like sharp teeth sticking out. It's moving around erratically.",
         "thornbackyoung": "가시거미",
         "thornbackyoungdsc": "어리고 털이 복슬복슬하며 매우 공격적인 가시거미. 땅에 굴을 파고 근처의 움직이는 모든 것을 찢어발기는 걸 좋아하는 듯하다.",
         "thornbackelder": "엘더 가시거미",
@@ -666,8 +678,8 @@
         "medcratedsc": "의료품들이 들어있다.",
         "rechargingstation": "충전소",
         "rechargingstationdsc": "배터리를 충전하는 데 사용되는 시설이다. 어떤 크기의 배터리도 충전 가능하며, 무한한 전력을 가진 것 같다. 메인 손에 있는 배터리를 삽입한 다음, 다시 자신에게 드래그하여 충전할 수 있다.\n\n기다리는 동안 분위기를 부드럽게 해주는 음악 플레이어가 있는 것 같다... 아이러니하게도 배터리는 없다.",
-        "mushplant": "머쉬 플랜트",
-        "mushplantdsc": "느린 속도로 경련하고 있다... 촉촉해 보인다.",
+        "hydreed": "Hydreed",
+        "hydreeddsc": "It has multiple arms with bubbly fruits at the ends. It looks moist...",
         "OxygenCrystal": "숨결의 수정",
         "OxygenCrystaldsc": "거품이 끓어오르는 듯 하다...",
         "reinforceddoor": "튼튼한 문",
@@ -733,8 +745,8 @@
         "geyserdsc": "물을 쏘아 올리는 통제 불가 간헐천. 그래도 실내 온도 정도다.",
         "oilpipe": "하수관",
         "oilpipedsc": "검은 타르가 쏟아져 나오는 낡은 파이프. 안은 보고 싶지 않다. 아마도 오래 있으면 넘칠 것 같다.",
-        "plantiation": "플랜티에이션",
-        "plantiationdsc": "끝에 반투명한 전구 모양 물체가 자라고 있는 길고 칙칙한 보라색 식물.",
+        "pop": "Pop",
+        "popdsc": "A long, dull purple colored plant, with a large semi-transparent bulb growing on the end.",
         "mushroomdropper": "드롭슈룸",
         "mushroomdropperdsc": "지나가는 불행한 모두에게 갓을 열어 포자를 뿌리는 균류.",
         "mushroomdropperpayload": "드롭슈룸 갓",
@@ -1330,6 +1342,8 @@
         "dirtywaterdsc": "At least it's not on your body anymore. Not safe to drink.",
         "algae": "녹조",
         "algaedsc": "조밀하고 발광하는 조류가 자라는 물. 부력이 좋다.",
+        "magma": "Magma",
+        "magmadsc": "Molten rock. Every single one of your senses is screaming at you to avoid it.",
         "oil": "오일",
         "oildsc": "두껍고 까만 타르. 지나가기 어렵다.",
         "sap": "나무 수액",
@@ -1341,7 +1355,7 @@
         "producejuice": "농산물 주스",
         "producejuicedsc": "과일, 채소, 그리고 찾을 수 있는 모든 것을 으깨서 물과 섞은 것이다. 맛은… 독특다.",
         "refinedjuice": "정제된 주스",
-        "refinedjuicedsc": "잘 익히고, 더 잘 섞고 으깬 농산물 주스이다. 매우 맛있고 영양가 있다!",
+        "refinedjuicedsc": "Cooked through, better mixed and mashed produce juice. Very tasty and nutritious!",
         "liquiddescription": "앉자서 마시기",
         "Head": "머리",
         "UpTorso": "흉부",
@@ -1479,6 +1493,8 @@
         "runsetlayermodifierchancedsc": "How likely is a layer modifier to appear, per-layer",
         "runsettimebetweenearthquakes": "Time between earthquakes",
         "runsettimebetweenearthquakesdsc": "How long, on average, it will take for an earthquake to appear",
+        "runsettemperatureoffset": "Ambient temperature offset",
+        "runsettemperatureoffsetdsc": "How much warmer/colder should the environment be on average",
         "runsetlockpickprecision": "Lockpicking leniency",
         "runsetlockpickprecisiondsc": "How wide the precision angle is during lockpicking minigames",
         "runsetambientlight": "Ambient light",
@@ -1524,6 +1540,8 @@
         "gamesetframeratedsc": "If above 0, sets how fast the game is allowed to run. A value of 0 means unlimited. Overriden if V-Sync is on",
         "gamesetpixelate": "Pixelated rendering",
         "gamesetpixelatedsc": "Toggle downscaled of full resolution rendering. Note that disabling pixelated rendering sacrifices some of the game's intended artstyle.",
+        "gamesetdarkerbackground": "Darker backgrounds",
+        "gamesetdarkerbackgrounddsc": "Makes the cave background walls darker to improve contrast",
         "gamesetbloom": "Bloom",
         "gamesetbloomdsc": "Makes bright things look nicer. Also affects lens dirt",
         "gamesetfilmgrain": "Film grain",
@@ -1532,6 +1550,10 @@
         "gamesetlineofsightcountdsc": "How detailed is the line of sight shader, when applicable. Higher values worsen performance",
         "gamesetscreenshake": "Screenshake",
         "gamesetscreenshakedsc": "How much to shake the screen after hard falls, explosions, etc.",
+        "gamesetcensorpain": "Censor pain",
+        "gamesetcensorpaindsc": "Disables pain whines and tones down certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
+        "gamesetcensormood": "Censor mood",
+        "gamesetcensormooddsc": "Tones down low-mood events and certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
         "gamesetalwaysexpand": "Always expand item descriptions",
         "gamesetalwaysexpanddsc": "If on, you will always see expanded item descriptions when hovering over an item, without holding the expand key",
         "gamesetshowhiddenmoodles": "Always show hidden moodles",
@@ -1627,6 +1649,7 @@
         "amputationMinigameGuide": "사지를 톱으로 잘라 절단한다. 절단 후 지혈을 멈추다.",
         "aedMinigameGuide": "Follow the displayed instructions.",
         "manualDefibMinigameGuide": "Match the charge proportional to how far along the fibrillation cycle your heart is, charge, then shock. Repeat if needed.\nThe recommended estimate (POW.EST) gets more accurate with higher INT.",
+        "handCrankMinigameGuide": "Grab the handle and rotate it to charge.",
         "aedstate0": "Place pads in designated spots.",
         "aedstate1": "Analyzing pulse",
         "aedstate2": "Shock recommended.\nPress button to shock.",
@@ -1809,8 +1832,6 @@
         "hplimbforcedsc": "The limb's total ability to move and exert force",
         "hpopiate": "혈중 약물",
         "settings": "Settings",
-        "custommusic": "커스텀 음악",
-        "custommusicdsc": "커스텀 음악 디렉터리를 엽니다.\nMP3 플레이어에서 선택지로 표시되도록 .mp3/.ogg./.wav 파일을 넣을 수 있습니다.\n다른 파일 형식은 지원되지 않습니다.",
         "credits": "Credits",
         "layer": "층",
         "toggleheatmode": "난방 모드 바꾸기",
@@ -1936,6 +1957,8 @@
         "wiki": "위키",
         "discord": "디스코드 서버",
         "translations": "번역 저장소",
+        "localefolder": "Translations folder",
+        "musicfolder": "Custom music",
         "healthchipcriticalalert1": "생체 신호\n위험함",
         "healthchipcriticalalert2": "사망\n임박함",
         "healthchipcriticalalert3": "응급 처치\n필요",
@@ -2669,16 +2692,6 @@
                 "<limb> 안 좋은데...",
                 "내 <limb> 피투성이네...",
                 "니미 씨부랄! 내가 뭐 개작살냈는가 <limb>에 노란색이 활짝 펴버렸잖아! 에헤에에에이! 조졌네 이거어!"
-            ],
-            "sepsis": [
-                "맙소사... 몸이 정말 안 좋아...",
-                "아으... 몸이 어떻게 된거야...",
-                "육체적으로... 힘들어...",
-                "몸이 안 좋아...",
-                "그어... 안 좋은데...",
-                "몸 존체가 타는 것 같아...",
-                "몸 속이 아파...",
-                "지내기 힘드네..."
             ],
             "sad": [
                 "상황이 나빠질 것 같아.",
@@ -3933,6 +3946,21 @@
             "bleedingresponse": [
                 "It... Does look bad... But, I... I'm sure you can fix it...",
                 "H-hey, calm down. You'll be okay."
+            ],
+            "painresponse": [
+                "Are you okay..? Why do you hurt?",
+                "Did you step on something?"
+            ],
+            "dirtyresponse": [
+                "...We have a shower, you know. Or... Just, go swim in the pools out and about..."
+            ],
+            "encumberedresponse": [
+                "Wouldn't hurt to leave some of your stuff with me.",
+                "I'll take good care of your things!"
+            ],
+            "dyingresponse": [
+                "Crap... Uh... I never learned how to resusciate others...",
+                "I... Uh... I hope you'll be alright..."
             ]
         },
         {
@@ -4103,7 +4131,8 @@
                 "Why would I move for someone like you?"
             ],
             "vomitresponse": [
-                "You appear to have returned your stomach contents."
+                "You appear to have returned your stomach contents.",
+                "Really? On MY floor?"
             ],
             "vomitbloodresponse": [
                 "...It appears you are bleeding internally. Please direct your mouth away from me for the forseeable future."
@@ -4138,6 +4167,22 @@
             "bleedingresponse": [
                 "Please don't bleed all over me.",
                 "I implore you to take care of your wounds."
+            ],
+            "painresponse": [
+                "Pain is simply weakness leaving the body. Toughen up, worm.",
+                "Take a painkiller. Surely, you must have some..."
+            ],
+            "dirtyresponse": [
+                "Correct. You are filthy. Refrain from touching me until you clean yourself."
+            ],
+            "encumberedresponse": [
+                "Would it hurt to leave those heavy belongings with me?",
+                "Such a tease you are."
+            ],
+            "dyingresponse": [
+                "Do not expect me to waste my time performing CPR on your corpse.",
+                "Really? Dying, on MY floor?",
+                "Will panicking really make the situation any better?"
             ]
         },
         {
@@ -4324,7 +4369,7 @@
                 "Fri-end feel bad..? Why?"
             ],
             "depressedresponse": [
-                "Fri-end look very bad... Co-me sit with du-ne!"
+                "Fri-end look very bad... Co-me sit with Du-ne!"
             ],
             "selfharmresponse": [
                 "Why is fri-end hurt? Fri-end evil?"
@@ -4337,11 +4382,26 @@
                 "Du-ne never feel hot! Du-ne love heat..."
             ],
             "coldresponse": [
-                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th dune..."
+                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th Dune..."
             ],
             "bleedingresponse": [
                 "Fri-end is hurt. Fri-end need help!",
                 "Fri-end smell like blood. Du-ne like."
+            ],
+            "painresponse": [
+                "Fri-end hurt..?",
+                "Du-ne und-erstand... Du-ne also feel pa-in! Fri-end okay?"
+            ],
+            "dirtyresponse": [
+                "What is dir-ty?"
+            ],
+            "encumberedresponse": [
+                "Can take friend stuff?",
+                "Du-ne can ease load!"
+            ],
+            "dyingresponse": [
+                "Wh-at wrong with fri-end..?",
+                "Du-ne not know how he-lp..."
             ]
         }
     ],

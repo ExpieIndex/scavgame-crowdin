@@ -18,7 +18,7 @@
         "plasticbandagedsc": "Rolka specjalnie syntetyzowanego, wytrzymałego materiału, stworzona do skutecznego zakrywania ran i stabilizacji złamań. Nie ma wpływu na zdrowie mięśni.",
         "adhesivebandage": "Plastry samoprzylepne",
         "adhesivebandagedsc": "Opakowanie małych opatrunków medycznych, przeznaczonych do leczenia drobnych urazów. Zmniejsza krwawienie.",
-        "musharm": "Trzon grzyb-owca",
+        "musharm": "Wrapvine",
         "musharmdsc": "Inedible plant part, useful as a one-time makeshift bandage. Can be used as foliage for crafing.",
         "paincream": "Buteleczka kremu przeciwbólowego",
         "paincreamdsc": "Mała butelka o pojemności 100 ml zawierająca specjalną mieszankę składników łagodzących. Dawkowanie wynosi 10 ml. Natychmiast łagodzi ból w miejscu zastosowania. Efekt jest krótkotrwały. Działa również jako skuteczny środek dezynfekujący rany.",
@@ -211,7 +211,7 @@
         "alcohol": "Butelka alkoholu",
         "alcoholdsc": "Szklana butelka mieszcząca 0,4 l płynu. Zawiera nieoznakowany alkohol. Raczej nadaje się do picia, ale organizm w ogóle go nie trawi. Nadaje się też, do dezynfekowania ran.",
         "exposedcore": "Exposed core",
-        "exposedcoredsc": "The dormant remains of something once animated. You could probably eat it to absorb its energy in the form of nutrients and water. <i>It looks like it's slowly morphing into something...",
+        "exposedcoredsc": "The dormant remains of something once animated. You could probably eat it to absorb its energy in the form of nutrients and water. <i>It looks like it's slowly morphing into something...</i>",
         "foliage": "Listowie",
         "foliagedsc": "Typowa obca roślina. Ledwo jadalna, o niesmacznym smaku. Może wywołać chorobę. Szybko się rozkłada. Często używana w rzemiośle.",
         "foliagemeal": "Foliage meal",
@@ -298,12 +298,12 @@
         "tutorialradiodsc": "Zazwyczaj dostajesz jeden z nich na nauki szkoleniowe. Nie jestem pewien, czy wiadomości są na żywo, czy nagrane wcześniej. Ma przycisk, który możesz nacisnąć.",
         "mp3player": "Odtwarzacz MP3",
         "mp3playerdsc": "Zaskakujące, że nadal działa. Odtwarza/pomija utwór podczas używania.",
-        "mushpear": "Gruszkówka",
-        "mushpeardsc": "Niebieska część rośliny, służąca do rozprowadzania wody. Ledwo jadalna, o dziwnych właściwościach absorbujących wagę i odpychającym smaku. Po spożyciu obniża masę ciała. Wydaje się, że zawiera śladowe stężenie opiatów.",
-        "mushtail": "Korzeń grzybowy",
-        "mushtaildsc": "Końcowa część rośliny grzybowej przypominającą gruszkę. Zawiera substancję chemiczną, która może natychmiastowo zwalić kogoś z nóg na jakiś czas, a następnie wyraźnie poprawić nastrój. Dziwne. Brak wartości odżywczych.",
-        "mushball": "Kulka grzybowa",
-        "mushballdsc": "Okrągły, jadalny, bąbelkowaty, wodnisty owoc. Wygląda i smakuje nieco odrażająco, ale ma wysoką zawartość wody. Gnije bardzo szybko.",
+        "mushpear": "Numberry",
+        "mushpeardsc": "A part of a hydreed that filters and distributes water. Has an odd weight-absorbing property and an off-putting taste. Lowers body mass when eaten. Seems to have trace opiate concentration.",
+        "mushtail": "Naptail",
+        "mushtaildsc": "The tail-end of a hydreed. Contains a chemical which can instantly knock someone out for a while, with a visible mood increase afterwards. Odd. No nutritional value.",
+        "aquapple": "Aquapple",
+        "aquappledsc": "A watery, bubble-shaped fruit. Looks and feels a little disgusting, but has high water content. Decays very fast.",
         "droppings": "Łajno",
         "droppingsdsc": "To kupa.",
         "smallpack": "Mały plecak",
@@ -314,6 +314,8 @@
         "bigpackdsc": "Plecak średniej wielkości.",
         "bikehelmet": "Kask rowerowy",
         "bikehelmetdsc": "Kask zaprojektowany w celu zmniejszenia siły uderzeń w głowę. Zmniejsza ryzyko urazów głowy spowodowanych upadkami.",
+        "riothelmet": "Riot helmet",
+        "riothelmetdsc": "An advanced helmet that greatly reduces the severity of head trauma.",
         "holidayhat": "Holiday hat",
         "holidayhatdsc": "You've heard that people wear these for some kind of special occasion, though you're not sure what it's about. It's nice that you were sent with one, at least.",
         "headlamp": "Lampka czołowa",
@@ -334,6 +336,8 @@
         "balaclavadsc": "Gruby, wyściełany kawałek materiału, który owija się wokół czaszki. Zapewnia niewielką ochronę i przyzwoitą izolację.",
         "latexgloves": "Rękawiczki lateksowe",
         "latexglovesdsc": "Para prostych rękawiczek lateksowych. Zapewniają niewielką izolację od czynników atmosferycznych.",
+        "tacticalgloves": "Tactical gloves",
+        "tacticalglovesdsc": "A pair of advanced synthetic gloves. Effectively protects your hands from physical trauma.",
         "fannypack": "Saszetka biodrowa",
         "fannypackdsc": "Mała torebka przeznaczona do noszenia na brzuchu.",
         "bandolier": "Pas bandolierowy",
@@ -342,6 +346,8 @@
         "bellyarmordsc": "Duży kawałek metalu, przeznaczony do przypięcia do brzucha. Zapewnia doskonałą ochronę i pewną izolację.",
         "belt": "Pasek",
         "beltdsc": "A leather belt that goes over your belly. Can only hold tools.",
+        "traumarig": "Trauma rig",
+        "traumarigdsc": "An advanced synthetic protective pouch that can hold various tools, weapons and medical gear. Also protects your torso!",
         "popcorn": "Pojemnik popcornu",
         "popcorndsc": "A bucket containing a bunch of corn kernels, puffed up from being heated. You find it to be quite a novel concept. Tasty. Has a long shelf life.",
         "nopopcorn": "Pusty papierowy pojemnik",
@@ -380,6 +386,10 @@
         "carcasssplintdsc": "Twarda, długa rura wykonana z wielu połączonych ze sobą korpusów. Służy jako solidna, prowizoryczna szyna do leczenia złamań.",
         "terrainscanner": "Skaner terenu",
         "terrainscannerdsc": "Shows you a low-quality map of the terrain below you. Terrain is highlighted in green, solid buildings in red. Might be slightly inaccurate. Goes 24 meters down.",
+        "geigercounter": "Geiger counter",
+        "geigercounterdsc": "An electronic instrument for detecting and measuring ionizing radiation with the use of a Geiger–Müller tube. Use to toggle.",
+        "handcrank": "Hand crank charger",
+        "handcrankdsc": "A device which can recharge spent batteries via a manual cranking motion. Slot in a battery and crank away!",
         "sleepingbag": "Sleeping bag",
         "sleepingbagdsc": "An insulated covering for a person to sleep in. Use to sleep in it, bumping the sleeping quality up a tier (capped at Good) and giving you some insulation for the night. Normal sleep restrictions apply.",
         "liquidcentrifuge": "Liquid centrifuge",
@@ -434,14 +444,16 @@
         "browncapdsc": "Nie masz pewności, jaki to dokładnie rodzaj grzyba. O ile wiesz, może on zdziałać wszystko – od leczenia ran po natychmiastową śmierć.",
         "sneakers": "Obuwie",
         "sneakersdsc": "Para białych trampek, które wcale nie są przeznaczone do noszenia na stopach. Jeśli uda Ci się w jakiś sposób wcisnąć w nie łapy, zapewnią ochronę przed odłamkami szkła.",
+        "tacticalboots": "Tactical boots",
+        "tacticalbootsdsc": "A pair of heavy synthetic boots, made to effectively protect the feet from various forms of trauma.",
         "frigiantfruit": "Lodowaty owoc",
         "frigiantfruitdsc": "Bardzo zimny, twardy i szklisty owoc. Smaczny, ale ma tendencję do silnego wychładzania. Nie należy go spożywać na mrozie.",
-        "purpleherb": "Fioletowe zioło",
-        "purpleherbdsc": "Suchy, purpurowy liść o szorstkiej fakturze. Powszechnie stosowany jako środek na niektóre dolegliwości – pomaga w walce z chorobami, nieznacznie wspomaga słuch i może zmniejszać krwawienia wewnętrzne. Stosować ostrożnie – ma tendencję do znacznego podwyższania temperatury ciała konsumenta.",
-        "bulbskin": "Skórka cebulaka",
-        "bulbskindsc": "Tłusty kawałek grubej, żółtej skórki rośliny. Zawiera dużą ilość adrenaliny i działa lekko nawilżająco, ale może nieznacznie wpływać na funkcje mózgu. Może być również stosowany jako prowizoryczny bandaż i środek przeciwbólowy na kończyny.",
-        "geigefruit": "Owoc Geige",
-        "geigefruitdsc": "Dziwny, prostokątny, błyszczący owoc. Pachnie olejem, ale smakuje pysznie! Zaspokaja głód i pragnienie. Może chwilowo podrażnić płuca i w sposób losowy nasilać chorobę popromienną. Głośno reaguje na uderzenie o ziemię z dużą prędkością – przydatny do sprawdzania wysokości upadku.",
+        "helluce": "Helluce",
+        "hellucedsc": "A dry, purple herb with an especially spicy taste. Helps against sickness, slightly helps hearing loss and might lessen internal bleeding. It has a tendency to highly increase the consumer's body temperature.",
+        "bulbskin": "Popskin",
+        "bulbskindsc": "A piece of thick, yellow membrane. Satiates thirst, but might minorly affect brain function. Can also be used as a makeshift bandage and analgesic.",
+        "popfruit": "Popfruit",
+        "popfruitdsc": "An odd, rectangular shiny fruit. Tasty, refills hunger and thirst. May randomly help or intensify radiation sickness slightly. Has a loud reaction when impacting the ground at speeds - useful for checking drop height.",
         "antisepticmush": "Grzyb antyseptyczny",
         "antisepticmushdsc": "Zgniecione kawałki owoców i liści tworzą mieszankę skuteczną w leczeniu infekcji. Wystarcza na jedno użycie.",
         "striderpelt": "Skóra naganiacza",
@@ -485,9 +497,9 @@
         "scrapcube": "Sztabka złomu",
         "scrapcubedsc": "Solidna kostka z topionego złomu. Niezbyt wytrzymała, można ją wykorzystać w rzemiośle.",
         "scrappanel": "Fragment panelu",
-        "scrappaneldsc": "Kawałek odpadu metalowego, cienka płaska blacha. Niezbyt wytrzymała, można ją wykorzystać w rzemiośle.",
+        "scrappaneldsc": "Thin sheet of scrap metal. Not particularly strong, but will do in crafting.",
         "scraptube": "Złom rurowy",
-        "scraptubedsc": "Kawałek odpadu metalowego, wygląda na pustą rurę. Niezbyt wytrzymała, można ją wykorzystać w rzemiośle. Może posłużyć jako tandetny, prowizoryczny młotek.",
+        "scraptubedsc": "Hollow tube made of scrap metal. Not particularly strong, but will do in crafting. Could act as a shoddy makeshift hammer.",
         "woodscraps": "Resztki drewna",
         "woodscrapsdsc": "Kawałki rozbitego drewna. Prawdopodobnie można z nich zrobić materiał rzemieślniczy.",
         "woodcube": "Sztabka drewna",
@@ -624,8 +636,8 @@
         "ladderdsc": "A vertical set of rungs used for climbing or descending. You assumably know how to use it.",
         "shadecrawler": "Pełzacz cienisty",
         "shadecrawlerdsc": "",
-        "wallbiter": "Ścianogryz",
-        "wallbiterdsc": "Niepokojąco duża, puszysta, sześcio-nożna bestia. Widz coś, co wygląda jak ostre zęby. Wydaje się poruszać chaotycznie.",
+        "wallbiter": "Sand stalker",
+        "wallbiterdsc": "A large, fluffy, six legged beast. You can see what looks like sharp teeth sticking out. It's moving around erratically.",
         "thornbackyoung": "Cierniowy grzbiet",
         "thornbackyoungdsc": "Młody, puszysto-kolczasty osobnik, bardzo agresywny. Wygląda na to, że uwielbia drążyć tunele w ziemi i rozszarpywać wszystko, co się rusza w pobliżu.",
         "thornbackelder": "Czarny cierniowy jeż",
@@ -666,8 +678,8 @@
         "medcratedsc": "Wytrzymała, i często wodoodporna konstrukcja do przechowywania i transportu sprzętu medycznego w trudnych warunkac.",
         "rechargingstation": "Recharging station",
         "rechargingstationdsc": "A station used for recharging batteries. Accepts batteries of any size, and has seemingly infinite power. Use to insert a battery from your main hand, then drag the battery back onto yourself.\n\nIt seems to have a music player to soothe the atmosphere while you wait... Ironically, it lacks a battery.",
-        "mushplant": "Grzybowiec",
-        "mushplantdsc": "Powoli drga... Wygląda na wilgotny.",
+        "hydreed": "Hydreed",
+        "hydreeddsc": "It has multiple arms with bubbly fruits at the ends. It looks moist...",
         "OxygenCrystal": "Kryształ tlenu",
         "OxygenCrystaldsc": "Wygląda na to, że powoli bulgocze...",
         "reinforceddoor": "Wzmocnione drzwi",
@@ -733,8 +745,8 @@
         "geyserdsc": "Niestabilny gejzer z tendencją do wytryskiwania wody. Na szczęście w najgorszym przypadku temperatura wynosi pokojową.",
         "oilpipe": "Rura odpływowa",
         "oilpipedsc": "Zardzewiała rura, z której leje się ciemna smoła. Nie chcesz zaglądać do środka... Prawdopodobnie zaleje cały teren, jeśli minie wystarczająco dużo czasu.",
-        "plantiation": "Metalo-roślina",
-        "plantiationdsc": "Długa, matowo-fioletowa roślina z dużą, półprzezroczystą cebulą rosnącą na końcu.",
+        "pop": "Pop",
+        "popdsc": "A long, dull purple colored plant, with a large semi-transparent bulb growing on the end.",
         "mushroomdropper": "Grzybek kroplak",
         "mushroomdropperdsc": "Grzyb, który zrzuca kapelusz, aby rozprzestrzenić zarodniki wokół każdego nieszczęsnego przechodnia.",
         "mushroomdropperpayload": "Kapelusz grzyba kroplaka",
@@ -1330,6 +1342,8 @@
         "dirtywaterdsc": "At least it's not on your body anymore. Not safe to drink.",
         "algae": "Bio algi",
         "algaedsc": "Woda z gęstymi, bioluminescencyjnymi glonami rosnącymi w niej. Bardzo wyporna. Nie nadaje się do spożycia.",
+        "magma": "Magma",
+        "magmadsc": "Molten rock. Every single one of your senses is screaming at you to avoid it.",
         "oil": "Olej",
         "oildsc": "Gęsta, czarna smolista ciecz. Trudno się przez nią poruszać. Nie nadaje się do spożycia.",
         "sap": "Sok drzewny",
@@ -1341,7 +1355,7 @@
         "producejuice": "Wytworzyć sok",
         "producejuicedsc": "Garść owoców, warzyw i wszystkiego, co tylko można znaleźć, zmiksowanych i zmieszanych z wodą. Smakuje... ciekawie.",
         "refinedjuice": "Sok rafinowany",
-        "refinedjuicedsc": "Dokładnie ugotowane, wymieszane i rozgniecione, dają soki owocowe. Bardzo smaczne i pożywne!",
+        "refinedjuicedsc": "Cooked through, better mixed and mashed produce juice. Very tasty and nutritious!",
         "liquiddescription": "Przykucnij i stań nieruchomo, aby napić się.",
         "Head": "Głowa",
         "UpTorso": "Klatka piersiowa",
@@ -1479,6 +1493,8 @@
         "runsetlayermodifierchancedsc": "How likely is a layer modifier to appear, per-layer",
         "runsettimebetweenearthquakes": "Time between earthquakes",
         "runsettimebetweenearthquakesdsc": "How long, on average, it will take for an earthquake to appear",
+        "runsettemperatureoffset": "Ambient temperature offset",
+        "runsettemperatureoffsetdsc": "How much warmer/colder should the environment be on average",
         "runsetlockpickprecision": "Lockpicking leniency",
         "runsetlockpickprecisiondsc": "How wide the precision angle is during lockpicking minigames",
         "runsetambientlight": "Ambient light",
@@ -1524,6 +1540,8 @@
         "gamesetframeratedsc": "If above 0, sets how fast the game is allowed to run. A value of 0 means unlimited. Overriden if V-Sync is on",
         "gamesetpixelate": "Pixelated rendering",
         "gamesetpixelatedsc": "Toggle downscaled of full resolution rendering. Note that disabling pixelated rendering sacrifices some of the game's intended artstyle.",
+        "gamesetdarkerbackground": "Darker backgrounds",
+        "gamesetdarkerbackgrounddsc": "Makes the cave background walls darker to improve contrast",
         "gamesetbloom": "Bloom",
         "gamesetbloomdsc": "Makes bright things look nicer. Also affects lens dirt",
         "gamesetfilmgrain": "Film grain",
@@ -1532,6 +1550,10 @@
         "gamesetlineofsightcountdsc": "How detailed is the line of sight shader, when applicable. Higher values worsen performance",
         "gamesetscreenshake": "Screenshake",
         "gamesetscreenshakedsc": "How much to shake the screen after hard falls, explosions, etc.",
+        "gamesetcensorpain": "Censor pain",
+        "gamesetcensorpaindsc": "Disables pain whines and tones down certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
+        "gamesetcensormood": "Censor mood",
+        "gamesetcensormooddsc": "Tones down low-mood events and certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
         "gamesetalwaysexpand": "Always expand item descriptions",
         "gamesetalwaysexpanddsc": "If on, you will always see expanded item descriptions when hovering over an item, without holding the expand key",
         "gamesetshowhiddenmoodles": "Always show hidden moodles",
@@ -1627,6 +1649,7 @@
         "amputationMinigameGuide": "Saw through the limb to amputate. Make sure to stop the bleeding after.",
         "aedMinigameGuide": "Follow the displayed instructions.",
         "manualDefibMinigameGuide": "Match the charge proportional to how far along the fibrillation cycle your heart is, charge, then shock. Repeat if needed.\nThe recommended estimate (POW.EST) gets more accurate with higher INT.",
+        "handCrankMinigameGuide": "Grab the handle and rotate it to charge.",
         "aedstate0": "Place pads in designated spots.",
         "aedstate1": "Analyzing pulse",
         "aedstate2": "Shock recommended.\nPress button to shock.",
@@ -1809,8 +1832,6 @@
         "hplimbforcedsc": "The limb's total ability to move and exert force",
         "hpopiate": "Ilość opiatów",
         "settings": "Settings",
-        "custommusic": "Custom music",
-        "custommusicdsc": "Open the custom music directory.\nYou can put .mp3/.ogg./.wav files there to make them show up as choices when using the MP3 player.\nOther file types are not supported.",
         "credits": "Credits",
         "layer": "Poziom",
         "toggleheatmode": "PRZEŁĄCZ TRYB OGRZEWANIA",
@@ -1936,6 +1957,8 @@
         "wiki": "Wiki",
         "discord": "Discord server",
         "translations": "Translation repo",
+        "localefolder": "Translations folder",
+        "musicfolder": "Custom music",
         "healthchipcriticalalert1": "! ! !\nSZUKAJ POMOCY MEDYCZNEJ",
         "healthchipcriticalalert2": "! ! ! FUNKCJE ŻYCIOWE\nKRYTYCZNE",
         "healthchipcriticalalert3": "! ! ! ŚMIERĆ\nNIEUCHRONNA",
@@ -2669,16 +2692,6 @@
                 "Widzę, że <limb> nie wygląda dobrze...",
                 "Co ja teraz pocznę? <limb> krwawi. Całe futro ubrudzę od krwi...",
                 "O rany! Krew! Chyba pomyliłem się w obliczeniach i teraz <limb> jest we krwi! O. Yyyy! Co ja teraz zrobię!"
-            ],
-            "sepsis": [
-                "Czy złapałem sepsę????... O. Yyyy... Czuję się naprawdę źle...",
-                "Auć... Co się ze mną dzieje... To uczucie jest okropne...",
-                "Mam... problemy.. fizyczne.. fatalnie się czuję.",
-                "Moje ciało odmawia posłuszeństwa... Coś jest zemną nie tak.",
-                "Guuhh... Czuję się źle... Czy ja umieram?...",
-                "Czuję jakby całe moje ciało było zakażone...",
-                "Boli mnie każda część ciała... To jest okropne.",
-                "Nie radzę sobie dobrze... Moje ciało ajj."
             ],
             "sad": [
                 "... Mogło być gorzej.",
@@ -3933,6 +3946,21 @@
             "bleedingresponse": [
                 "It... Does look bad... But, I... I'm sure you can fix it...",
                 "H-hey, calm down. You'll be okay."
+            ],
+            "painresponse": [
+                "Are you okay..? Why do you hurt?",
+                "Did you step on something?"
+            ],
+            "dirtyresponse": [
+                "...We have a shower, you know. Or... Just, go swim in the pools out and about..."
+            ],
+            "encumberedresponse": [
+                "Wouldn't hurt to leave some of your stuff with me.",
+                "I'll take good care of your things!"
+            ],
+            "dyingresponse": [
+                "Crap... Uh... I never learned how to resusciate others...",
+                "I... Uh... I hope you'll be alright..."
             ]
         },
         {
@@ -4103,7 +4131,8 @@
                 "Why would I move for someone like you?"
             ],
             "vomitresponse": [
-                "You appear to have returned your stomach contents."
+                "You appear to have returned your stomach contents.",
+                "Really? On MY floor?"
             ],
             "vomitbloodresponse": [
                 "...It appears you are bleeding internally. Please direct your mouth away from me for the forseeable future."
@@ -4138,6 +4167,22 @@
             "bleedingresponse": [
                 "Please don't bleed all over me.",
                 "I implore you to take care of your wounds."
+            ],
+            "painresponse": [
+                "Pain is simply weakness leaving the body. Toughen up, worm.",
+                "Take a painkiller. Surely, you must have some..."
+            ],
+            "dirtyresponse": [
+                "Correct. You are filthy. Refrain from touching me until you clean yourself."
+            ],
+            "encumberedresponse": [
+                "Would it hurt to leave those heavy belongings with me?",
+                "Such a tease you are."
+            ],
+            "dyingresponse": [
+                "Do not expect me to waste my time performing CPR on your corpse.",
+                "Really? Dying, on MY floor?",
+                "Will panicking really make the situation any better?"
             ]
         },
         {
@@ -4324,7 +4369,7 @@
                 "Fri-end feel bad..? Why?"
             ],
             "depressedresponse": [
-                "Fri-end look very bad... Co-me sit with du-ne!"
+                "Fri-end look very bad... Co-me sit with Du-ne!"
             ],
             "selfharmresponse": [
                 "Why is fri-end hurt? Fri-end evil?"
@@ -4337,11 +4382,26 @@
                 "Du-ne never feel hot! Du-ne love heat..."
             ],
             "coldresponse": [
-                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th dune..."
+                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th Dune..."
             ],
             "bleedingresponse": [
                 "Fri-end is hurt. Fri-end need help!",
                 "Fri-end smell like blood. Du-ne like."
+            ],
+            "painresponse": [
+                "Fri-end hurt..?",
+                "Du-ne und-erstand... Du-ne also feel pa-in! Fri-end okay?"
+            ],
+            "dirtyresponse": [
+                "What is dir-ty?"
+            ],
+            "encumberedresponse": [
+                "Can take friend stuff?",
+                "Du-ne can ease load!"
+            ],
+            "dyingresponse": [
+                "Wh-at wrong with fri-end..?",
+                "Du-ne not know how he-lp..."
             ]
         }
     ],

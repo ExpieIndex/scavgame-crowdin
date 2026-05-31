@@ -18,7 +18,7 @@
         "plasticbandagedsc": "Sebuah gulungan yang terbuat dari bahan yang tangguh, digunakan untuk menutup luka secara keseluruhan dan menstabilkan retakan. Tidak memiliki efek pada kesehatan otot.",
         "adhesivebandage": "Perban rekat",
         "adhesivebandagedsc": "Sekotak kecil perban medis, digunakan untuk merawat luka kecil. Memperlambat pendarahan.",
-        "musharm": "Cabang lembek",
+        "musharm": "Wrapvine",
         "musharmdsc": "Bagian tanaman yang tidak bisa dimakan, bisa sebagai perban sekali pakai. Bisa digunakan sebagai dedaunan untuk kerajinan.",
         "paincream": "Botol pereda nyeri",
         "paincreamdsc": "Botol 100ml kecil untuk menyimpan krim pereda nyeri. Dosisnya 10ml.",
@@ -211,7 +211,7 @@
         "alcohol": "Botol alkohol",
         "alcoholdsc": "Botol yang bisa menampung cairan 400ml.",
         "exposedcore": "Inti terbuka",
-        "exposedcoredsc": "Sisa-sisa dorman dari sesuatu yang dulunya hidup. Kamu mungkin bisa memakannya untuk menyerap energinya dalam bentuk nutrisi dan air. <i> Tampaknya ini perlahan-lahan berubah menjadi sesuatu...",
+        "exposedcoredsc": "The dormant remains of something once animated. You could probably eat it to absorb its energy in the form of nutrients and water. <i>It looks like it's slowly morphing into something...</i>",
         "foliage": "Daun",
         "foliagedsc": "Tanaman alien generik. Hampir tidak bisa dimakan, dengan rasa yang tidak menyenangkan. Bisa membuatmu mual. Mengurai cepat. Biasanya dipakai dalam kerajinan barang.",
         "foliagemeal": "Lauk dedaunan",
@@ -298,12 +298,12 @@
         "tutorialradiodsc": "Biasanya kamu diberikan salah satu alat ini untuk sesi pelatihan. Entah jika pesannya siaran langsung atau rekaman sebelumnya. Ada tombol yang bisa kau tekan.",
         "mp3player": "Pemutar MP3",
         "mp3playerdsc": "Anehnya, ini tampaknya masih berfungsi. Memiliki drive penyimpanan kecil, dengan beberapa track musik yang tersimpan di dalamnya. Kamu bisa putar salah satunya untuk hiburanmu sendiri.",
-        "mushpear": "Pir lembek",
-        "mushpeardsc": "Bagian tumbuhan berwarna biru, dirancang untuk mendistribusikan air. Hampir tidak bisa dimakan, memiliki sifat aneh yang menyerap berat badan dan rasa tidak enak. Menurunkan berat tubuh jika dimakan. tampaknya mengandung sedikit konsentrasi opiat.",
-        "mushtail": "Ekor lembek",
-        "mushtaildsc": "Ujung ekor dari tanaman lembek. Mengandung zat kimia yang dapat langsung membuat seseorang pingsan untuk sementara waktu, dengan peningkatan emosi setelahnya. Aneh. Tidak ada nilai gizi.",
-        "mushball": "Bola lembek",
-        "mushballdsc": "Buah bulat, dapat dimakan, berair seperti gelembung. Tampilan dan teksturnya agak menjijikkan, tetapi memiliki kandungan air yang tinggi. Membusuk sangat cepat.",
+        "mushpear": "Numberry",
+        "mushpeardsc": "A part of a hydreed that filters and distributes water. Has an odd weight-absorbing property and an off-putting taste. Lowers body mass when eaten. Seems to have trace opiate concentration.",
+        "mushtail": "Naptail",
+        "mushtaildsc": "The tail-end of a hydreed. Contains a chemical which can instantly knock someone out for a while, with a visible mood increase afterwards. Odd. No nutritional value.",
+        "aquapple": "Aquapple",
+        "aquappledsc": "A watery, bubble-shaped fruit. Looks and feels a little disgusting, but has high water content. Decays very fast.",
         "droppings": "Buangan",
         "droppingsdsc": "Tai itu lho.",
         "smallpack": "Ransel kecil",
@@ -314,6 +314,8 @@
         "bigpackdsc": "Ransel berukuran sedang.",
         "bikehelmet": "Helm sepeda",
         "bikehelmetdsc": "Helm yang dirancang untuk mengurangi dampak benturan pada kepala. Mengurangi cedera kepala akibat jatuh.",
+        "riothelmet": "Riot helmet",
+        "riothelmetdsc": "An advanced helmet that greatly reduces the severity of head trauma.",
         "holidayhat": "Topi liburan",
         "holidayhatdsc": "Kamu pernah dengar bahwa orang-orang mengenakan topi ini untuk acara khusus, tapi kamu tidak yakin apa maksudnya. Setidaknya, menyenangkan kamu diberi satu.",
         "headlamp": "Lampu kepala",
@@ -334,6 +336,8 @@
         "balaclavadsc": "Sepotong kain tebal dan empuk untuk melingkari tengkorakmu. Memberikan perlindungan kecil dan isolasi yang cukup baik.",
         "latexgloves": "Sarung tangan lateks",
         "latexglovesdsc": "Sepasang sarung tangan lateks sederhana. Memberikan sedikit isolasi dari cuaca.",
+        "tacticalgloves": "Tactical gloves",
+        "tacticalglovesdsc": "A pair of advanced synthetic gloves. Effectively protects your hands from physical trauma.",
         "fannypack": "Tas pinggang",
         "fannypackdsc": "Tas kecil yang dibuat untuk diletakkan di perutmu.",
         "bandolier": "Sabuk amunisi",
@@ -342,6 +346,8 @@
         "bellyarmordsc": "Sepotong logam besar, dibuat untuk diikatkan di perutmu. Memberikan perlindungan yang hebat, dan sedikit isolasi.",
         "belt": "Sabuk",
         "beltdsc": "Sabuk kulit untuk dikenakan di perutmu. Hanya bisa menahan peralatan.",
+        "traumarig": "Trauma rig",
+        "traumarigdsc": "An advanced synthetic protective pouch that can hold various tools, weapons and medical gear. Also protects your torso!",
         "popcorn": "Popkron",
         "popcorndsc": "Ember yang berisi biji-biji jagung, mengembang karena dipanaskan. Kamu pikir konsep itu sangat inovatif. Lezat. Kadaluarsa dalam waktu lama.",
         "nopopcorn": "Tanpa popcorn",
@@ -380,6 +386,10 @@
         "carcasssplintdsc": "Tabung panjang dan keras yang terbuat dari beberapa bangkai yang disambung. Berfungsi sebagai bidai darurat yang layak untuk mengobati patah tulang.",
         "terrainscanner": "Pemindai medan",
         "terrainscannerdsc": "Menampilkan peta medan di bawah kamu dengan kualitas rendah. Medan ditandai dengan warna hijau, bangunan dengan warna merah. Mungkin sedikit tidak akurat. Menjangkau hingga kedalaman 24 meter.",
+        "geigercounter": "Geiger counter",
+        "geigercounterdsc": "An electronic instrument for detecting and measuring ionizing radiation with the use of a Geiger–Müller tube. Use to toggle.",
+        "handcrank": "Hand crank charger",
+        "handcrankdsc": "A device which can recharge spent batteries via a manual cranking motion. Slot in a battery and crank away!",
         "sleepingbag": "Kantong tidur",
         "sleepingbagdsc": "Selimut terinsulasi untuk tempat tidur. Gunakan untuk tidur, meningkatkan kualitas tidur satu tingkat (maksimal jadi Baik) dan memberikan insulasi selama tidur. Keterbatasan tidur biasa tetap berlaku.",
         "liquidcentrifuge": "Sentrifugal cairan",
@@ -434,14 +444,16 @@
         "browncapdsc": "Kamu tidak yakin jenis jamur apa tepatnya. Bisa jadi jamur ini melakukan apa saja, mulai dari menyembuhkan luka hingga membunuhmu seketika.",
         "sneakers": "Sepatu kets",
         "sneakersdsc": "Sepasang sepatu kets putih, yang sama sekali tidak dirancang untuk dikenakan di kakimu. Jika kamu berhasil memasukkan kakimu ke dalamnya, sepatu ini memberikan perlindungan dari pecahan kaca.",
+        "tacticalboots": "Tactical boots",
+        "tacticalbootsdsc": "A pair of heavy synthetic boots, made to effectively protect the feet from various forms of trauma.",
         "frigiantfruit": "Buah frigian",
         "frigiantfruitdsc": "Buah yang sangat dingin, keras, dan seperti kaca. Enak, tetapi cenderung membuatmu sangat kedinginan. Pertimbangkan untuk tidak mengonsumsinya di tengah cuaca yang sangat dingin.",
-        "purpleherb": "Herba ungu",
-        "purpleherbdsc": "Daun ungu kering dengan tekstur kasar. Umumnya digunakan sebagai obat untuk penyakit tertentu - membantu melawan penyakit, sedikit membantu mengatasi gangguan pendengaran, dan mungkin mengurangi pendarahan internal. Gunakan dengan hati-hati - cenderung sangat meningkatkan suhu tubuh konsumen.",
-        "bulbskin": "Kulit umbi",
-        "bulbskindsc": "Sepotong kulit tanaman tebal berwarna kuning yang berminyak. Mengandung adrenalin dalam jumlah tinggi dan sedikit menghidrasi, tetapi mungkin sedikit memengaruhi fungsi otak. Dapat juga digunakan sebagai perban darurat dan pereda nyeri anggota tubuh.",
-        "geigefruit": "Buah geige",
-        "geigefruitdsc": "Buah mengkilap berbentuk persegi panjang yang aneh. Berbau minyak, tetapi rasanya enak! Mengembalikan rasa lapar dan haus. Dapat mengganggu paru-parumu untuk sesaat, dan mungkin secara acak membantu atau sedikit memperburuk penyakit radiasi. Memiliki reaksi keras saat membentur tanah dengan kecepatan tinggi - berguna untuk memeriksa ketinggian jatuh.",
+        "helluce": "Helluce",
+        "hellucedsc": "A dry, purple herb with an especially spicy taste. Helps against sickness, slightly helps hearing loss and might lessen internal bleeding. It has a tendency to highly increase the consumer's body temperature.",
+        "bulbskin": "Popskin",
+        "bulbskindsc": "A piece of thick, yellow membrane. Satiates thirst, but might minorly affect brain function. Can also be used as a makeshift bandage and analgesic.",
+        "popfruit": "Popfruit",
+        "popfruitdsc": "An odd, rectangular shiny fruit. Tasty, refills hunger and thirst. May randomly help or intensify radiation sickness slightly. Has a loud reaction when impacting the ground at speeds - useful for checking drop height.",
         "antisepticmush": "Campuran antiseptik",
         "antisepticmushdsc": "Campuran buah dan dedaunan yang dihancurkan bersama, menghasilkan campuran yang efektif dalam mengobati infeksi. Hanya untuk satu kali penggunaan.",
         "striderpelt": "Kulit pelangkah",
@@ -485,9 +497,9 @@
         "scrapcube": "Kubus logam bekas",
         "scrapcubedsc": "Kubus padat yang terbuat dari logam rongsokan yang dilebur. Tidak terlalu kuat, tetapi cukup untuk membuat barang.",
         "scrappanel": "Panel logam bekas",
-        "scrappaneldsc": "Lembaran tipis logam rongsokan. Tidak terlalu kuat, tetapi cukup untuk membuat barang.",
+        "scrappaneldsc": "Thin sheet of scrap metal. Not particularly strong, but will do in crafting.",
         "scraptube": "Tabung logam bekas",
-        "scraptubedsc": "Tabung berongga yang terbuat dari logam rongsokan. Tidak terlalu kuat, tetapi cukup untuk membuat barang. Bisa berfungsi sebagai palu darurat yang kurang bagus.",
+        "scraptubedsc": "Hollow tube made of scrap metal. Not particularly strong, but will do in crafting. Could act as a shoddy makeshift hammer.",
         "woodscraps": "Serpihan kayu",
         "woodscrapsdsc": "Potongan-potongan kayu yang hancur. Kamu mungkin bisa membuatnya menjadi bahan kerajinan.",
         "woodcube": "Kubus kayu",
@@ -624,8 +636,8 @@
         "ladderdsc": "Jejeran anak tangga vertikal yang digunakan untuk naik atau turun. Kamu mungkin sudah tahu cara menggunakannya.",
         "shadecrawler": "Rayap bayangan",
         "shadecrawlerdsc": "",
-        "wallbiter": "Cabik tembok",
-        "wallbiterdsc": "Seekor makhluk berbulu, berkaki enam, dan berukuran sangat besar yang mengkhawatirkan. Bisa dilihat suatu yang tampak seperti gigi tajam yang mencuat. Tampaknya bergerak secara tidak beraturan.",
+        "wallbiter": "Sand stalker",
+        "wallbiterdsc": "A large, fluffy, six legged beast. You can see what looks like sharp teeth sticking out. It's moving around erratically.",
         "thornbackyoung": "Punggung paku",
         "thornbackyoungdsc": "Seekor punggung paku muda, berbulu, dan sangat agresif. Mereka tampaknya senang menggali terowongan di dalam tanah dan mencabik-cabik apa pun yang bergerak di sekitarnya.",
         "thornbackelder": "Punggung paku tua",
@@ -666,8 +678,8 @@
         "medcratedsc": "Ada alat-alat medis didalamnya.",
         "rechargingstation": "Stasiun pengisian ulang",
         "rechargingstationdsc": "Stasiun yang digunakan untuk mengisi ulang baterai. Menerima baterai berbagai ukuran, dan tampaknya memiliki daya yang tak terbatas. Gunakan untuk memasukkan baterai dari tangan utamamu, lalu tarik baterai kembali ke tubuhmu.\n\nTampaknya memiliki pemutar musik untuk menenangkan suasana saat kamu menunggu... Ironisnya, alat ini tidak memiliki baterai.",
-        "mushplant": "Tanaman benyai",
-        "mushplantdsc": "Berkedut perlahat... Terlihat lembab.",
+        "hydreed": "Hydreed",
+        "hydreeddsc": "It has multiple arms with bubbly fruits at the ends. It looks moist...",
         "OxygenCrystal": "Kristal oksigen",
         "OxygenCrystaldsc": "Nampak bergelembung perlahan...",
         "reinforceddoor": "Pintu kokoh",
@@ -733,8 +745,8 @@
         "geyserdsc": "Geiser tidak stabil dengan kecenderungan menyemburkan air. Untungnya, suhu airnya paling buruk hanya suhu ruangan.",
         "oilpipe": "Pipa pembuangan",
         "oilpipedsc": "Pipa berkarat dengan cairan tar gelap yang mengalir keluar darinya. Kamu tidak mau melihat ke dalamnya... Mungkin akan membanjiri area sekitar jika dibiarkan cukup lama.",
-        "plantiation": "Plantiasi",
-        "plantiationdsc": "Tanaman panjang kusam berwarna ungu, dengan umbi besar semi-transparan yang tumbuh di ujungnya.",
+        "pop": "Pop",
+        "popdsc": "A long, dull purple colored plant, with a large semi-transparent bulb growing on the end.",
         "mushroomdropper": "Kapang Penitis",
         "mushroomdropperdsc": "Jamur yang melepaskan tudungnya untuk menyebarkan sporanya ke sekeliling siapapun yang tidak beruntung lewat di dekatnya.",
         "mushroomdropperpayload": "Tudung kapang penitis",
@@ -1330,6 +1342,8 @@
         "dirtywaterdsc": "Setidaknya tidak lagi mengenai tubuhmu. Tidak aman untuk diminum.",
         "algae": "Lumalga",
         "algaedsc": "Air dengan alga bioluminesen yang tumbuh lebat di dalamnya. Sangat mengapung. Tidak bisa dikonsumsi.",
+        "magma": "Magma",
+        "magmadsc": "Molten rock. Every single one of your senses is screaming at you to avoid it.",
         "oil": "Minyak",
         "oildsc": "Ter hitam kental. Sulit untuk dilalui. Tidak bisa dikonsumsi.",
         "sap": "Getah Pohon",
@@ -1341,7 +1355,7 @@
         "producejuice": "Jus buah dan sayur",
         "producejuicedsc": "Sekumpulan buah, sayuran, dan apa pun yang kamu temukan, dihaluskan dan dicampur dengan air. Rasanya... menarik.",
         "refinedjuice": "Jus olahan",
-        "refinedjuicedsc": "Jus buah dan sayur yang dimasak hingga matang, dicampur dan dihaluskan dengan lebih baik. Sangat enak dan bergizi!",
+        "refinedjuicedsc": "Cooked through, better mixed and mashed produce juice. Very tasty and nutritious!",
         "liquiddescription": "Jongkok dan diam untuk meminum",
         "Head": "Kepala",
         "UpTorso": "Toraks",
@@ -1479,6 +1493,8 @@
         "runsetlayermodifierchancedsc": "Seberapa mungkin modifikasi lapisan akan terjadi, per lapisan",
         "runsettimebetweenearthquakes": "Jeda antara gempa",
         "runsettimebetweenearthquakesdsc": "Seberapa lama rata-rata waktu yang dibutuhkan untuk gempa terjadi",
+        "runsettemperatureoffset": "Ambient temperature offset",
+        "runsettemperatureoffsetdsc": "How much warmer/colder should the environment be on average",
         "runsetlockpickprecision": "Kemudahan membobol kunci",
         "runsetlockpickprecisiondsc": "Seberapa lebar ketepatan sudut saat minigame membuka kunci",
         "runsetambientlight": "Cahaya pengisi",
@@ -1524,6 +1540,8 @@
         "gamesetframeratedsc": "Jika diatas 0, mengatur seberapa cepat game bisa dijalankan. Nilai 0 berarti tak terbatas. Akan dikesampingkan jika Sinkronisasi Vertikal diaktifkan",
         "gamesetpixelate": "Tampilan berpiksel",
         "gamesetpixelatedsc": "Beralih antara mode tampilan yang dikecilkan skalanya dengan mode render resolusi penuh. Ingat bahwa mematkan mode tapilan yang diperkecil skalanya mengorbakan sebagian dari gaya game yang diperuntuhkan.",
+        "gamesetdarkerbackground": "Darker backgrounds",
+        "gamesetdarkerbackgrounddsc": "Makes the cave background walls darker to improve contrast",
         "gamesetbloom": "Pendar",
         "gamesetbloomdsc": "Membuat bagian terang terlihat lebih bagus. Juga mempengaruhi efek lensa kotor",
         "gamesetfilmgrain": "Derau film",
@@ -1532,6 +1550,10 @@
         "gamesetlineofsightcountdsc": "Seberapa akurat shader garis pandang, jika berlaku. Nilai yang lebih tinggi berarti performa yang lebih buruk",
         "gamesetscreenshake": "Goyangan layar",
         "gamesetscreenshakedsc": "Seberapa kuat goyangan layar yang harus diberikan saat jatuh keras, ledakan, dll.",
+        "gamesetcensorpain": "Censor pain",
+        "gamesetcensorpaindsc": "Disables pain whines and tones down certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
+        "gamesetcensormood": "Censor mood",
+        "gamesetcensormooddsc": "Tones down low-mood events and certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
         "gamesetalwaysexpand": "Selalu luaskan deskripsi barang",
         "gamesetalwaysexpanddsc": "Ketika aktif, kamu akan selalu melihat deskripsi barang yang diperluas ketika kursor diarahkan diatasnya, tanpa harus menekan tombolnya",
         "gamesetshowhiddenmoodles": "Selalu tampilkan moodle-moodle tersembunyi",
@@ -1627,6 +1649,7 @@
         "amputationMinigameGuide": "Potong anggota tubuh untuk mengamputasi. Pastikan untuk menghentikan pendarahan setelahnya.",
         "aedMinigameGuide": "Ikuti perintah yang tertera.",
         "manualDefibMinigameGuide": "Sesuaikan tegangang yang proporsional dengan seberapa jauh siklus fibrilasi jantung Anda, isi daya, lalu kejutkan. Ulangi jika diperlukan.\nEstimasi yang direkomendasikan (POW.EST) menjadi lebih akurat dengan INT yang lebih tinggi.\n",
+        "handCrankMinigameGuide": "Grab the handle and rotate it to charge.",
         "aedstate0": "Letakan bantalan ke tempat yang sudah ditentukan.",
         "aedstate1": "Menganalisa denyut",
         "aedstate2": "Kejut direkomendasikan.\nTekan tombol untuk mengkejutkan",
@@ -1809,8 +1832,6 @@
         "hplimbforcedsc": "Kemampuan anggota tubuh untuk bergerak dan mengeluarkan tenaga",
         "hpopiate": "Jumlah opiat",
         "settings": "Pengaturan",
-        "custommusic": "Musik kustom",
-        "custommusicdsc": "Buka direktori musik kustom.\nKamu bisa meletakkan file .mp3/.ogg/.wav di sana agar muncul sebagai pilihan saat menggunakan pemutar MP3.\nJenis file lain tidak didukung.",
         "credits": "Kredit",
         "layer": "Lapisan",
         "toggleheatmode": "Ubah mode pemanasan",
@@ -1936,6 +1957,8 @@
         "wiki": "Wiki",
         "discord": "Server discord",
         "translations": "repo terjemahan",
+        "localefolder": "Translations folder",
+        "musicfolder": "Custom music",
         "healthchipcriticalalert1": "TANDA-TANDA VITAL\nKRITIS",
         "healthchipcriticalalert2": "PENGHENTIAN\nSEGERA",
         "healthchipcriticalalert3": "CARI PERTOLONGAN\nMEDIS",
@@ -2669,16 +2692,6 @@
                 "<limb>ku tidak baik-baik saja",
                 "<limb>ku berdarah...",
                 "Demi puji tuhan yang maha pengasih lagi maha penyayang! Sepertinya saya telah melakukan kesalahan pada perhitungan saya dan sudah terlihat jika <limb> saya sekarang telah berubah warna menjadi warna kuning sepenuhnya! Oh demi tuhan! Apa yang harus saya lakukan sekarang!"
-            ],
-            "sepsis": [
-                "Oh tuhan... Ku merasa buruk...",
-                "Auugh... Apa yang terjadi padaku...",
-                "Aku... menderita... secara fisik...",
-                "Tubuhku keliatan buruk...",
-                "Geuhh... Gak enakan...",
-                "Seluruh tubuhku merasa radang...",
-                "Organ tubuhku perih...",
-                "Aku gak merasa baik..."
             ],
             "sad": [
                 "Ini bisa lebih buruk.",
@@ -3933,6 +3946,21 @@
             "bleedingresponse": [
                 "Itu... Kelihatan buruk... Tapi, aku... Aku yakin kalau kamu bisa ngeperbaikinnya...",
                 "H-hei, tenang saja. kamu akan baik-baik saja."
+            ],
+            "painresponse": [
+                "Are you okay..? Why do you hurt?",
+                "Did you step on something?"
+            ],
+            "dirtyresponse": [
+                "...We have a shower, you know. Or... Just, go swim in the pools out and about..."
+            ],
+            "encumberedresponse": [
+                "Wouldn't hurt to leave some of your stuff with me.",
+                "I'll take good care of your things!"
+            ],
+            "dyingresponse": [
+                "Crap... Uh... I never learned how to resusciate others...",
+                "I... Uh... I hope you'll be alright..."
             ]
         },
         {
@@ -4103,7 +4131,8 @@
                 "Ngapain aku perlu pindah demi orang kayak mu?"
             ],
             "vomitresponse": [
-                "Anda nampaknya telah mengeluarkan isi perutmu."
+                "Anda nampaknya telah mengeluarkan isi perutmu.",
+                "Really? On MY floor?"
             ],
             "vomitbloodresponse": [
                 "...Nampaknya dirimu sedang mengalami pendarahan internal. Tolong jauhkan mulutmu dari saya sampai masa yang mendatang."
@@ -4138,6 +4167,22 @@
             "bleedingresponse": [
                 "Tolong jangan berdarah sampai ke diriku.",
                 "Harus saya ingatkan Anda untuk merawat lukamu."
+            ],
+            "painresponse": [
+                "Pain is simply weakness leaving the body. Toughen up, worm.",
+                "Take a painkiller. Surely, you must have some..."
+            ],
+            "dirtyresponse": [
+                "Correct. You are filthy. Refrain from touching me until you clean yourself."
+            ],
+            "encumberedresponse": [
+                "Would it hurt to leave those heavy belongings with me?",
+                "Such a tease you are."
+            ],
+            "dyingresponse": [
+                "Do not expect me to waste my time performing CPR on your corpse.",
+                "Really? Dying, on MY floor?",
+                "Will panicking really make the situation any better?"
             ]
         },
         {
@@ -4324,7 +4369,7 @@
                 "Te-man me-rasa buruk..? Kenapa?"
             ],
             "depressedresponse": [
-                "Te-man ter-lihat sangat buruk... Da-tang duduk dengan du-ne!"
+                "Fri-end look very bad... Co-me sit with Du-ne!"
             ],
             "selfharmresponse": [
                 "Kenapa te-man me-nyakit? Te-man jahat?"
@@ -4337,11 +4382,26 @@
                 "Du-ne tidak pernah me-rasa panas! Du-ne suka panas..."
             ],
             "coldresponse": [
-                "Du-ne takut di-ngin... Ruang Pa-nas! Te-man me-tetap de-ngan dune..."
+                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th Dune..."
             ],
             "bleedingresponse": [
                 "Te-man ter-sakit. Te-man butuh bantu-an!",
                 "Te-man bau darah... Du-ne suka."
+            ],
+            "painresponse": [
+                "Fri-end hurt..?",
+                "Du-ne und-erstand... Du-ne also feel pa-in! Fri-end okay?"
+            ],
+            "dirtyresponse": [
+                "What is dir-ty?"
+            ],
+            "encumberedresponse": [
+                "Can take friend stuff?",
+                "Du-ne can ease load!"
+            ],
+            "dyingresponse": [
+                "Wh-at wrong with fri-end..?",
+                "Du-ne not know how he-lp..."
             ]
         }
     ],

@@ -18,7 +18,7 @@
         "plasticbandagedsc": "特殊合成された強靭な素材の包帯。傷口を効率的に保護し、骨折部位を固定するために作られている。筋肉健康度への効果はない。",
         "adhesivebandage": "救急絆創膏",
         "adhesivebandagedsc": "小さな医療用被覆材のセット。軽度の負傷を処置するために作られている。出血をわずかに抑える。",
-        "musharm": "マッシュアーム",
+        "musharm": "Wrapvine",
         "musharmdsc": "Inedible plant part, useful as a one-time makeshift bandage. Can be used as foliage for crafing.",
         "paincream": "鎮痛クリームボトル",
         "paincreamdsc": "鎮痛クリームが入った100mLのボトル。1回の投与量は10mL。",
@@ -211,7 +211,7 @@
         "alcohol": "アルコール瓶",
         "alcoholdsc": "0.4Lの液体が入るガラス瓶。",
         "exposedcore": "Exposed core",
-        "exposedcoredsc": "The dormant remains of something once animated. You could probably eat it to absorb its energy in the form of nutrients and water. <i>It looks like it's slowly morphing into something...",
+        "exposedcoredsc": "The dormant remains of something once animated. You could probably eat it to absorb its energy in the form of nutrients and water. <i>It looks like it's slowly morphing into something...</i>",
         "foliage": "植物片",
         "foliagedsc": "一般的な異星の植物。辛うじて食用になるが、味は悪く、食べると調子が悪くなる可能性がある。腐敗が早い。クラフトによく使われる。",
         "foliagemeal": "植物片の即席料理",
@@ -298,12 +298,12 @@
         "tutorialradiodsc": "トレーニングセッションでは、たいていこれを渡される。メッセージが生放送か録音かは定かではない。押せるボタンがついている。",
         "mp3player": "MP3プレーヤー",
         "mp3playerdsc": "驚いたことに、まだ動作するようだ。小さなストレージには数曲の音楽ファイルが保存されている。再生して楽しむことができる。",
-        "mushpear": "マッシュペア",
-        "mushpeardsc": "水を供給するために進化した青い植物の一部。奇妙な減量作用があり、味は不味く、ほとんど食用には適さない。食べると体重が減少する。微量のアヘン成分が含まれているようだ。",
-        "mushtail": "マッシュテイル",
-        "mushtaildsc": "マッシュプラントの末端部。一時的に意識を失わせる化学物質を含んでおり、その後、目に見えて気分が高揚する。奇妙だ。栄養価はない。",
-        "mushball": "マッシュボール",
-        "mushballdsc": "丸くて食べられる、泡のような水分を含んだ果実。見た目も感触も少し気持ち悪いが、水分量は多い。非常に腐りやすい。",
+        "mushpear": "Numberry",
+        "mushpeardsc": "A part of a hydreed that filters and distributes water. Has an odd weight-absorbing property and an off-putting taste. Lowers body mass when eaten. Seems to have trace opiate concentration.",
+        "mushtail": "Naptail",
+        "mushtaildsc": "The tail-end of a hydreed. Contains a chemical which can instantly knock someone out for a while, with a visible mood increase afterwards. Odd. No nutritional value.",
+        "aquapple": "Aquapple",
+        "aquappledsc": "A watery, bubble-shaped fruit. Looks and feels a little disgusting, but has high water content. Decays very fast.",
         "droppings": "排泄物",
         "droppingsdsc": "糞だ。",
         "smallpack": "小型バックパック",
@@ -314,6 +314,8 @@
         "bigpackdsc": "中型のバックパック。",
         "bikehelmet": "自転車用ヘルメット",
         "bikehelmetdsc": "頭部への衝撃を軽減するために設計されたヘルメット。転落による頭の怪我を軽減する。",
+        "riothelmet": "Riot helmet",
+        "riothelmetdsc": "An advanced helmet that greatly reduces the severity of head trauma.",
         "holidayhat": "ホリデーハット",
         "holidayhatdsc": "You've heard that people wear these for some kind of special occasion, though you're not sure what it's about. It's nice that you were sent with one, at least.",
         "headlamp": "ヘッドランプ",
@@ -334,6 +336,8 @@
         "balaclavadsc": "頭蓋を包み込む厚手のパッド入り布地。わずかな防御力と、十分な防寒性を備えている。",
         "latexgloves": "ラテックス手袋",
         "latexglovesdsc": "シンプルなゴム手袋。外気からわずかに身を守る。",
+        "tacticalgloves": "Tactical gloves",
+        "tacticalglovesdsc": "A pair of advanced synthetic gloves. Effectively protects your hands from physical trauma.",
         "fannypack": "ウエストポーチ",
         "fannypackdsc": "腹部に装着するために作られた小さなバッグ。",
         "bandolier": "弾帯",
@@ -342,6 +346,8 @@
         "bellyarmordsc": "腹部に巻き付ける大きな金属板。高い防御力と防寒性を備えている。",
         "belt": "ベルト",
         "beltdsc": "A leather belt that goes over your belly. Can only hold tools.",
+        "traumarig": "Trauma rig",
+        "traumarigdsc": "An advanced synthetic protective pouch that can hold various tools, weapons and medical gear. Also protects your torso!",
         "popcorn": "ポップコーン",
         "popcorndsc": "A bucket containing a bunch of corn kernels, puffed up from being heated. You find it to be quite a novel concept. Tasty. Has a long shelf life.",
         "nopopcorn": "ポップコーン不在",
@@ -380,6 +386,10 @@
         "carcasssplintdsc": "複数の虫骸をつなぎ合わせて作った、硬く長い筒。骨折用の即席添え木として十分使える。",
         "terrainscanner": "地形スキャナー",
         "terrainscannerdsc": "Shows you a low-quality map of the terrain below you. Terrain is highlighted in green, solid buildings in red. Might be slightly inaccurate. Goes 24 meters down.",
+        "geigercounter": "Geiger counter",
+        "geigercounterdsc": "An electronic instrument for detecting and measuring ionizing radiation with the use of a Geiger–Müller tube. Use to toggle.",
+        "handcrank": "Hand crank charger",
+        "handcrankdsc": "A device which can recharge spent batteries via a manual cranking motion. Slot in a battery and crank away!",
         "sleepingbag": "寝袋",
         "sleepingbagdsc": "中に入って眠るための断熱カバー。使用して眠ると睡眠の質が1段階向上し（上限は 快適 ）、睡眠中の寒さを防ぐ。通常の睡眠制限が適用される。",
         "liquidcentrifuge": "液体遠心分離機",
@@ -434,14 +444,16 @@
         "browncapdsc": "どんな種類のキノコなのかよく分からない。わかるのは、傷を治してくれるかもしれないし、その場で即死するかもしれないことだけだ。",
         "sneakers": "スニーカー",
         "sneakersdsc": "白いスニーカー。明らかにあなたの足用ではない。無理やり足を押し込めば、ガラス片から守ってくれる。",
+        "tacticalboots": "Tactical boots",
+        "tacticalbootsdsc": "A pair of heavy synthetic boots, made to effectively protect the feet from various forms of trauma.",
         "frigiantfruit": "フリジアントの果実",
         "frigiantfruitdsc": "非常に冷たく、硬いガラスのような果実。美味しいが、体温を著しく下げる傾向がある。極寒の中で食べるのは避けた方がいい。",
-        "purpleherb": "紫のハーブ",
-        "purpleherbdsc": "乾燥した紫色の葉で、ザラザラした手触り。特定の症状への治療の補助として広く用いられる。病気に効き、聴覚障害を少し和らげ、内出血を抑える可能性もある。摂取者の体温を急激に上げる傾向があるため、使用には注意が必要。",
-        "bulbskin": "球根の皮",
-        "bulbskindsc": "油分を含んだ、分厚く黄色い植物の皮。アドレナリンを多量に含み、わずかに水分補給もできるが、脳機能に軽度の影響を与える可能性がある。即席の包帯や、部位の鎮痛剤としても使用可能。",
-        "geigefruit": "ガイガーフルーツ",
-        "geigefruitdsc": "奇妙な長方形のつやのある実。油の臭いがするが味はいい! 空腹と渇きを満たす。一時的に肺に悪影響を及ぼすことがあり、少しだけ放射線障害を改善することもあれば、悪化させることもある。高所から落とすと大きな音が鳴るため、落下の高さを確認するのに便利。",
+        "helluce": "Helluce",
+        "hellucedsc": "A dry, purple herb with an especially spicy taste. Helps against sickness, slightly helps hearing loss and might lessen internal bleeding. It has a tendency to highly increase the consumer's body temperature.",
+        "bulbskin": "Popskin",
+        "bulbskindsc": "A piece of thick, yellow membrane. Satiates thirst, but might minorly affect brain function. Can also be used as a makeshift bandage and analgesic.",
+        "popfruit": "Popfruit",
+        "popfruitdsc": "An odd, rectangular shiny fruit. Tasty, refills hunger and thirst. May randomly help or intensify radiation sickness slightly. Has a loud reaction when impacting the ground at speeds - useful for checking drop height.",
         "antisepticmush": "消毒用ペースト",
         "antisepticmushdsc": "果実と植物をすり潰して混ぜ合わせた混合物。感染症の治療に効果がある。1回分。",
         "striderpelt": "ストライダーの毛皮",
@@ -485,9 +497,9 @@
         "scrapcube": "スクラップキューブ",
         "scrapcubedsc": "金属スクラップを溶かし固めた立方体。強度はそれほどでもないが、クラフトには十分だ。",
         "scrappanel": "スクラップパネル",
-        "scrappaneldsc": "金属スクラップの薄い板。強度はそれほどでもないが、クラフトには十分だ。",
+        "scrappaneldsc": "Thin sheet of scrap metal. Not particularly strong, but will do in crafting.",
         "scraptube": "スクラップチューブ",
-        "scraptubedsc": "金属スクラップで作られた中空の管。強度はそれほどでもないが、クラフトには十分だ。お粗末な即席ハンマーとしても代用できる。",
+        "scraptubedsc": "Hollow tube made of scrap metal. Not particularly strong, but will do in crafting. Could act as a shoddy makeshift hammer.",
         "woodscraps": "木材スクラップ",
         "woodscrapsdsc": "粉々になった木材の破片。おそらくクラフト素材に加工できるだろう。",
         "woodcube": "木材キューブ",
@@ -624,8 +636,8 @@
         "ladderdsc": "昇り降りするための垂直に連なる足場。使い方は説明するまでもないだろう。",
         "shadecrawler": "シェードクロウラー",
         "shadecrawlerdsc": "",
-        "wallbiter": "ウォールバイター",
-        "wallbiterdsc": "やけに大きく、ふわふわな6本脚の動物。鋭い歯のようなものが突き出しているのが見える。不規則に動き回っているようだ。",
+        "wallbiter": "Sand stalker",
+        "wallbiterdsc": "A large, fluffy, six legged beast. You can see what looks like sharp teeth sticking out. It's moving around erratically.",
         "thornbackyoung": "ソーンバック",
         "thornbackyoungdsc": "若く、ふわふわで非常に好戦的なソーンバック。地面を掘り進み、近くで動くものを引き裂くことに喜びを感じているようだ。",
         "thornbackelder": "エルダーソーンバック",
@@ -666,8 +678,8 @@
         "medcratedsc": "医療品が入っている。",
         "rechargingstation": "充電ステーション",
         "rechargingstationdsc": "バッテリーを充電するためのステーション。あらゆるサイズのバッテリーに対応し、無限の電力を持っているようだ。メインハンドに持ったバッテリーを挿入し、充電後はバッテリーを自分にドラッグして回収する。\n\n待ち時間の雰囲気を和らげるためか、音楽プレイヤーも付いているようだ...皮肉なことに、こっちはバッテリーが入っていない。",
-        "mushplant": "マッシュプラント",
-        "mushplantdsc": "ピクピク動いている...湿っているようだ。",
+        "hydreed": "Hydreed",
+        "hydreeddsc": "It has multiple arms with bubbly fruits at the ends. It looks moist...",
         "OxygenCrystal": "酸素の結晶",
         "OxygenCrystaldsc": "ゆっくりと泡立っているようだ...。",
         "reinforceddoor": "強化ドア",
@@ -733,8 +745,8 @@
         "geyserdsc": "水を噴き出す傾向がある不安定な間欠泉。幸い、悪くても常温止まりだ。",
         "oilpipe": "廃液パイプ",
         "oilpipedsc": "暗いタールを垂れ流している錆びたパイプ。中を覗きたくはない...。時間が経てばこの周辺は水没するだろう。",
-        "plantiation": "プランティエーション",
-        "plantiationdsc": "長く、くすんだ紫色の植物で、末端に半透明の大きな球根が育っている。",
+        "pop": "Pop",
+        "popdsc": "A long, dull purple colored plant, with a large semi-transparent bulb growing on the end.",
         "mushroomdropper": "ドロップシュルーム",
         "mushroomdropperdsc": "カサを放出して、不運な通行人に胞子を撒き散らす菌類。",
         "mushroomdropperpayload": "ドロップシュルームのカサ",
@@ -1330,6 +1342,8 @@
         "dirtywaterdsc": "At least it's not on your body anymore. Not safe to drink.",
         "algae": "ルマルジー",
         "algaedsc": "高密度の生物発光藻類が生息する水。浮力が非常に強い。食用不適。",
+        "magma": "Magma",
+        "magmadsc": "Molten rock. Every single one of your senses is screaming at you to avoid it.",
         "oil": "オイル",
         "oildsc": "粘り気のある黒いタール。中を移動するのは困難だ。食用不適。",
         "sap": "樹液",
@@ -1341,7 +1355,7 @@
         "producejuice": "青果ジュース",
         "producejuicedsc": "果物や野菜、その他見つけたものを何でもすり潰して水と混ぜたもの。味は...興味深い。",
         "refinedjuice": "精製ジュース",
-        "refinedjuicedsc": "しっかり加熱し、より丁寧に混ぜてすり潰した青果ジュース。とても美味しくて栄養満点!",
+        "refinedjuicedsc": "Cooked through, better mixed and mashed produce juice. Very tasty and nutritious!",
         "liquiddescription": "しゃがんで静止すると飲むことができる。",
         "Head": "頭部",
         "UpTorso": "胸部",
@@ -1479,6 +1493,8 @@
         "runsetlayermodifierchancedsc": "How likely is a layer modifier to appear, per-layer",
         "runsettimebetweenearthquakes": "Time between earthquakes",
         "runsettimebetweenearthquakesdsc": "How long, on average, it will take for an earthquake to appear",
+        "runsettemperatureoffset": "Ambient temperature offset",
+        "runsettemperatureoffsetdsc": "How much warmer/colder should the environment be on average",
         "runsetlockpickprecision": "Lockpicking leniency",
         "runsetlockpickprecisiondsc": "How wide the precision angle is during lockpicking minigames",
         "runsetambientlight": "Ambient light",
@@ -1524,6 +1540,8 @@
         "gamesetframeratedsc": "If above 0, sets how fast the game is allowed to run. A value of 0 means unlimited. Overriden if V-Sync is on",
         "gamesetpixelate": "Pixelated rendering",
         "gamesetpixelatedsc": "Toggle downscaled of full resolution rendering. Note that disabling pixelated rendering sacrifices some of the game's intended artstyle.",
+        "gamesetdarkerbackground": "Darker backgrounds",
+        "gamesetdarkerbackgrounddsc": "Makes the cave background walls darker to improve contrast",
         "gamesetbloom": "Bloom",
         "gamesetbloomdsc": "Makes bright things look nicer. Also affects lens dirt",
         "gamesetfilmgrain": "Film grain",
@@ -1532,6 +1550,10 @@
         "gamesetlineofsightcountdsc": "How detailed is the line of sight shader, when applicable. Higher values worsen performance",
         "gamesetscreenshake": "Screenshake",
         "gamesetscreenshakedsc": "How much to shake the screen after hard falls, explosions, etc.",
+        "gamesetcensorpain": "Censor pain",
+        "gamesetcensorpaindsc": "Disables pain whines and tones down certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
+        "gamesetcensormood": "Censor mood",
+        "gamesetcensormooddsc": "Tones down low-mood events and certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
         "gamesetalwaysexpand": "Always expand item descriptions",
         "gamesetalwaysexpanddsc": "If on, you will always see expanded item descriptions when hovering over an item, without holding the expand key",
         "gamesetshowhiddenmoodles": "Always show hidden moodles",
@@ -1627,6 +1649,7 @@
         "amputationMinigameGuide": "四肢を切断するために挽く。その後、必ず止血すること。",
         "aedMinigameGuide": "Follow the displayed instructions.",
         "manualDefibMinigameGuide": "Match the charge proportional to how far along the fibrillation cycle your heart is, charge, then shock. Repeat if needed.\nThe recommended estimate (POW.EST) gets more accurate with higher INT.",
+        "handCrankMinigameGuide": "Grab the handle and rotate it to charge.",
         "aedstate0": "Place pads in designated spots.",
         "aedstate1": "Analyzing pulse",
         "aedstate2": "Shock recommended.\nPress button to shock.",
@@ -1809,8 +1832,6 @@
         "hplimbforcedsc": "The limb's total ability to move and exert force",
         "hpopiate": "オピオイド血中濃度",
         "settings": "Settings",
-        "custommusic": "カスタム楽曲",
-        "custommusicdsc": "カスタム楽曲フォルダを開く。\nここに.mp3/.ogg/.wavファイルを配置すると、MP3プレイヤーの選曲リストに表示される。\nその他のファイル形式は非対応。",
         "credits": "Credits",
         "layer": "階層",
         "toggleheatmode": "温度モード切替",
@@ -1936,6 +1957,8 @@
         "wiki": "Wiki",
         "discord": "Discordサーバー",
         "translations": "翻訳リポジトリ",
+        "localefolder": "Translations folder",
+        "musicfolder": "Custom music",
         "healthchipcriticalalert1": "バイタルサイン\nキケンリョウイキ",
         "healthchipcriticalalert2": "セイメイハンノウ\nショウシツマジカ",
         "healthchipcriticalalert3": "イリョウショチ\nヨウキュウ",
@@ -2669,16 +2692,6 @@
                 "<limb>の状態が良くない...",
                 "<limb>が血まみれだ...",
                 "なんてこった! 計算を間違え、今や僕の<limb>が真っ黄色じゃないか! あぁ神様! どうすればいいんだ!?"
-            ],
-            "sepsis": [
-                "あぁ、神様...本当に...まずい...",
-                "あぁぁ...僕に何が起きてるの...",
-                "体が...いうことを...聞かない...",
-                "体の具合が全然よくないよ...",
-                "ぐうぅっ...気持ち悪い...",
-                "全身が...炎症を起こしてるみたい...",
-                "体の中が痛いよ...",
-                "もう、だめかもしれない..."
             ],
             "sad": [
                 "まだマシな状況なはず。",
@@ -3933,6 +3946,21 @@
             "bleedingresponse": [
                 "It... Does look bad... But, I... I'm sure you can fix it...",
                 "H-hey, calm down. You'll be okay."
+            ],
+            "painresponse": [
+                "Are you okay..? Why do you hurt?",
+                "Did you step on something?"
+            ],
+            "dirtyresponse": [
+                "...We have a shower, you know. Or... Just, go swim in the pools out and about..."
+            ],
+            "encumberedresponse": [
+                "Wouldn't hurt to leave some of your stuff with me.",
+                "I'll take good care of your things!"
+            ],
+            "dyingresponse": [
+                "Crap... Uh... I never learned how to resusciate others...",
+                "I... Uh... I hope you'll be alright..."
             ]
         },
         {
@@ -4103,7 +4131,8 @@
                 "あなたごときのために動く義理がありますか?"
             ],
             "vomitresponse": [
-                "You appear to have returned your stomach contents."
+                "You appear to have returned your stomach contents.",
+                "Really? On MY floor?"
             ],
             "vomitbloodresponse": [
                 "...It appears you are bleeding internally. Please direct your mouth away from me for the forseeable future."
@@ -4138,6 +4167,22 @@
             "bleedingresponse": [
                 "Please don't bleed all over me.",
                 "I implore you to take care of your wounds."
+            ],
+            "painresponse": [
+                "Pain is simply weakness leaving the body. Toughen up, worm.",
+                "Take a painkiller. Surely, you must have some..."
+            ],
+            "dirtyresponse": [
+                "Correct. You are filthy. Refrain from touching me until you clean yourself."
+            ],
+            "encumberedresponse": [
+                "Would it hurt to leave those heavy belongings with me?",
+                "Such a tease you are."
+            ],
+            "dyingresponse": [
+                "Do not expect me to waste my time performing CPR on your corpse.",
+                "Really? Dying, on MY floor?",
+                "Will panicking really make the situation any better?"
             ]
         },
         {
@@ -4324,7 +4369,7 @@
                 "Fri-end feel bad..? Why?"
             ],
             "depressedresponse": [
-                "Fri-end look very bad... Co-me sit with du-ne!"
+                "Fri-end look very bad... Co-me sit with Du-ne!"
             ],
             "selfharmresponse": [
                 "Why is fri-end hurt? Fri-end evil?"
@@ -4337,11 +4382,26 @@
                 "Du-ne never feel hot! Du-ne love heat..."
             ],
             "coldresponse": [
-                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th dune..."
+                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th Dune..."
             ],
             "bleedingresponse": [
                 "Fri-end is hurt. Fri-end need help!",
                 "Fri-end smell like blood. Du-ne like."
+            ],
+            "painresponse": [
+                "Fri-end hurt..?",
+                "Du-ne und-erstand... Du-ne also feel pa-in! Fri-end okay?"
+            ],
+            "dirtyresponse": [
+                "What is dir-ty?"
+            ],
+            "encumberedresponse": [
+                "Can take friend stuff?",
+                "Du-ne can ease load!"
+            ],
+            "dyingresponse": [
+                "Wh-at wrong with fri-end..?",
+                "Du-ne not know how he-lp..."
             ]
         }
     ],

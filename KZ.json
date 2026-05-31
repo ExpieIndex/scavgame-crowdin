@@ -18,7 +18,7 @@
         "plasticbandagedsc": "Жараларды тиімді жабу және сынықтарды тұрақтандыру үшін арнайы синтезделген берік материалдан жасалған орам. Бұлшықет денсаулығына әсер етпейді.",
         "adhesivebandage": "Желім таңғыштар",
         "adhesivebandagedsc": "Кішкентай жарақаттарды емдеуге арналған шағын медициналық таңғыштар жиынтығы. Қан кетуді азайтады.",
-        "musharm": "Саңырауқұлақ қол",
+        "musharm": "Wrapvine",
         "musharmdsc": "Inedible plant part, useful as a one-time makeshift bandage. Can be used as foliage for crafing.",
         "paincream": "Ауырсынуды басатын крем",
         "paincreamdsc": "Химиялық заттар мен дәрі-дәрмектер қоспасымен толтырылған бөтелке. Қолданылған жердегі ауырсынуды бірден басады. Әсері ұзаққа созылмайды. Сондай-ақ жаралар үшін жақсы дезинфекциялаушы құрал болып табылады.",
@@ -211,7 +211,7 @@
         "alcohol": "Бір бөтелке алкоголь",
         "alcoholdsc": "Жапсырмасы жоқ алкоголь салынған шыны бөтелке. Ішуге болады, бірақ денеңіз оны жақсы қорыта алмайды. Жараларды дезинфекциялауға болады.",
         "exposedcore": "Exposed core",
-        "exposedcoredsc": "The dormant remains of something once animated. You could probably eat it to absorb its energy in the form of nutrients and water. <i>It looks like it's slowly morphing into something...",
+        "exposedcoredsc": "The dormant remains of something once animated. You could probably eat it to absorb its energy in the form of nutrients and water. <i>It looks like it's slowly morphing into something...</i>",
         "foliage": "Өсімдік",
         "foliagedsc": "Кәдімгі бөтен өсімдік. Әрең жеуге жарамды, дәмі жағымсыз. Ауыртып қоюы мүмкін. Тез бұзылады. Көбінесе қолөнерде қолданылады.",
         "foliagemeal": "Foliage meal",
@@ -298,12 +298,12 @@
         "tutorialradiodsc": "Оқу сабақтары үшін сізге әдетте осындай нәрсе беріледі. Хабарламалар тікелей эфирде ме, әлде алдын ала жазылған ба, білмейсің. Онда батырмасы бар, басуға болады.",
         "mp3player": "MP3 ойнатқыш",
         "mp3playerdsc": "Әлі жұмыс істеп тұрғаны таңқаларлық. Қолданған кезде әнді ойнатады/өткізіп жібереді.",
-        "mushpear": "Саңырауқұлақ алмұрт",
-        "mushpeardsc": "Суды тасымалдауға арналған көк өсімдік бөлігі. Әрең жеуге жарамды, оғаш салмақ сіңіру қасиеті және жағымсыз дәмі бар. Жеген кезде дене салмағын азайтады. Құрамында апиын концентрациясы бар сияқты.",
-        "mushtail": "Саңырауқұлақ құйрығы",
-        "mushtaildsc": "Саңырауқұлақ өсімдігінің соңғы құйрығы. Біраз уақытқа адамды бірден ұшыратын химиялық затты қамтиды, одан кейін көңіл-күйінің көтерілгені байқалады. Біртүрлі. Қоректік құндылығы жоқ.",
-        "mushball": "Саңырауқұлақ шар",
-        "mushballdsc": "Дөңгелек, жеуге жарамды, көпіршік тәрізді сулы жеміс. Сәл жиіркенішті көрінеді және сезіледі, бірақ құрамында су көп. Өте тез бұзылады.",
+        "mushpear": "Numberry",
+        "mushpeardsc": "A part of a hydreed that filters and distributes water. Has an odd weight-absorbing property and an off-putting taste. Lowers body mass when eaten. Seems to have trace opiate concentration.",
+        "mushtail": "Naptail",
+        "mushtaildsc": "The tail-end of a hydreed. Contains a chemical which can instantly knock someone out for a while, with a visible mood increase afterwards. Odd. No nutritional value.",
+        "aquapple": "Aquapple",
+        "aquappledsc": "A watery, bubble-shaped fruit. Looks and feels a little disgusting, but has high water content. Decays very fast.",
         "droppings": "Төгінділер",
         "droppingsdsc": "Бұл тезек.",
         "smallpack": "Шағын рюкзак",
@@ -314,6 +314,8 @@
         "bigpackdsc": "Орташа өлшемді рюкзак.",
         "bikehelmet": "Велосипед дулығасы",
         "bikehelmetdsc": "Басқа соққылардың ауырлығын азайтуға арналған дулыға. Құлаған кездегі бас жарақаттарын азайтады.",
+        "riothelmet": "Riot helmet",
+        "riothelmetdsc": "An advanced helmet that greatly reduces the severity of head trauma.",
         "holidayhat": "Holiday hat",
         "holidayhatdsc": "You've heard that people wear these for some kind of special occasion, though you're not sure what it's about. It's nice that you were sent with one, at least.",
         "headlamp": "Бас шамы",
@@ -334,6 +336,8 @@
         "balaclavadsc": "Бас сүйегіңізге оралатын қалың, жұмсақ мата. Аздап қорғаныс және жақсы жылулық береді.",
         "latexgloves": "Латекс қолғаптар",
         "latexglovesdsc": "Қарапайым латекс қолғаптар. Суықтан аздап қорғаныс береді.",
+        "tacticalgloves": "Tactical gloves",
+        "tacticalglovesdsc": "A pair of advanced synthetic gloves. Effectively protects your hands from physical trauma.",
         "fannypack": "Белбеу сөмке",
         "fannypackdsc": "Ішіңізге киюге арналған шағын сөмке.",
         "bandolier": "Бандольер",
@@ -342,6 +346,8 @@
         "bellyarmordsc": "Ішіңізге бекітуге арналған үлкен металл кесегі. Жақсы қорғаныс және аздап жылулық береді.",
         "belt": "Белбеу",
         "beltdsc": "A leather belt that goes over your belly. Can only hold tools.",
+        "traumarig": "Trauma rig",
+        "traumarigdsc": "An advanced synthetic protective pouch that can hold various tools, weapons and medical gear. Also protects your torso!",
         "popcorn": "Попкорн",
         "popcorndsc": "A bucket containing a bunch of corn kernels, puffed up from being heated. You find it to be quite a novel concept. Tasty. Has a long shelf life.",
         "nopopcorn": "Попкорн жоқ",
@@ -380,6 +386,10 @@
         "carcasssplintdsc": "Бірнеше қосылған өлекселерден жасалған қатты, ұзын түтік. Сынықтарды емдеуге арналған жақсы уақытша шина қызметін атқарады.",
         "terrainscanner": "Жер бедері сканері",
         "terrainscannerdsc": "Shows you a low-quality map of the terrain below you. Terrain is highlighted in green, solid buildings in red. Might be slightly inaccurate. Goes 24 meters down.",
+        "geigercounter": "Geiger counter",
+        "geigercounterdsc": "An electronic instrument for detecting and measuring ionizing radiation with the use of a Geiger–Müller tube. Use to toggle.",
+        "handcrank": "Hand crank charger",
+        "handcrankdsc": "A device which can recharge spent batteries via a manual cranking motion. Slot in a battery and crank away!",
         "sleepingbag": "Sleeping bag",
         "sleepingbagdsc": "An insulated covering for a person to sleep in. Use to sleep in it, bumping the sleeping quality up a tier (capped at Good) and giving you some insulation for the night. Normal sleep restrictions apply.",
         "liquidcentrifuge": "Liquid centrifuge",
@@ -434,14 +444,16 @@
         "browncapdsc": "Оның қандай саңырауқұлақ екенін нақты білмейсіз. Сіздің білуіңізше, ол жараларды емдеуден бастап, сізді сол жерде өлтіруге дейін кез келген нәрсені істеуі мүмкін.",
         "sneakers": "Кроссовкалар",
         "sneakersdsc": "Аяқтарыңызға киюге арналмаған ақ кроссовкалар. Егер сіз оларға табаныңызды қысып кіргізе алсаңыз, шыны сынықтарынан қорғаныс береді.",
+        "tacticalboots": "Tactical boots",
+        "tacticalbootsdsc": "A pair of heavy synthetic boots, made to effectively protect the feet from various forms of trauma.",
         "frigiantfruit": "Мұзды жеміс",
         "frigiantfruitdsc": "Өте суық, қатты және шыны тәрізді жеміс. Дәмді, бірақ сізді қатты суытып жібереді. Аязда жемеңіз.",
-        "purpleherb": "Күлгін шөп",
-        "purpleherbdsc": "Құрғақ, құмды құрылымы бар күлгін жапырақ. Кейбір ауруларға көмек ретінде жиі қолданылады - ауруға қарсы көмектеседі, есту қабілетінің жоғалуына аздап көмектеседі және ішкі қан кетуді азайтуы мүмкін. Сақтықпен қолданыңыз - ол тұтынушының дене температурасын қатты арттыруға бейім.",
-        "bulbskin": "Баллон қабығы",
-        "bulbskindsc": "Қалың, сары өсімдік терісінің майлы кесегі. Құрамында адреналин көп және сәл ылғалдандырады, бірақ мидың қызметіне аздап әсер етуі мүмкін. Сондай-ақ уақытша таңғыш және аяқ-қолға арналған ауырсынуды басатын дәрі ретінде қолданылуы мүмкін.",
-        "geigefruit": "Гейгер-жеміс",
-        "geigefruitdsc": "Біртүрлі, төртбұрышты жылтыр жеміс. Май сияқты иісі бар, бірақ дәмі жақсы! Аштық пен шөлді толтырады. Өкпеңізге бір сәтке әсер етуі мүмкін және радиациялық ауруға кездейсоқ көмектесуі немесе оны күшейтуі мүмкін. Жерге тигенде қатты реакция береді - құлау биіктігін тексеру үшін пайдалы.",
+        "helluce": "Helluce",
+        "hellucedsc": "A dry, purple herb with an especially spicy taste. Helps against sickness, slightly helps hearing loss and might lessen internal bleeding. It has a tendency to highly increase the consumer's body temperature.",
+        "bulbskin": "Popskin",
+        "bulbskindsc": "A piece of thick, yellow membrane. Satiates thirst, but might minorly affect brain function. Can also be used as a makeshift bandage and analgesic.",
+        "popfruit": "Popfruit",
+        "popfruitdsc": "An odd, rectangular shiny fruit. Tasty, refills hunger and thirst. May randomly help or intensify radiation sickness slightly. Has a loud reaction when impacting the ground at speeds - useful for checking drop height.",
         "antisepticmush": "Антисептикалық ботқа",
         "antisepticmushdsc": "Жемістер мен жапырақтардың бір-біріне жабысқан бөліктері, нәтижесінде инфекцияларды емдеуде тиімді қоспа болып табылады. Бір рет қолданылады.",
         "striderpelt": "Страйдер терісі",
@@ -485,9 +497,9 @@
         "scrapcube": "Scrap cube",
         "scrapcubedsc": "Solid cube made of melted scrap metal. Not particularly strong, but will do in crafting.",
         "scrappanel": "Scrap panel",
-        "scrappaneldsc": "Thin sheet of scrap metal. Not partiularly strong, but will do in crafting.",
+        "scrappaneldsc": "Thin sheet of scrap metal. Not particularly strong, but will do in crafting.",
         "scraptube": "Scrap tube",
-        "scraptubedsc": "Hollow tube made of scrap metal. Not partiularly strong, but will do in crafting. Could act as a shoddy makeshift hammer.",
+        "scraptubedsc": "Hollow tube made of scrap metal. Not particularly strong, but will do in crafting. Could act as a shoddy makeshift hammer.",
         "woodscraps": "Wood scraps",
         "woodscrapsdsc": "Bits and pieces of smashed wood. You could probably make them into a crafting material.",
         "woodcube": "Wood cube",
@@ -624,8 +636,8 @@
         "ladderdsc": "A vertical set of rungs used for climbing or descending. You assumably know how to use it.",
         "shadecrawler": "Шейд-кроулер",
         "shadecrawlerdsc": "",
-        "wallbiter": "Уолл-байтер",
-        "wallbiterdsc": "Қорқынышты үлкен, үлпілдек, алты аяқты аң. Одан өткір тістері шығып тұрған сияқты. Бейберекет қозғалып жүрген сияқты.",
+        "wallbiter": "Sand stalker",
+        "wallbiterdsc": "A large, fluffy, six legged beast. You can see what looks like sharp teeth sticking out. It's moving around erratically.",
         "thornbackyoung": "Торнбек",
         "thornbackyoungdsc": "Жас, үлпілдек және өте агрессивті торнбек. Олар жер астымен жүргенді және жақын жердегі кез келген қозғалатын нәрсені жыртып тастағанды ұнататын сияқты.",
         "thornbackelder": "Қарт торнбек",
@@ -666,8 +678,8 @@
         "medcratedsc": "Ішінде медициналық заттар бар.",
         "rechargingstation": "Recharging station",
         "rechargingstationdsc": "A station used for recharging batteries. Accepts batteries of any size, and has seemingly infinite power. Use to insert a battery from your main hand, then drag the battery back onto yourself.\n\nIt seems to have a music player to soothe the atmosphere while you wait... Ironically, it lacks a battery.",
-        "mushplant": "Мушөсімдік",
-        "mushplantdsc": "Ол баяу сілкініп тұр... Ылғалды сияқты.",
+        "hydreed": "Hydreed",
+        "hydreeddsc": "It has multiple arms with bubbly fruits at the ends. It looks moist...",
         "OxygenCrystal": "Оттегі кристаллы",
         "OxygenCrystaldsc": "Ол баяу көпіршіктеніп тұрған сияқты...",
         "reinforceddoor": "Бекітілген есік",
@@ -733,8 +745,8 @@
         "geyserdsc": "Суды атқылауға бейім тұрақсыз гейзер. Бақытымызға орай, ол ең нашар жағдайда бөлме температурасында.",
         "oilpipe": "Қалдық құбыр",
         "oilpipedsc": "Тот басқан құбырдан қара шайыр ағып жатыр. Ішіне қарағыңыз келмейді... Уақыт өте келе аймақты су басуы мүмкін.",
-        "plantiation": "Плантация",
-        "plantiationdsc": "Ұзын, күңгірт күлгін түсті өсімдік, ұшында үлкен жартылай мөлдір бадана өсіп тұр.",
+        "pop": "Pop",
+        "popdsc": "A long, dull purple colored plant, with a large semi-transparent bulb growing on the end.",
         "mushroomdropper": "Дропшром",
         "mushroomdropperdsc": "Қапыда өтіп бара жатқан кез келген адамға спораларын тарату үшін қалпақшасын жіберетін саңырауқұлақ.",
         "mushroomdropperpayload": "Дропшром қалпақшасы",
@@ -1330,6 +1342,8 @@
         "dirtywaterdsc": "At least it's not on your body anymore. Not safe to drink.",
         "algae": "Люмалга",
         "algaedsc": "Ішінде тығыз, биолюминесцентті балдырлар өсіп тұрған су. Өте қалқымалы.",
+        "magma": "Magma",
+        "magmadsc": "Molten rock. Every single one of your senses is screaming at you to avoid it.",
         "oil": "Мұнай",
         "oildsc": "Қалың, қара шайыр. Онымен қозғалу қиын.",
         "sap": "Ағаш шырыны",
@@ -1341,7 +1355,7 @@
         "producejuice": "Produce juice",
         "producejuicedsc": "A bunch of fruit, vegetables and whatever else you could find, mashed up and mixed with water. It tastes... interesting.",
         "refinedjuice": "Refined juice",
-        "refinedjuicedsc": "Cooked through, better mixed and mashed produce juice. Very tasty and nutricious!",
+        "refinedjuicedsc": "Cooked through, better mixed and mashed produce juice. Very tasty and nutritious!",
         "liquiddescription": "Ішу үшін отырыңыз және қозғалмаңыз",
         "Head": "Бас",
         "UpTorso": "Кеуде",
@@ -1479,6 +1493,8 @@
         "runsetlayermodifierchancedsc": "How likely is a layer modifier to appear, per-layer",
         "runsettimebetweenearthquakes": "Time between earthquakes",
         "runsettimebetweenearthquakesdsc": "How long, on average, it will take for an earthquake to appear",
+        "runsettemperatureoffset": "Ambient temperature offset",
+        "runsettemperatureoffsetdsc": "How much warmer/colder should the environment be on average",
         "runsetlockpickprecision": "Lockpicking leniency",
         "runsetlockpickprecisiondsc": "How wide the precision angle is during lockpicking minigames",
         "runsetambientlight": "Ambient light",
@@ -1524,6 +1540,8 @@
         "gamesetframeratedsc": "If above 0, sets how fast the game is allowed to run. A value of 0 means unlimited. Overriden if V-Sync is on",
         "gamesetpixelate": "Pixelated rendering",
         "gamesetpixelatedsc": "Toggle downscaled of full resolution rendering. Note that disabling pixelated rendering sacrifices some of the game's intended artstyle.",
+        "gamesetdarkerbackground": "Darker backgrounds",
+        "gamesetdarkerbackgrounddsc": "Makes the cave background walls darker to improve contrast",
         "gamesetbloom": "Bloom",
         "gamesetbloomdsc": "Makes bright things look nicer. Also affects lens dirt",
         "gamesetfilmgrain": "Film grain",
@@ -1532,6 +1550,10 @@
         "gamesetlineofsightcountdsc": "How detailed is the line of sight shader, when applicable. Higher values worsen performance",
         "gamesetscreenshake": "Screenshake",
         "gamesetscreenshakedsc": "How much to shake the screen after hard falls, explosions, etc.",
+        "gamesetcensorpain": "Censor pain",
+        "gamesetcensorpaindsc": "Disables pain whines and tones down certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
+        "gamesetcensormood": "Censor mood",
+        "gamesetcensormooddsc": "Tones down low-mood events and certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
         "gamesetalwaysexpand": "Always expand item descriptions",
         "gamesetalwaysexpanddsc": "If on, you will always see expanded item descriptions when hovering over an item, without holding the expand key",
         "gamesetshowhiddenmoodles": "Always show hidden moodles",
@@ -1627,6 +1649,7 @@
         "amputationMinigameGuide": "Saw through the limb to amputate. Make sure to stop the bleeding after.",
         "aedMinigameGuide": "Follow the displayed instructions.",
         "manualDefibMinigameGuide": "Match the charge proportional to how far along the fibrillation cycle your heart is, charge, then shock. Repeat if needed.\nThe recommended estimate (POW.EST) gets more accurate with higher INT.",
+        "handCrankMinigameGuide": "Grab the handle and rotate it to charge.",
         "aedstate0": "Place pads in designated spots.",
         "aedstate1": "Analyzing pulse",
         "aedstate2": "Shock recommended.\nPress button to shock.",
@@ -1809,8 +1832,6 @@
         "hplimbforcedsc": "The limb's total ability to move and exert force",
         "hpopiate": "Опиат мөлшері",
         "settings": "Settings",
-        "custommusic": "Custom music",
-        "custommusicdsc": "Open the custom music directory.\nYou can put .mp3/.ogg./.wav files there to make them show up as choices when using the MP3 player.\nOther file types are not supported.",
         "credits": "Credits",
         "layer": "Қабат",
         "toggleheatmode": "Жылу режимін ауыстыру",
@@ -1936,6 +1957,8 @@
         "wiki": "Wiki",
         "discord": "Discord server",
         "translations": "Translation repo",
+        "localefolder": "Translations folder",
+        "musicfolder": "Custom music",
         "healthchipcriticalalert1": "VITAL SIGNS\nCRITICAL",
         "healthchipcriticalalert2": "TERMINATION\nIMMINENT",
         "healthchipcriticalalert3": "SEEK MEDICAL\nATTENTION",
@@ -2669,16 +2692,6 @@
                 "Менің **<limb>**-м жақсы көрінбейді...",
                 "Менің **<limb>**-м қанға боялған...",
                 "О Құдайым! Мен есептеулерімде қателесіп, енді менің **<limb>**-м толығымен сары болып қалды! О Құдайым! Мен қазір не істеймін!"
-            ],
-            "sepsis": [
-                "Ох құдайым... Өзімді шынымен жаман сезінемін...",
-                "Ауух... Маған не болып жатыр...",
-                "Мен... Қиналдым... Физикалық жағынан...",
-                "Менің денем жақсы жұмыс істемейді...",
-                "Гуухх... Өзімді жаман сезінемін...",
-                "Менің бүкіл денем қабынып тұрғандай сезінемін...",
-                "Ішім ауырып тұр...",
-                "Мен жақсы емеспін..."
             ],
             "sad": [
                 "Жағдай нашарлауы мүмкін еді.",
@@ -3933,6 +3946,21 @@
             "bleedingresponse": [
                 "It... Does look bad... But, I... I'm sure you can fix it...",
                 "H-hey, calm down. You'll be okay."
+            ],
+            "painresponse": [
+                "Are you okay..? Why do you hurt?",
+                "Did you step on something?"
+            ],
+            "dirtyresponse": [
+                "...We have a shower, you know. Or... Just, go swim in the pools out and about..."
+            ],
+            "encumberedresponse": [
+                "Wouldn't hurt to leave some of your stuff with me.",
+                "I'll take good care of your things!"
+            ],
+            "dyingresponse": [
+                "Crap... Uh... I never learned how to resusciate others...",
+                "I... Uh... I hope you'll be alright..."
             ]
         },
         {
@@ -4103,7 +4131,8 @@
                 "Why would I move for someone like you?"
             ],
             "vomitresponse": [
-                "You appear to have returned your stomach contents."
+                "You appear to have returned your stomach contents.",
+                "Really? On MY floor?"
             ],
             "vomitbloodresponse": [
                 "...It appears you are bleeding internally. Please direct your mouth away from me for the forseeable future."
@@ -4138,6 +4167,22 @@
             "bleedingresponse": [
                 "Please don't bleed all over me.",
                 "I implore you to take care of your wounds."
+            ],
+            "painresponse": [
+                "Pain is simply weakness leaving the body. Toughen up, worm.",
+                "Take a painkiller. Surely, you must have some..."
+            ],
+            "dirtyresponse": [
+                "Correct. You are filthy. Refrain from touching me until you clean yourself."
+            ],
+            "encumberedresponse": [
+                "Would it hurt to leave those heavy belongings with me?",
+                "Such a tease you are."
+            ],
+            "dyingresponse": [
+                "Do not expect me to waste my time performing CPR on your corpse.",
+                "Really? Dying, on MY floor?",
+                "Will panicking really make the situation any better?"
             ]
         },
         {
@@ -4324,7 +4369,7 @@
                 "Fri-end feel bad..? Why?"
             ],
             "depressedresponse": [
-                "Fri-end look very bad... Co-me sit with du-ne!"
+                "Fri-end look very bad... Co-me sit with Du-ne!"
             ],
             "selfharmresponse": [
                 "Why is fri-end hurt? Fri-end evil?"
@@ -4337,11 +4382,26 @@
                 "Du-ne never feel hot! Du-ne love heat..."
             ],
             "coldresponse": [
-                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th dune..."
+                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th Dune..."
             ],
             "bleedingresponse": [
                 "Fri-end is hurt. Fri-end need help!",
                 "Fri-end smell like blood. Du-ne like."
+            ],
+            "painresponse": [
+                "Fri-end hurt..?",
+                "Du-ne und-erstand... Du-ne also feel pa-in! Fri-end okay?"
+            ],
+            "dirtyresponse": [
+                "What is dir-ty?"
+            ],
+            "encumberedresponse": [
+                "Can take friend stuff?",
+                "Du-ne can ease load!"
+            ],
+            "dyingresponse": [
+                "Wh-at wrong with fri-end..?",
+                "Du-ne not know how he-lp..."
             ]
         }
     ],
