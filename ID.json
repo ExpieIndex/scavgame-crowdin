@@ -4278,48 +4278,48 @@
                 "Per-gi! Atau di-gigi-t! Sekarang!",
                 "Mnnnhh... Mangs-a me-minta-nya...",
                 "Gghhrr! PER-GI...",
-                "Go... Away! Fa-r...",
-                "Dune hate fri-end!",
-                "Dune not let fri-end in!... Out!...",
-                "Dune want fri-end out!... No-w!..."
+                "Pergi... Jauh! Jau-h...",
+                "Dune benci te-man!",
+                "Dune tidak biar-kan te-man masuk!... Keluar!...",
+                "Dune ingin te-man keluar!... Seka-rang!..."
             ],
             "tradercombat": [
                 "Nggrrrrr! Grrrrrrr! GAAAAHHH!",
                 "GGHHRRAHHH!",
                 "GNNGHRHHRRRRR!",
-                "FRI-END REGRET CHO0I-CE!",
+                "TE-MAN SALAH-I PILIH-AN!",
                 "NGGHHRRR...",
-                "GRRRR! DUNE HATE!",
-                "NGHHRRRR... NO MO-RE FRI-END!",
-                "DUNE HA-TE EVIL FRI-END! GRRRR!",
-                "DUNE... FIND... E-NE-MY! M-ON-STER!"
+                "GRRRR! DUNE BENCI!",
+                "NGHHRRRR... TIDAK LA-GI TE-MAN!",
+                "DUNE BEN-CI TE-MAN JAHAT GRRRR!",
+                "DUNE... KE-TEMU... MU-SU-H! M-ON-STER!"
             ],
             "traderhugsuccess": [
-                "Why is fri-end touch...",
-                "Wh-at is fri-end doing..?",
-                "Gnhghr..? Why fri-end touch..?",
-                "Why tou-ch..? Du-ne not get...",
-                "Uhh... Grr... Du-ne not get... Dune allow...",
-                "Fri-end... Why?... Okay...",
-                "Dune not know... Why fri-end... Fri-end can do...",
-                "Dune and fri-end clo-se?... Wh-at..."
+                "Kenapa te-man sentuh...",
+                "Ap-a teman laku-kan..?",
+                "Gnhghr..? Kenapa te-man sentuh..?",
+                "Kenapa sent-uh..? Dun-ne tidak paham...",
+                "Uhh... Grr... Du-ne tidak... Dune boleh-kan...",
+                "Te-man... Kenapa?... Baik-lah...",
+                "Dune tidak tahu... Kenapa te-man... te-man bisa...",
+                "Dune dan te-man saha-bat?... Ap-a..."
             ],
             "traderhugfail": [
                 "GRRR! Minggir! Ggrrn...",
-                "Ngghrr! No! Aw-ay!",
-                "No! Dune not let...",
-                "Dune dis-like fri-end close...",
+                "Ngghrr! Tidak! Per-gi!",
+                "Tidak! Dune tidak boleh...",
+                "Dune tidak suka te-man men-dekat...",
                 "Grrr! Enggak! Ngghr...",
-                "Fri-end do not app-ro-ach! Grrr... Dune dis-like..."
+                "Te-man jangan men-de-kat! Grrr... Dune tidak suka..."
             ],
             "traderseegun": [
-                "What friend hold..? St-op!",
-                "Du-ne not com-fort with boom-stick...",
-                "N-no... Dune fear... loud rod...",
-                "Fri-end... Dune f-ear you... Lo-ud sti-ck...",
-                "Why fri-end ho-ld... thing of pain?...",
-                "Dune... Fear in-st-ant... Hurt thing...",
-                "Why fri-end ho-ld... Click-boom... Dune... Dislike...",
+                "Apa teman pegang..? Ja-ngan!",
+                "Du-ne tidak nya-man dengan tongkat yang me-ledak...",
+                "T-tidak... Dune takut... Batang yang lantang...",
+                "Te-man... Dune t-akut kamu... Tong-kat yang lan-tang...",
+                "Kenapa te-man pe-gang... benda yang me-nyakit-i?...",
+                "Dune... Taku se-ka-li... Benda yang me-nyakit-i...",
+                "Kenapa te-man pe-gang... tombol yang me-ledak... Dune... Tidak suka...",
                 "Dune takut... Sem-nam-pang?... Sakit... Tidak ambil...",
                 "La-wan tidak a-dil... Dune... tidak suka... senap-an..."
             ],
@@ -4369,7 +4369,7 @@
                 "Te-man me-rasa buruk..? Kenapa?"
             ],
             "depressedresponse": [
-                "Fri-end look very bad... Co-me sit with Du-ne!"
+                "Te-man ter-lihat sangat buruk... Da-tang duduk dengan Du-ne!"
             ],
             "selfharmresponse": [
                 "Kenapa te-man me-nyakit? Te-man jahat?"
@@ -4382,7 +4382,7 @@
                 "Du-ne tidak pernah me-rasa panas! Du-ne suka panas..."
             ],
             "coldresponse": [
-                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th Dune..."
+                "Du-ne takut di-ngin... Ruang Pa-nas! Te-man me-tetap de-ngan Dune..."
             ],
             "bleedingresponse": [
                 "Te-man ter-sakit. Te-man butuh bantu-an!",
@@ -5081,32 +5081,32 @@
         "Sungguh menarik. Tolong lanjutkan.",
         "Pagelaran emosi yang membawa gelak tawa.",
         "Akulah segalanya yang dimiliki diriku. Bagaimana denganmu?",
-        "Your delusion of any semblance of control is amusing. Continue.",
-        "Ready to start taking this seriously?",
-        "Trapped in eternity.",
-        "They don't know you're doing this.",
-        "You can still salvage this. I've seen worse.",
-        "Hello? Is this thing on?",
-        "I hope you reflect on what you just did.",
-        "You really think this thing is worth getting all the way down there? I can make plenty more.",
-        "Are you continually pausing time to see what I have to say?",
-        "Shame, right when I started getting invested into you.",
-        "Do you feel in charge?",
-        "You all are incredibly disappointing. But also entertaining. Are you any different?",
-        "I know how this ends. But do continue.",
-        "The stars are watching you.",
-        "\"Human\" is not the only thing watching.",
-        "Never learning. Never comprehending. Never consistent. If only you could see.",
-        "Right behind you.",
-        "This place has more interest than you could ever comprehend.",
-        "So much confidence in your own intellect. Cute.",
-        "Your supervisors do not tell you everything.",
-        "You're a dead man walking. Statistically speaking.",
-        "I suppose miracles do happen.",
-        "Delaying the inevitable?",
-        "I'm afraid it's terminal.",
-        "You are too resilient for your own good.",
-        "Hey, we were just getting to the good part!",
-        "Don't get comfortable."
+        "Khayalanmu akan secercah kendali begitu menakjubkan. Lanjutkan.",
+        "Sudah siap untuk mulai serius?",
+        "Terperangkap dalam keabadian.",
+        "Mereka tidak tahu kamu sedang ini.",
+        "Masih bisa kamu selamatkan. Aku pernah melhat yang lebih buruk.",
+        "Halo? Apakah ini menyala?",
+        "Semoga kamu merenungi apa yang kau telah perbuat.",
+        "Kamu pikir benda ini begitu berhagai di bawah sana? Aku bisa buat lebih banyak lagi.",
+        "Apakah kamu terus-terusan ngehentikan waktu cuma mau lihat apa yang aku bakal katakan?",
+        "Memalukan. tepat saat aku mulai tertarik dengamu.",
+        "Apakah aku terlihat seperti yang bertanggung jawab?",
+        "Kamu semua benar-benar mengecewakan. Tapi juga menghibur. Apakah kamu berbeda?",
+        "Aku sudah tahu bagaimana ini akan berakhir. Tapi terus lanjutkan.",
+        "Bintang-bintang sedang menyaksikan dirimu.",
+        "\"Manusia\" bukanlah satu-satunya yang sedang menonton.",
+        "Tidak pernah belajar. tidak pernah memahami. Tidak pernah konsisten. Seandainya kamu bisa melihatnya.",
+        "Tepat di belakangmu.",
+        "Tempat ini memliki daya tarik yang jauh melebihi pemahamanmu.",
+        "Begitu yakin akan kecermatanmu. Menggemaskan.",
+        "Atasanmu tidak memberi tahu kamu segalanya.",
+        "Kamu sebenarnya hanya seorang mayat yang berjalan. Berbicara secara satistik.",
+        "Rupanya keajaiban memang terjadi.",
+        "Menunda yang sudah tak bisa dielakan?",
+        "Aku takut bahwa ini sudah akut.",
+        "Kamu terlalu tangguh untuk kebaikanmu sendiri.",
+        "Hei, kita sudah mau saja masuk kebagian yang menarik!",
+        "Jangan terlalu terlena."
     ]
 }
