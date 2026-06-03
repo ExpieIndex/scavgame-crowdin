@@ -1529,9 +1529,9 @@
         "tabinput": "Kontrol",
         "tablanguage": "Bahasa",
         "gamesetreswidth": "Lebar resolusi",
-        "gamesetreswidthdsc": "Preferred horizontal resolution. Note that your OS might limit this.",
+        "gamesetreswidthdsc": "Resolusi horizontal yang disukai. Catat bahwa sistem operasi mungkin akan membatasi ini.",
         "gamesetresheight": "Tinggi resolusi",
-        "gamesetresheightdsc": "Preferred vertical resolution. Note that your OS might limit this.",
+        "gamesetresheightdsc": "Resolusi vertikal yang disukai. Catat bahwa sistem operasi mungkin akan membatasi ini.",
         "gamesetfullscreen": "Layar penuh",
         "gamesetfullscreendsc": "Beralih antara mode jendela dan tanpa bingkai",
         "gamesetvsync": "V-sync",
@@ -3948,19 +3948,19 @@
                 "H-hei, tenang saja. kamu akan baik-baik saja."
             ],
             "painresponse": [
-                "Are you okay..? Why do you hurt?",
-                "Did you step on something?"
+                "Kamu gak apa-apa..? Kenapa kamu kesakitan?",
+                "Tadi kamu nginjak sesuatu?"
             ],
             "dirtyresponse": [
-                "...We have a shower, you know. Or... Just, go swim in the pools out and about..."
+                "...Kita punya pancuran, kau tau. Atau... Renang sana di kolam luar gitu..."
             ],
             "encumberedresponse": [
-                "Wouldn't hurt to leave some of your stuff with me.",
-                "I'll take good care of your things!"
+                "Gak bakal keberatan kalo lu ninggalin beberapa barang buat ku.",
+                "Bakal gua simpen baik-baik barang-barang lu!"
             ],
             "dyingresponse": [
-                "Crap... Uh... I never learned how to resusciate others...",
-                "I... Uh... I hope you'll be alright..."
+                "Bangkek... Uh... Aku gak pernah belajar ngasih nafas buatan ke orang lain...",
+                "Aku... Uh... Semoga lu kan baik-baik aja..."
             ]
         },
         {
@@ -4132,7 +4132,7 @@
             ],
             "vomitresponse": [
                 "Anda nampaknya telah mengeluarkan isi perutmu.",
-                "Really? On MY floor?"
+                "Yang benar saja? Di lantai MILIKKU?"
             ],
             "vomitbloodresponse": [
                 "...Nampaknya dirimu sedang mengalami pendarahan internal. Tolong jauhkan mulutmu dari saya sampai masa yang mendatang."
@@ -4169,20 +4169,20 @@
                 "Harus saya ingatkan Anda untuk merawat lukamu."
             ],
             "painresponse": [
-                "Pain is a guarantee down here. Toughen up.",
-                "Take a painkiller. Surely, you must have some..."
+                "Akan bakal terus ada rasa sakit di bawah sana. Jangan cengeng.",
+                "Minumlah obat peredam nyeri. Anda pasti punya kan..."
             ],
             "dirtyresponse": [
-                "Correct. You are filthy. Refrain from touching me until you clean yourself."
+                "Tepat. Dirimu itu kotor. Jangan sentuh saya sampai kamu sudah membersihkan dirimu."
             ],
             "encumberedresponse": [
-                "Would it hurt to leave those heavy belongings with me?",
-                "Such a tease you are."
+                "Akankah keberatan jika kamu meninggalkan beberapa peralatan beratmu ke saya?",
+                "Dasar tukang menggoda."
             ],
             "dyingresponse": [
-                "I'm not sure CPR will help the situation at hand.",
-                "Really? Dying, on MY floor?",
-                "Will panicking really make the situation any better?"
+                "Saya tidak yakin jika RJP akan membantu saat ini.",
+                "Yang benar saja? Sekarat, di lantai MILIKKU?",
+                "Apakah panik akan benar-benar memecahkan masalah ini?"
             ]
         },
         {
@@ -4254,30 +4254,30 @@
             "traderbuyfail": [
                 "Grrr!",
                 "Tidak! Ggrhhr...",
-                "No! Gi-ve own!",
-                "Grrrr... Dune need thi-ng too!",
-                "Du-ne not gif-t... Giv-e now!... Grrrr...",
-                "Fri-end gi-ve fir-st..."
+                "Tidak! Be-ri punya!",
+                "Grrrr... Dune butuh bara-ng juga!",
+                "Du-ne tidak hadi-ah-kan... Ber-i juga!... Grrrr...",
+                "Te-man be-ri du-lu..."
             ],
             "traderbuyfailmaxvalue": [
-                "Gave enough! Go a-way now!",
-                "Dune give so mu-ch... Too much... Fri-end stop...",
-                "Dune not give... Big...",
-                "Grrr... Du-ne kee-p big! Grrrmph...",
-                "Dune ke-ep... Dune nee-d... Mo-re..."
+                "Beri banyak! Pergi seka-rang!",
+                "Dune beri banyak se-kali... Ter-lalu ba-nyak... Te-man ber-henti...",
+                "Dune tidak beri... Besar...",
+                "Grrr... Du-ne simpa-n besar! Grrrmph...",
+                "Dune sim-pan... Dune butu-h... La-gi..."
             ],
             "traderthreatensuccess": [
-                "Not need eff-ort... Take thing... Me-an...",
-                "Dune not take up com-bat... Take thi-ng and leave... Ggrhhr...",
-                "Fri-end gr-eat.. Hunter! Dune... Fear... Y-ou take...",
-                "Dune weak-er... Dune give... Up... Ta-ke and lea-ve...",
-                "Don't hu-rt Dune... Ta-ke thi-ng... Lea-ve...",
-                "Dune all-ow evil fri-end take thi-ng... But Dune ha-te fri-end..."
+                "Tidak perlu us-aha... Ambil benda... Ja-hat...",
+                "Dune tidak me-lawan kamu... Ambil ben-da dan pergi... Ggrhhr...",
+                "Te-man pem-buru.. Jahat! Dune... Takut... K-amu ambil...",
+                "Dune lemah-an... Dune meny-erah... Am-bil dan per-gi...",
+                "Jangan me-sakit-i Dune... Am-bil bar-ang... Per-gi...",
+                "Dune boleh-kan te-man jahat ambil ba-rang... Tapi dune ben-ci te-man..."
             ],
             "traderwarning": [
-                "Go aw-ay! Or bit-e! Now!",
-                "Mnnnhh... Pre-y is ask for it...",
-                "Gghhrr! LEAVE... AW-AY...",
+                "Per-gi! Atau di-gigi-t! Sekarang!",
+                "Mnnnhh... Mangs-a me-minta-nya...",
+                "Gghhrr! PER-GI...",
                 "Go... Away! Fa-r...",
                 "Dune hate fri-end!",
                 "Dune not let fri-end in!... Out!...",
@@ -4389,19 +4389,19 @@
                 "Te-man bau darah... Du-ne suka."
             ],
             "painresponse": [
-                "Fri-end hurt..?",
-                "Du-ne und-erstand... Du-ne also feel pa-in! Fri-end okay?"
+                "Te-man sakit..?",
+                "Du-ne p-aham... Du-ne juga rasa-kan sak-it! Te-man sehat?"
             ],
             "dirtyresponse": [
-                "What is dir-ty?"
+                "Apa itu ko-tor?"
             ],
             "encumberedresponse": [
-                "Can take friend stuff?",
-                "Du-ne can ease load!"
+                "Bisa ambil barang teman?",
+                "Du-ne bisa me-ringan-kan beban!"
             ],
             "dyingresponse": [
-                "Wh-at wrong with fri-end..?",
-                "Du-ne not know how he-lp..."
+                "Ap-a salah dengan te-man..?",
+                "Du-na tidak tahu ban-tu..."
             ]
         }
     ],
@@ -5004,43 +5004,43 @@
         }
     ],
     "pauseQuotes": [
-        "Paused.",
-        "I'll wait.",
-        "Really?",
-        "Time is stopped.",
-        "Taking a break already?",
-        "Tired yet?",
-        "Dissapointing.",
-        "Waiting for you",
-        "Hey!",
-        "\"While you're away, get me a soda.\"",
-        "Coward.",
-        "And so, time has halted...",
-        "The clock stopped ticking",
-        "Just breathe in and breathe out.",
-        "It wasn't THAT bad...",
-        "Let us pause.",
-        "Stressed out?",
-        "Wow, you're still alive?",
-        "Hey, get back to work!",
-        "Take a breather.",
-        "Lunchtime?",
-        "Get yourself a snack.",
-        "Oh, come on!",
-        "That was painful to watch.",
-        "Could've gone better.",
-        "Happy surviving!",
-        "Lazy.",
-        "So, how's your day going?",
-        "Hello!",
-        "Took you long enough.",
-        "What a display of competency...",
-        "Too scared?",
-        "Giving up?",
-        "There is always a price of silence.",
-        "Could've given me a warning at least.",
-        "We meet once again.",
-        "Want some help? Too bad.",
+        "Dijeda.",
+        "Akan aku tunggu.",
+        "Yang benar saja?",
+        "Waktu berhenti.",
+        "Sudah istirahat duluan?",
+        "Sudah lelah?",
+        "Mengecewakan.",
+        "Menunggu dirimu",
+        "Hei!",
+        "\"Bisa ambilin minum sekalian juga gak.\"",
+        "Pengecut.",
+        "Dan dengan begitu, waktu telah berhenti...",
+        "Jam telah berhenti berdetak",
+        "Tarik nafas, dan keluarkan.",
+        "Itu gak terlalu parah...",
+        "Mari berhenti sejenak.",
+        "Sudah muak?",
+        "Wow, kamu masih hidup?",
+        "Hei, kembali berkerja!",
+        "Bernafaslah.",
+        "Waktu makan siang?",
+        "Jajanlah dulu.",
+        "Oh, ayolah!",
+        "Itu begitu menyakitkan untuk dipandang.",
+        "Bisa lebih baik.",
+        "Selamat menyelamatkan diri!",
+        "Pemalas.",
+        "Jadi, gimana harimu?",
+        "Halo!",
+        "Lama sekali.",
+        "Kelihatan banget gak becusnya...",
+        "Ketakutan?",
+        "Nyerah?",
+        "Selalu ada harga dalam kesunyian.",
+        "Setidaknya beri aku aba-aba dulu.",
+        "Kita bertemu sekali lagi.",
+        "Mau bantuan? Sayang sekali.",
         "Overconfidence is a slow and insidious killer",
         "How tragic...",
         "We don't have all the time in the world, you know.",
@@ -5078,9 +5078,9 @@
         "Going to take the easy way out?",
         "I have all the time I need. Same cannot be said about you.",
         "A grand delusion. A grand failure and waste. But not to me.",
-        "How interesting. Please continue.",
-        "An amusing display of emotion.",
-        "I am the all that I possess. Are you?",
+        "Sungguh menarik. Tolong lanjutkan.",
+        "Pagelaran emosi yang membawa gelak tawa.",
+        "Akulah segalanya yang dimiliki diriku. Bagaimana denganmu?",
         "Your delusion of any semblance of control is amusing. Continue.",
         "Ready to start taking this seriously?",
         "Trapped in eternity.",
