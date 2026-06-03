@@ -1546,6 +1546,8 @@
         "gamesetbloomdsc": "Membuat bagian terang terlihat lebih bagus. Juga mempengaruhi efek lensa kotor",
         "gamesetfilmgrain": "Derau film",
         "gamesetfilmgraindsc": "Seberapa nampak filter derau yang kamu inginkan",
+        "gamesetbrightness": "Brightness",
+        "gamesetbrightnessdsc": "How much brighter to make any non-pitch black tones",
         "gamesetlineofsightcount": "Resolusi garis pandang",
         "gamesetlineofsightcountdsc": "Seberapa akurat shader garis pandang, jika berlaku. Nilai yang lebih tinggi berarti performa yang lebih buruk",
         "gamesetscreenshake": "Goyangan layar",
