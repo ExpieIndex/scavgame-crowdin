@@ -448,7 +448,7 @@
         "tacticalbootsdsc": "Sepasang sepatu sintetis berat, untuk melindungi secara efektif kaki dari bentuk trauma apapun.",
         "frigiantfruit": "Buah frigian",
         "frigiantfruitdsc": "Buah yang sangat dingin, keras, dan seperti kaca. Enak, tetapi cenderung membuatmu sangat kedinginan. Pertimbangkan untuk tidak mengonsumsinya di tengah cuaca yang sangat dingin.",
-        "helluce": "Helus",
+        "helluce": "Hellusa",
         "hellucedsc": "Herbal ungu kering dengan rasa yang pedas. Membantu dengan mual, sedikit membantu sedikit gangguan pendengaran dan mungkin meringankan pendarahan internal. Memiliki kecenderungan untuk menaikan suhu tubuh yang memakan ini.",
         "bulbskin": "Bohlam kulit",
         "bulbskindsc": "Sepotong membran tebal berwarna kuning. Melegakan haus, tetapi mungkin sedikit memengaruhi fungsi otak. Dapat juga digunakan sebagai perban darurat dan analgesik.",
@@ -645,7 +645,7 @@
         "cavetick": "Kutu gua",
         "cavetickdsc": "",
         "overgrowntick": "Kutu raksasa",
-        "overgrowntickdsc": "Kutu gua yang memiliki terlalu banya makanan dan ruang untuk tumbuh. Agresif serperti biasanya.",
+        "overgrowntickdsc": "Kutu gua yang memiliki terlalu banyak makanan dan ruang untuk tumbuh. Agresif seperti biasanya.",
         "DigestionCrystal": "Kristal pencernaan",
         "DigestionCrystaldsc": "Terlihat dan terasa aneh.",
         "dropcapsule": "Kapsul Turunan",
@@ -659,7 +659,7 @@
         "EmissiveCrystal": "Kristal bersinar",
         "EmissiveCrystaldsc": "Cahaya yang cukup terang bersinar darinya.",
         "foodbox": "Kotak makanan",
-        "foodboxdsc": "Terdapat makanan di dalamanya.",
+        "foodboxdsc": "Terdapat makanan di dalamnya.",
         "geotree": "Pohon geo",
         "geotreedsc": "terasa kenyal! Terdapat benda seperti dedaunan geometris di atasnya.",
         "glowplant": "Tanaman sinar",
@@ -700,7 +700,7 @@
         "crystalenemydsc": "Ekspresi keinginan jahat, dari sesuatu yang jauh, jauh melampaui pemahaman fisikmu yang terbatas.",
         "sandrose": "Mawar pasir",
         "sandrosedsc": "Tanaman yang aneh tapi indah dengan beberapa umbi besar dan lonjong yang tumbuh di atasnya.",
-        "scrapeater": "Pemakan ronsokan",
+        "scrapeater": "Pemakan rongsokan",
         "scrapeaterdsc": "Ada tulisan yang tertulis \"Masukan rongsokan untuk membuka\", dengan monitor kecil di sampingnya yang menampilkan <color=#ffffff>\"<>%\".",
         "shuttledoor": "Pintu ulang-aling",
         "shuttledoordsc": "Bongkahan logam besar untuk menjaga yang yang di luar agar tetap di luar, dan yang di dalam agar tetap di dalam.",
@@ -731,7 +731,7 @@
         "brownshroom": "Cendawan coklat",
         "brownshroomdsc": "Tidak banyak yang kamu bisa katakan tentang itu selain fakta bahwa, warnanya memang cokelat.",
         "spentfuel": "Bahan bakar bekas",
-        "spentfueldsc": "Energi menegrikan terpancar darinya.",
+        "spentfueldsc": "Energi mengerikan terpancar darinya.",
         "radbarrel": "Tangki",
         "radbarreldsc": "Nampak usang.",
         "soundcannon": "Meriam suara",
@@ -752,7 +752,7 @@
         "mushroomdropperpayload": "Tudung kapang penitis",
         "mushroomdropperpayloaddsc": "Bagian yang jatuh dan yang sakit.",
         "mushroomrope": "Tali Kapang",
-        "mushroomropedsc": "Bagian jamur yang panjang. It looks like you could climb on it pretty easily.",
+        "mushroomropedsc": "Bagian jamur yang panjang. Sepertinya kamu bisa memanjatnya dengan mudah.",
         "sidestabber": "Penombak sisi",
         "sidestabberdsc": "Hewan aneh yang menyatu dengan jamur. Meluncurkan duri besar ke arah mangsa yang lewat.",
         "skullcrusher": "Peretak tengkorak",
@@ -946,12 +946,12 @@
         "braindamage1dsc": "Gangguan mental dari kerusakan otak. Kamu merasa bingung yang tidak enak...",
         "strokedsc": "Pendarahan di otak, kemungkinan disebabkan oleh hipertensi parah. Karena sudah terlanjut, Kesempatan hidup hampir tidak ada kecuali kamu memiliki Braingrow atau prokoagulan.",
         "cantbreathedsc": "Hilang nafas! Kesadaran akan hilang dan kematian datang jika tidak ditangani.",
-        "thoraxdestroyeddsc": "Paru-parumu terlalu rusak untuk berfungsi, akibat kondisi otot thoraks kritis.",
+        "thoraxdestroyeddsc": "Paru-parumu terlalu rusak untuk berfungsi, akibat kondisi otot toraks kritis.",
         "pulmonaryembolismdsc": "Sebuah gumpalan darah besar telah tersangkut di paru-paru, menyumbati arteri. Kerusakan paru-paru parah dan sesak napas akan terjadi. Segera kurangi kekentalan darahmu.",
         "oxygen1dsc": "SpO2 di bawah 90%. Walau tidak berbahaya, bisa bertanda kondisi yang mendasar.",
-        "oxygen2dsc": "SpO2 di bawah 75%, menyebabkan takikardia dan mengurangi kadar oksigen ke otak. Walau tidak lethal, ini bertanda adanya kondisi yang mendasar.",
-        "oxygen3dsc": "SpO2 di bawah 60%, mengurangi kadar oksigen ke sel-sel tubuh dan bisa memicu aritmia jantung. Lethal jika dibiarkan lanjut.",
-        "oxygen4dsc": "SpO2 di bawah 45%. Ada sesuatu yang sangat, sangat salah dalam tubuhmu. Lethal jika dibiarkan berlanjut.",
+        "oxygen2dsc": "SpO2 di bawah 75%, menyebabkan takikardia dan mengurangi kadar oksigen ke otak. Walau tidak mematikan, ini bertanda adanya kondisi yang mendasar.",
+        "oxygen3dsc": "SpO2 di bawah 60%, mengurangi kadar oksigen ke sel-sel tubuh dan bisa memicu aritmia jantung. Mematikan jika dibiarkan lanjut.",
+        "oxygen4dsc": "SpO2 di bawah 45%. Ada sesuatu yang sangat, sangat salah dalam tubuhmu. Mematikan jika dibiarkan berlanjut.",
         "fibrillation1dsc": "irama jantung abnormal, kemungkinan besar disebabkan oleh renggangan besar di tubuh. Bisa memburuk jika tidak ditangani. Bisa dilakukan defibrilasi",
         "fibrillation2dsc": "Denyut jantung abnormal parah, mencegah pemompaan darah yang efektif. Akan memburuk menjadi fibrasi ventrikel yang berbahaya jika tidak ditangani. Bisa dilakukan defibrilasi",
         "fibrillation3dsc": "Denyut jantung kacau yang mengancam jiwa. Asistol akan menyusul. Segala sudah menjadi sangat buruk.",
@@ -1144,13 +1144,13 @@
         "layermodifier5dsc": "Tempat ini terendam air.",
         "layermodifier6dsc": "kamu mungkin tidak akan menemukan kolam terbuka di sini.",
         "layermodifier7dsc": "Air menetes dari mana-mana di sini...",
-        "layermodifier8dsc": "Tempat ini tanpaknya memiliki aktivitas serangga yang sangat tinggi.",
+        "layermodifier8dsc": "Tempat ini tampaknya memiliki aktivitas serangga yang sangat tinggi.",
         "layermodifier9dsc": "Limbah nuklir telah dibuang di lokasi ini.",
         "layermodifier10dsc": "Suar matahari yang kuat telah menonaktifkan chipmu untuk sementara waktu.",
-        "genclearingworld": "Membersihkan playfield...",
+        "genclearingworld": "Membersihkan bidang permainan...",
         "geninstantiatingchunks": "membuat area baru...",
         "genpreprocessing": "Membenarkan warna...",
-        "gencreatingbackground": "Menata background...",
+        "gencreatingbackground": "Menata latar belakang...",
         "gencreatingterrain": "Membuat tempat yang bisa dipinjak...",
         "gencreatingstructures": "Menjatuhkan kargo-kargo...",
         "genplacingplayer": "Mencari tempat aman...",
@@ -1173,7 +1173,7 @@
         "air": "Udara",
         "lightrock": "Batuan ringan",
         "gravel": "Kerikil",
-        "scrappile": "Tumpukan songsokan",
+        "scrappile": "Tumpukan rongsokan",
         "trashpile": "Tumpukan sampah",
         "concretetile": "Ubin beton",
         "steeltile": "Ubin baja",
@@ -1209,7 +1209,7 @@
         "lrdserum": "Serum P.R.L",
         "lrdserumdsc": "Campuran special digunakan oleh Perangkat Resusitasi Lokal. Tidak berguna jika disuntikan dengan alat lain.",
         "cleanwater": "Air bersih",
-        "cleanwaterdsc": "Air bersih terfilter. Aman, tapi tidak ada rasanya.",
+        "cleanwaterdsc": "Air bersih tersaring. Aman, tapi tidak ada rasanya.",
         "carbonatedwater": "Air soda",
         "carbonatedwaterdsc": "Air pedas. Kamu suka.",
         "alcohol": "Alkohol",
@@ -1282,23 +1282,23 @@
         "painkillersdsc": "Pil opioid yang digunakan untuk mengobati rasa sakit. Overdosis pada 60 ml.",
         "disinfectant": "Antiseptik",
         "disinfectantdsc": "Cairan antiseptik dasar. Melawan infeksi dan sedikit menyengat.",
-        "ringersolution": "Larutan ringer",
+        "ringersolution": "Larutan Ringer",
         "ringersolutiondsc": "Larutan garam-garam yang larut dalam air untuk tujuan menciptakan larutan isotonik relatif terhadap cairan tubuh hewan. Baik untuk menghilangkan rasa haus dan kehilangan darah.",
         "saline": "Larutan Garam",
         "salinedsc": "Campuran antara garam dan air, biasanya digunakan untuk mengatasi hipovolemia dan haus.",
         "antivenom": "Antivenin",
         "antivenomdsc": "Pengobatan untuk evenomasi. Terdiri dari antibodi-antibodi yang mematikan hemotoksin di dalam aliran darah. Diberikan secara intravena.",
         "blood": "Darah",
-        "blooddsc": "Darah kuning. Meskipun warnanya tanpak normal bagimu, rupanya itu adalah efek samping dari proses rekayasa biologi. Digunakan untuk mengobati hipovolemia.",
+        "blooddsc": "Darah kuning. Meskipun warnanya nampak normal bagimu, rupanya itu adalah efek samping dari proses rekayasa biologi. Digunakan untuk mengobati hipovolemia.",
         "redblood": "Darah merah",
-        "redblooddsc": "Darah merah. Terlihat aneh bagimu dan baunya memngingatkanmu akan penahanmu. Bisa digunakan untuk mengatasi hipovolemia, tapi tubuhmu tidak akan menanggapinya dengan baik.",
+        "redblooddsc": "Darah merah. Terlihat aneh bagimu dan baunya mengingatkanmu akan penahanmu. Bisa digunakan untuk mengatasi hipovolemia, tapi tubuhmu tidak akan menanggapinya dengan baik.",
         "alienblood": "Darah alien",
-        "alienblooddsc": "Darah kuning dari alien. Meski terlihat sama dengan milikmu, masih terlihat sedikit berbeda. Harusnya tidak terlalu buruk sebagai penggati darahmu.",
+        "alienblooddsc": "Darah kuning dari alien. Meski terlihat sama dengan milikmu, masih terlihat sedikit berbeda. Harusnya tidak terlalu buruk sebagai pengganti darahmu.",
         "antiserum": "Antiserum",
         "antiserumdsc": "Serum darah yang mengandung antibodi untuk melawan sebagian besar infeksi umum. Meningkatkan kekebalan dan membantu mengurangi sepsis. Sedikit meningkatkan volume darah.",
         "antibiotics": "Antibiotik",
         "antibioticsdsc": "Pil yang meningkatkan kekebalan tubuhmu untuk sementara waktu, melawan semua infeksi. Rasanya tidak enak.",
-        "sleepingpills": "Pil tidur",
+        "sleepingpills": "Obat tidur",
         "sleepingpillsdsc": "Obat tidur kuat. memperbolehkanmu untuk tidur dalam kondisi fisik yang buruk. Jangan campur dengan opiat.",
         "procoagulant": "Prokoagulan",
         "procoagulantdsc": "Zat kimia yang mendorong pembekuan darah. Secara global memperlambat kehilangan darah, termasuk pendarahan internal. Akan menyebabkan komplikasi jika dipakai berlebihan.",
@@ -1310,10 +1310,10 @@
         "antidepressantsdsc": "Pil antidepresan kuat. Membuatmu mati rasa untuk beberapa waktu, dan perlahan meningkatkan kebahagiaan. Mungkin memiliki efek samping.",
         "antirad": "Antiradiasi",
         "antiraddsc": "Obat eksperimental yang secara langsung mengurangi efek sakit radiasi jika dikonsumsi. Membutuhkan dosis yang lebih tinggi untuk radiasi yang parah.",
-        "braingrow": "Petumbuh otak",
+        "braingrow": "Penumbuh otak",
         "braingrowdsc": "Obat khusus yang diminum untuk merangsang pertumbuhan kembali otak. Meningkatkan integritas otak, tetapi seringkali memiliki efek samping yang serius.",
         "mindwipe": "Pemulih otak",
-        "mindwipedsc": "Obat yang disintesis secara khusus yang sepenuhnya menghapus sebagian besar ingatan dan trauma masa lalu dari otak, hanya menyisakan wadah kosong tanpa emosi dengan pengetahuan dasar dan naluri bertahan hidup. Umumnya digunakan sebagai upaya terakhir pada subjek yang sudah terlalu parah untuk berfungsi atau berisiko bunuh diri. Dapat juga menyembuhkan kasus kerusakan otak sedang hingga parah. Efeknya permanen tanpa rehabilitasi ekstensif. Gunakan sebagai upaya terakhir.",
+        "mindwipedsc": "Obat yang dirancang secara khusus yang sepenuhnya menghapus sebagian besar ingatan dan trauma masa lalu dari otak, hanya menyisakan wadah kosong tanpa emosi dengan pengetahuan dasar dan naluri bertahan hidup. Umumnya digunakan sebagai upaya terakhir pada subjek yang sudah terlalu parah untuk berfungsi atau berisiko bunuh diri. Dapat juga menyembuhkan kasus kerusakan otak sedang hingga parah. Efeknya permanen tanpa rehabilitasi ekstensif. Gunakan sebagai upaya terakhir.",
         "streptokinase": "Streptokinase",
         "streptokinasedsc": "Pengencer darah. Mengurangi kekentalan darah, dan memecah penggumpalan",
         "sodiumnitroprusside": "Sodium nitroprusida",
@@ -1390,12 +1390,12 @@
         "experiment": "Experimen",
         "experimenttraderdsc": "Manusia tikus-anjing pendek yang aneh, dengan 3 tonjolan yang seperti duri terjulur dari belakang kepala mereka. Kepala mereka seperti kepala tikus. Meski mereka terlihat sedikit canggung, mereka tidak punya karakteristik unik apapun dalam konteks barter. Tidak butuh banyak kepercayaan dari mereka untuk memperbolehkan pelukan.",
         "milky": "Milky",
-        "milkytraderdsc": "Makhluk berbulu putih pendek, dengan moncong rata, dan tanduk pendek yang menonjol dari kepala mereka. Kemungkinan akuatik ke titik tertentu, berdasarkan sepasang sirip yang ada di belakang mereka. Mereka terlihat lumayan pintar dan sedikit arogan, Mereka kemungkinan memiliki senjata untuk nenyimbangi penampilan mereka yang tidak mengesankan. Bukanlah yang paling memperhatikan kasih sayang, mungkin perlu kepercayaan lebih untuk memperbolehkan mu untuk memeluk mereka.",
+        "milkytraderdsc": "Makhluk berbulu putih pendek, dengan moncong rata, dan tanduk pendek yang menonjol dari kepala mereka. Kemungkinan akuatik ke titik tertentu, berdasarkan sepasang sirip yang ada di belakang mereka. Mereka terlihat lumayan pintar dan sedikit arogan, Mereka kemungkinan memiliki senjata untuk menyeimbangi penampilan mereka yang tidak mengesankan. Bukanlah yang paling memperhatikan kasih sayang, mungkin perlu kepercayaan lebih untuk memperbolehkan mu untuk memeluk mereka.",
         "dune": "Dune",
-        "dunetraderdsc": "Tinggi, besar, impresif, dengan otot sebagai otak. Mereka punya sirip aneh tersebar di sekujur tubuh mereka, 6 duri menonjol dari sisi kepala mereka dan mulut besar mengerikan terisi banyak gigi besar yang tajam. Terlihat juga seperi ingsang yang berada di samping dada mereka. Meski tidak agresif secara langsung, mereka biasanya terdorong oleh rasa lapar, maka mereka tidak akan terlalu peduli dengan benda apapun yang kamu berikan; Kamu perlu memikirkan cara lainnya untuk berada di sisi mereka.",
+        "dunetraderdsc": "Tinggi, besar, mengesankan, dengan otot sebagai otak. Mereka punya sirip aneh tersebar di sekujur tubuh mereka, 6 duri menonjol dari sisi kepala mereka dan mulut besar mengerikan terisi banyak gigi besar yang tajam. Terlihat juga seperi ingsang yang berada di samping dada mereka. Meski tidak agresif secara langsung, mereka biasanya terdorong oleh rasa lapar, maka mereka tidak akan terlalu peduli dengan benda apapun yang kamu berikan; Kamu perlu memikirkan cara lainnya untuk berada di sisi mereka.",
         "Shelly": "Shelly",
         "clicktocontinue": "Tekan untuk lanjut...\nESC untuk melewati",
-        "favouriteditem": "Item favorit akan disorot dan tidak akan digunakan dalam kerajinan barang",
+        "favouriteditem": "Benda favorit akan disorot dan tidak akan digunakan dalam kerajinan barang",
         "mainhand": "Tangan utama",
         "secondaryhand": "Tangan kedua",
         "mouth": "Mulut",
@@ -1407,7 +1407,7 @@
         "presetnormal": "Normal",
         "presetnormaldsc": "Pengalaman standard. Kesalahan berakibat buruk. Pengetahuan dan kesadaran situasional sangat dihargai. Waktu adalah hal yang sangat penting. Kematianmu hampir pasti dijamin.",
         "presetrelaxed": "Santai",
-        "presetrelaxeddsc": "Penerjunan yang lebih lamban, tapi lebih mengampuni. Kesalah masih menghukum, tapi lebih mudah untuk dihindari. Kamu diberikan waktu lebih untuk perpetualang dan memperhatikan sekelilingmu.",
+        "presetrelaxeddsc": "Penerjunan yang lebih lamban, tapi lebih mengampuni. Kesalahan masih menghukum, tapi lebih mudah untuk dihindari. Kamu diberikan waktu lebih untuk berpetualang dan memperhatikan sekelilingmu.",
         "presetparadise": "Nirwana",
         "presetparadisedsc": "Gua ini bisa dikatakan lebih baik dari pada di lab. Kesalahan lebih tidak menghukum, jarahan dan wajah-wajah bersahaja lebih banyak. Terdapat sedikit bahaya ataupun tekanan waktu.",
         "presetdesolate": "Antah-berantah",
@@ -1446,7 +1446,7 @@
         "runsetfracturepain": "Jumlah sakit patah tulang",
         "runsetfracturepaindsc": "Seberapa sakit anggota tubuhmu ketika digunakan saat terkilir/patah tulang",
         "runsetbleedrate": "Kecepatan pendarahan",
-        "runsetbleedratedsc": "Seberapa cepat darahmu terkuras dari kula berdarah",
+        "runsetbleedratedsc": "Seberapa cepat darahmu terkuras dari luka berdarah",
         "runsetinfectionspeed": "Kecepatan infeksi",
         "runsetinfectionspeeddsc": "Seberapa cepat infeksi bertambah parah/mereda dan seberapa cepat itu membunuh, dan juga mempengaruhi seberapa lama antiseptik bertahan",
         "runsetinfectionchance": "Kemungkinan infeksi",
@@ -1459,8 +1459,8 @@
         "runsetstaminaregendsc": "Seberapa cepat staminamu pulih setelah digunakan",
         "runsetattackdamage": "Kekuatan serangan",
         "runsetattackdamagedsc": "Seberapa besar kerusakan yang bisa di keluarkan oleh ayunanmu",
-        "runsetstrokes": "Perbolehkan strok",
-        "runsetstrokesdsc": "Menentukan jika kamu bisa strok saat krisis hipertensi",
+        "runsetstrokes": "Perbolehkan stroke",
+        "runsetstrokesdsc": "Menentukan jika kamu bisa stroke saat krisis hipertensi",
         "runsetbraindamagefx": "Dampak kerusakan otak",
         "runsetbraindamagefxdsc": "Menentukan jika kerusakan otak akan menyebabkan gejolak berkala",
         "runsetinfinitelaststand": "Pijakan akhir tak terbatas",
@@ -1546,8 +1546,8 @@
         "gamesetbloomdsc": "Membuat bagian terang terlihat lebih bagus. Juga mempengaruhi efek lensa kotor",
         "gamesetfilmgrain": "Derau film",
         "gamesetfilmgraindsc": "Seberapa nampak filter derau yang kamu inginkan",
-        "gamesetbrightness": "Brightness",
-        "gamesetbrightnessdsc": "How much brighter to make any non-pitch black tones",
+        "gamesetbrightness": "Kecerahan",
+        "gamesetbrightnessdsc": "Seberapa benyak warna selain hetam pekat harus dicerahkan",
         "gamesetlineofsightcount": "Resolusi garis pandang",
         "gamesetlineofsightcountdsc": "Seberapa akurat shader garis pandang, jika berlaku. Nilai yang lebih tinggi berarti performa yang lebih buruk",
         "gamesetscreenshake": "Goyangan layar",
@@ -1610,7 +1610,7 @@
         "paste": "Tempel dari papan klip",
         "descend": "Mulai",
         "unarmed": "Kosong",
-        "container": "Kontainer",
+        "container": "Penyimpanan",
         "containermaxweight": "Kapasitas",
         "containermaxweightperitem": "Max berat/barang",
         "conditionloss": "% hilang/menit",
@@ -1650,7 +1650,7 @@
         "dislocationMinigameGuide": "Pukul tulang di tempat yang tepat untuk memperbaiki dislokasi.\nMenggunakan kunci pas akan jauh lebih tidak menyakitkan.",
         "amputationMinigameGuide": "Potong anggota tubuh untuk mengamputasi. Pastikan untuk menghentikan pendarahan setelahnya.",
         "aedMinigameGuide": "Ikuti perintah yang tertera.",
-        "manualDefibMinigameGuide": "Sesuaikan tegangang yang proporsional dengan seberapa jauh siklus fibrilasi jantung Anda, isi daya, lalu kejutkan. Ulangi jika diperlukan.\nEstimasi yang direkomendasikan (POW.EST) menjadi lebih akurat dengan INT yang lebih tinggi.\n",
+        "manualDefibMinigameGuide": "Sesuaikan tegangan yang proporsional dengan seberapa jauh siklus fibrilasi jantung Anda, isi daya, lalu kejutkan. Ulangi jika diperlukan.\nPerkiraan yang direkomendasikan (POW.EST) menjadi lebih akurat dengan INT yang lebih tinggi.",
         "handCrankMinigameGuide": "Pegang tuasnya dan mulai memutar untuk mengisi daya.",
         "aedstate0": "Letakan bantalan ke tempat yang sudah ditentukan.",
         "aedstate1": "Menganalisa denyut",
@@ -1660,15 +1660,15 @@
         "aedstate5": "Kejut tidak direkomendasikan.\nMulai RJP pada pasien.",
         "minigameExitGuide": "Tekan tetikus kanan/ESC untuk keluar",
         "saveexit": "Simpan dan keluar",
-        "saveexitdsc": "Simpsn kemajuan dan beristirahatlah.\nPermainan akan disambungkan di lapisan berikutnya.",
+        "saveexitdsc": "Simpan kemajuan dan beristirahatlah.\nPermainan akan dilanjutkan di lapisan berikutnya.",
         "savecontinue": "Lanjut",
-        "savecontinuedsc": "Terus lanjut.\nKamu hanya bisa menyimpan and melanjutkan pada transisi lapisan. Mati atau keluar tengah lapisan akan menghapus semua kemajuanmu.",
+        "savecontinuedsc": "Terus lanjut.\nKamu hanya bisa menyimpan dan melanjutkan pada transisi lapisan. Mati atau keluar tengah lapisan akan menghapus semua kemajuanmu.",
         "savecontinuemenudsc": "Lanjutkan ekspedisi.\n\nCATATAN: Mati atau keluar tengah lapisan akan menghapus semua kemajuanmu.",
         "carryingtip": "Beban",
         "tradergivebuttontip": "Bawa barang ke sini untuk memberikannya ke pedagang",
         "drainliquid": "Kuras cairan",
-        "dragheretouse": "Bawa kesini untuk menggunakannya",
-        "dragheretowear": "Bawa kesini untuk memakainya",
+        "dragheretouse": "Bawa ke sini untuk menggunakannya",
+        "dragheretowear": "Bawa ke sini untuk memakainya",
         "inventory": "Inventaris",
         "toomuchpain": "Terlalu sakit!",
         "toomuchpaindsc": "Terlalu sakit untuk bertindak pada anggota tubuh",
@@ -1720,7 +1720,7 @@
         "craftcreate": "Buat",
         "craftclearfilter": "Bersihkan filter",
         "craftbacktotop": "Kembali ke atas",
-        "craftpin": "Sematkan Resep",
+        "craftpin": "Sematkan resep",
         "craftpindsc": "Sematkan resep ini untuk selalu menampilkan bahan-bahan di pinggir layar.",
         "craftingcategoryall": "Semua",
         "craftingcategorymaterials": "Material",
@@ -1782,7 +1782,7 @@
         "escapecourse1": "Anda sepertinya mencoba untuk keluar. Tolong tetaplah tenang saat keamanan membantu Anda",
         "escapecourse2": "Terima kasih atas kerja sama Anda.",
         "tutorial": "Tutorial",
-        "mp3audio": "File audio yang disimpan di perangkat",
+        "mp3audio": "Berkas audio yang disimpan di perangkat",
         "categorymedical": "Medis",
         "categorydrug": "Obat",
         "categorycontainer": "Kontainer",
@@ -1794,12 +1794,12 @@
         "hpbrainhealth": "Integritas otak",
         "hpconsciousness": "Kesadaran",
         "hppain": "Total kesakitan",
-        "hppaindsc": "Max. sakit dari semua anggota badan",
+        "hppaindsc": "Maks. sakit dari semua anggota badan",
         "hpbloodvolume": "Volume darah",
         "hpbloodvolumedsc": "Jumlah volume darah di tubuh. Kamu bisa kehilangan setengahnya sebelum terkapar.",
         "hpbleedspeed": "Total kecepatan pendarahan",
         "hpoxygenamount": "SpO2",
-        "hpoxygenamountdsc": "Konsentrasi oksigen di dalam aliran darah. Akan perlahan menyebabkan komplikasi dibawah 80%.",
+        "hpoxygenamountdsc": "Konsentrasi oksigen di dalam aliran darah. Akan perlahan menyebabkan komplikasi di bawah 80%.",
         "hpimmunity": "Imunitas",
         "hpimmunitydsc": "kebolehan tubuhmu melawan infeksi.\nImunitas lemah membuat infeksi tetap berangsur memburuk meski sudah disinfeksi.",
         "hptemperature": "Suhu inti",
@@ -1813,7 +1813,7 @@
         "hpstaminadsc": "Kelelahan fisik",
         "hprr": "Laju respirasi",
         "hpenergy": "Energi",
-        "hpenergydsc": "Seberapa mengantuknya dirimu\nKamu bisa tidur saat energi dibawah 35%",
+        "hpenergydsc": "Seberapa mengantuknya dirimu\nKamu bisa tidur saat energi di bawah 35%",
         "hpheartrate": "Denyut jantung",
         "hpheartratedsc": "Seberapa cepat jantungmu berdetak. Pastikan angka ini tidak sampai 0.",
         "hppressure": "Tekanan darah",
@@ -1851,7 +1851,7 @@
         "alertpickupwearable": "Pakaian tidak bisa di pegang tangan (Hanya bisa dikenakan/simpan)",
         "alertalreadywearing": "<1> tidak muat dengan <2> milikmu!",
         "alertcontainerstacking": "Kamu hanya bisa menaruh kontainer kosong ke dalam kontainer lain!",
-        "alertcontainerstackingalt": "Kamu tidak bisa menggunakan kontainer ini, karena sudah berada di kontainer lainnya!",
+        "alertcontainerstackingalt": "Kamu tidak bisa menggunakan penyimpanan ini, karena sudah berada di penyimpanan lainnya!",
         "alerttoounhappy": "Tidak bisa menggunakan obat-obatan non-opiat saat sengsara!",
         "alertlimbmissing": "<1>mu tidak ada, membuat <2> tidak bisa digunakan!",
         "alertsellcontainer": "Kosongkan sebelum menjual!",
@@ -1873,8 +1873,8 @@
         "unknowndrug": "Sejenis narkoba...",
         "unknownfood": "Sejenis makanan...",
         "unknownwater": "Sejenis botol...",
-        "unknownutility": "Sejenis gadget...",
-        "unknowncontainer": "Sejenis kontainer...",
+        "unknownutility": "Sejenis perangkat...",
+        "unknowncontainer": "Sejenis penyimpanan...",
         "unknowntool": "Sejenis alat...",
         "unknownobjectdsc": "Kamu tidak terlalu mengerti apa ini.",
         "unknownobjectwarning": "Kamu terlalu tumpul untuk mengenalinya. (INT <> diperlukan)",
@@ -1918,16 +1918,16 @@
         "rest": "istirahat",
         "restdsc": "Beristirahatlah bersama pedagang untuk membangun kepercayaan dan mendapatkan tidur yang lebih nyaman. Syarat dan ketentuan tidur yang biasa berlaku.",
         "tradermove": "Pindah",
-        "tradermovedsc": "Dengan sopan meminta pedagang untuk pindah kesamping, jika dia menutupi sesuatu yang menting.",
+        "tradermovedsc": "Dengan sopan meminta pedagang untuk pindah ke samping, jika dia menutupi sesuatu yang menting.",
         "exit": "Keluar",
         "free": "<color=\"orange\">GRATIS!",
-        "endscreenstatus": "LAPORAN STATUS MSN-CARGO",
+        "endscreenstatus": "LAPORAN STATUS MSI-KARGO",
         "endscreenunresolved": "BELUM TERSELESAIKAN",
         "endscreencasualties": "KORBAN:",
         "endscreenunknown": "TAK DIKETAHUI",
         "endscreenphysical": "STATUS FISIK:",
         "endscreendeceased": "MENINGGAL",
-        "endscreenmental": "STATUS MENTAL TERCATAT TERAKHIR:",
+        "endscreenmental": "STATUS MENTAL TERAKHIR:",
         "endscreendepth": "KEDALAMAN:",
         "endscreendepthres": " METER DI ",
         "endscreencalories": "KALORI:",
@@ -1985,7 +1985,7 @@
         "tutbasic15": "Mari kita coba sesuatu yang lain. Ini benda lain yang bisa kamu mainkan.",
         "tutbasic16": "Kamu punya enam slot utama untuk menaruh benda. Dua tangan, satu mulut, tiga slot di punggungmu.",
         "tutbasic17": "Pegang ini di salah satu tanganmu.",
-        "tutbasic18": "Alat-alat tertentu bisa digunakan dari \"Tangan utama\"mu. Taruh garu di slot itu dan coba ayukan dengan [LEFT CLICK].",
+        "tutbasic18": "Alat-alat tertentu bisa digunakan dari \"Tangan utama\" kamu. Taruh garu di slot itu dan coba ayukan dengan [KLIK KIRI].",
         "tutbasic19": "Kamu berkelahi dengan hantu sekarang... Bagus!",
         "tutbasic20": "Kamu juga bisa cepat menukar apapun di tanganmu dengan [Q]. Cobalah!",
         "tutbasic21": "Kamu juga bisa melempar barang. Tahan [T] lalu lepaskan untuk melempar apapun yang ada di tangan utamamu. Bidik ke target yang kami baru buat!",
@@ -1998,7 +1998,7 @@
         "tutbasic28": "Sekarang, kita akan pelajari dasar-dasar pertolongan pertama. Mohon tetap diam.",
         "tutbasic29": "Aduh! Lenganmu sakit dan berdarah! Mari kita periksa. Buka panel kesehatan dengan [R] atau tombol hati.",
         "tutbasic30": "Arahkan kursor ke anggota tubuh yang sakit untuk melihat info lanjut.",
-        "tutbasic31": "Luka tusukan yang cukup besar. Kabar baik - kamu akan perbaikinya!",
+        "tutbasic31": "Luka tusuk yang cukup besar. Kabar baik - kamu akan memperbaikinya!",
         "tutbasic32": "Here's some dressing. Mouse over it while holding [SHIFT]. It says \"Usable in health panel\".",
         "tutbasic33": "Pick it up, then open the health panel.",
         "tutbasic34": "[RIGHT CLICK] drag the dressing over the damaged limb.",
@@ -2797,7 +2797,7 @@
                 "Kenapa mereka ngelakuin ini pada ku?",
                 "Kenapa aku masih disini, hanya untuk menderita?...",
                 "Andai aku bisa... lebih memahami ini.",
-                "Aku harus nyibukkan diriku.",
+                "Aku harus menyibukkan diriku.",
                 "...Gak....baik....",
                 "Aku bener-bener merasa buruk.",
                 "SIALAN ini!",
@@ -2861,7 +2861,7 @@
                 "AAAAHHHHHH!",
                 "TOLOOONG!!! TOLONG!",
                 "INI UDAH KELEBIHAN, BANGSAT.",
-                "Ahahahah...",
+                "Wkwkwkwk...",
                 "Hmph.",
                 "Bukankah ini mengesankan, hah?",
                 "Mhm.",
@@ -2997,7 +2997,7 @@
                 "Aku kehilangan darah!",
                 "Darahku menyecer dimana-mana!",
                 "Aku terluka!",
-                "Aku harus merawatin lukaku!",
+                "Aku harus ngerawat lukaku!",
                 "Berdarah!",
                 "Ini gak bagus...",
                 "Darah menghilang...",
@@ -4412,37 +4412,37 @@
             {
                 "Item1": "ini mengerikan. banyak sekali mayatnya... aku takut. kenapa mereka mengirim banyak dari kami ke sini? aku nggak paham. aku benar-benar gak paham. mereka membuatku pingsan dengan semacam anak panah dan memaksa ku ke dalam kapsul untuk dikirim kesini. aku benci planet ini.",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "experimen"
             },
             {
                 "Item1": "Aku menanyakan yang lainnya tentang kemampuan kami untuk melihat status tubuh di dalam pikiran kami, dan ternyata ini adalah hal yang hampir semuanya mengalami nya juga. Agak menarik - ini bukanlah hal yang kita pernah lakukan di rumah kami sebelumnya. Apakah kami telah diimplan sesuatu? Gak ada benda tambahan yang terlihat di tubuh kami masing-masing. Aku juga melihat kalau beberapa sedikit orang tidak memiliki kemampuan ini, sepertinya mereka kekurangan sesuatu yang memungkinkan kami untuk hal ini. Aneh.",
-                "Item2": "Sprites/noteDrawings/puppet",
+                "Item2": "Sprites/gambarCatatan/boneka",
                 "Item3": "milky"
             },
             {
                 "Item1": "aku terus kehilangan berat badan. aku perlu makan lebih untuk tetap bugar. selama ini berlari membuat hilangnya kalori secara cepat. kayaknya aku harus lebih sering kenyang.",
-                "Item2": "Sprites/noteDrawings/underweight",
-                "Item3": "experiment"
+                "Item2": "Sprites/gambarCatatan/berat badan kurang",
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "ini mengerikan. bener-bener mengerikan. aku gak bisa lakuin ini lagi. ini misi maut. gak ada harapan. gak ada gunanya semua ini",
-                "Item2": "Sprites/noteDrawings/x",
-                "Item3": "experiment"
+                "Item2": "Sprites/gambarCatatan/x",
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "aku gak ngerti ngapain kami disini. buat apa sih? aku tau kita disuruh ambil sebuah batre atau semacamnya. kurasa yang lain juga disuruh yang sama. tapi emang enggak ada cara efisien yang lain? yang logis gitu? ngapain harus kami yang dikirim.. aku kangen teman ku. aku gak mau mati.",
-                "Item2": "Sprites/noteDrawings/alone",
-                "Item3": "experiment"
+                "Item2": "Sprites/gambarCatatan/sendiri",
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "aku terjatuh. parah. kakiku hancur lebur. bener-bener buruk. gerak dikit bikin sakit banget. aku butuh penghilang rasa sakit untuk kakiku.",
-                "Item2": "Sprites/noteDrawings/brokenleg",
-                "Item3": "experiment"
+                "Item2": "Sprites/gambarCatatan/patahkaki",
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "aku gak sengaja denger para penculik kita nyebut kita sebagai perpaduan mutan antara \"manusia, rubah dan tikus\", entahlah apa maksud itu. seberapa banyak hal yang disumbunyikan dari kita? soal informasi? mikirin itu ngebuatku takut. aku gak pernah ngebayangin ada sesuatu di luar tempat kita dibesarkan. dan sekarang aku ada di sini. aku gak paham dengan semua ini.\n(Di atas kertas itu tampak seperti sebuah potret diri.)",
-                "Item2": "Sprites/noteDrawings/experiment",
-                "Item3": "experiment"
+                "Item2": "Sprites/gambarCatatan/eksperimen",
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "Aku baru aja nemuin kalo ngambar itu bisa jadi cara yang enak buat kabur dari situasi aku sekarang. sepertinya semuanya juga kesusahan dengan kondisi mental kami masing-masing, satu cara atau yang lain. agak enak bisa dapet distraksi dari kenyataan kami yang keras.",
@@ -4456,12 +4456,12 @@
             },
             {
                 "Item1": "planet bagus. makan banyak daging enak. dune senang\n(Anda dapat melihat sesuatu yang tampak seperti potret diri yang dibuat dengan sangat buruk.)",
-                "Item2": "Sprites/noteDrawings/dune",
+                "Item2": "Sprites/gambarCatatan/dune",
                 "Item3": "dune"
             },
             {
                 "Item1": "Distribusi spesies di sini kelihat banget gak seimbang. Spesies Eksperimen ada di mana-mana, namun spesies lain kayak kita tampak jauh lebih sedikit jumlahnya. Aneh... Ya gimana pun, aku gak suka ngelihat banyak korban di sini. Lebih banyak dari kita yang perlu dibantu.",
-                "Item2": "Sprites/noteDrawings/milky",
+                "Item2": "Sprites/gambarCatatan/milky",
                 "Item3": "milky"
             },
             {
@@ -4472,12 +4472,12 @@
             {
                 "Item1": "aku nggak mau ngelakuin itu. mereka punya selang penguras dada. apa lagi yang aku bisa lakuin? tenggelam di darahku sendiri? yang aku punya cuma sebatang dinamit... andai aja bisa pulang, cuma buat denger radio pelatihan pun, akan ku kasih segalanya. ini bukan salah ku. ini bukan salah ku.",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "aku suka banget tempat ini! aku terus ketemu mahluk-mahluk baru, mereka lucu banget! banyak hal-hal keren di sini! aku gak akan pernah balik ke lab lagi! hiduplah gua ini!",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "dune suka mencicipi teman . setiap teman rasanya berbeda . teman berbulu gelap teksturnya keras .  teman berbulu terang teksturnya kenyal .  seperti apa rasanya Dune ?",
@@ -4487,7 +4487,7 @@
             {
                 "Item1": "meluk orang lain bikin aku jauh lebih bahagia... namun beberapa penyintas nolak buat dipeluk, tapi mereka dapat dibujuk kok, pelan-pelan. lagian tidur di sebelah mereka jauh lebih enak daripada tidur sendirian di lantai yang dingin banget.",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "Buat siapa pun yang nemu pesan ini, mereka bisa dan pasti bakal mengontrol kamu, bahkan di neraka kayak gini. Tanpa aba-aba aku denger alarm keras banget di dalam diriku, aku bisa melihat pesan bertuliskan \"KEDALAMAN TIDAK MEMUASKAN\" dengan lampu merah berkedip-kedip muncul di sudut pandanganku.\n\nAku mulai berlari, panik, nggak ngerti kenapa mereka lakuin ini. Baru setelah aku masuk ke wilayah lain dari jaringan goa ini, alarmnya baru berhenti. Mereka tau seberapa lama Waktu yang kita habiskan di sini, dan mereka tau kalo kau akan ketakutan, dan mereka ingin kau mati. Ini semua genosida massal.",
@@ -4497,47 +4497,47 @@
             {
                 "Item1": "aku nemu senjata. senjata api. astaga... aku nggak biasa pegang yang beginian... harusnya aku lebih serius waktu sesi latihan dulu... aku nggak ngerti sama sekali alasan aku dikirim ke sini, dalam keadaan nggak siap gini, bukannya langsung dibuang gini. tadi aku hampir aja nembak seseorang secara nggak sengaja. harusnya aku aktifkan dulu pengaman senjatanya... ya mana aku tau. orang lain pada bener-bener panik pas ngeliat kamu megang senjata di tangan. jadi mungkin lebih baik simpen di dalam sesuatu dulu, biar mereka gak ngelihatnya. mereka ngira kamu bakal nembak mereka, padahal mereka nggak tau niat kamu sebenarnya apa. ya wajar sih, kalo ada orang ngacungin pistol ke aku, aku juga pasti panik.",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "aku bener-bener kesel ama diriku sendiri abis aku bertingkah kayak orang bodoh di hadapan mereka yang di sana... sekarang semua penyintas yang kutemui malah ngejar aku pergi dari pod mereka... astaga, andai aja kau tau betapa kasarnya mereka mengumpat... mereka nyoba mencakariku... dan aku cuma bisa bilang dalam hati: \"oke, maaf. sialan emang, pada sadar gak sih kalian kalo saat ini semua nyawa itu berharga? nggak ada tempat buat saling nyakitin apalagi ngebunuh satu ama lain.\" aku harap aku bisa jadi orang yang lebih baik... ini salahku sendiri.",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "jangan pernah sembarangan percaya ama barel-barel cairan yang bertebaran di sini. baru aja nemu barel besar yang aku kira isi limun, tapi pas aku teguk rasanya pahit langsung udah cukup ngebuatku sadar kalo itu bukan limun. aku coba nelen pake segelas air, tapi airnya ngebuatku mual-mual dan rambutku mulai rontok",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "hari ini barusan aku nemu beberapa kaleng logam aneh yang label nya dirobek. aku nggak tau jelas apa itu dan cairannya terlalu tebal buat dibuang, tapi ternyata bikin kenyang banget, rasanya kayak baru aja makan steak enak banget... ngantuk banget aku. aku mau minum kaleng berikutnya, aku suka ama kaleng-kaleng ini!\n(Bagian bawah kertas itu terlihat seperti ada sesuatu yang berisi gumpalan-gumpalan hitam yang terlempar ke sana dengan paksa.)",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "ini mungkin terdengar gaje atau aneh, tapi aku mulai nerima keadaan saat ini. aku berusaha merawat diriku sebaik mungkin dan menghibur semua orang yang kutemui di sini. hal itu negbuat ku ngerasa... puas? meskipun aku sering terluka aku bisa menghadapinya tanpa ngerasa sedih.\naku akan berusaha sekuat tenaga, dan meskipun aku paling gak bakal berhasil, yang mesti aku tau sudah melakukan yang terbaik dan membantu sebanyak mungkin orang. itu lah yang kita bisa lakukan.\nkalo kamu ngebaca ini, jangan nyerah, ya?",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "akhir-akhir ini aku makin sering ngeliat kapsul pendarat yang hancur berantakan, mirip kayak yang mereka gunain untuk ngirim kami ke sini tapi entah kenapa yang ini semuanya meledak <>\ndi dalam reruntuhannya, aku biasanya menemukan amunisi senjata dan semacam gumpalan daging? \n<>\nkeliatan menjijikkan banget, tapi mungkin bisa dimakan???\norang dune yang aku temui tadi bilang kalo itu enak dimakan\naku bisa coba nyicip sedikit\n<>\n\naku memakannya dan muntah-muntah selama dua puluh menit, kesalahan terburuk dalam hidup ku <>\ndemi tuhan, jangan makan apa pun itu",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "aku terus mimpi hal yang sama. aku punya sayap besar dan aku bisa terbang tinggi ke atas, ke atas, dan ke atas. nggak ada yang bisa ngehentikanku. aku menembus langit-langit gua-gua ini dan melesat ke dunia di luar sana. di luar sana sangat indah sekali tapi aku terus terbang. kan ku tinggal segalanya hingga tak tersisa apa-apa selain kekosongan yang luas. disitulah aku kan menyadari. aku aman. aku bebas.\n\nsetiap kali aku kebangun tidur, aku gak bisa berhenti nangis. aku berharap bisa terus bermimpi selama-lamanya.\n\n(Ada gambar sayap yang sangat tidak akurat, dipenuhi noda air mata.)",
-                "Item2": "Sprites/noteDrawings/wings",
-                "Item3": "experiment"
+                "Item2": "Sprites/gambarCatatan/sayap",
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "apakah para ilmuan beneran bisa liat aku disini? mereka sering ingin aku ngomongin apa yang di pikiran aku, tapi disini aku cuman ngomong sama diri sendiri. memang aku bisa berhenti kapan saja, tapi rasanya seperti terapi. kalau aku ga selamat, semoga catatan ini bisa selamat.",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "aku nggak nyadar betapa parahnya kondisinya sampai aku mencoba menggali lagi dan cakarku hanya... nggaruk. nggak ada daya cengkeramnya lagi. aku telah menggaruk batu tanpa henti tanpa menyadarinya. aku ngerasa telanjang. ternyata daging nggak dimaksudkan buat nggantikan alat.\n<>\naku terus mengira aku butuh beliung untuk segala hal. tapi aku sadar parang aku berfungsi dengan baik untuk benda-benda yang lebih ringan. tanah, tumbuhan, pasir, semuanya terbelah dengan mudah. ngehemat banyak rasa sakit di tanganku.\n<>\nketemu botol bertuliskan “Peningkat Keratin”. pasti mereka sudah merencanakan agar bagian-bagian tubuh kita rusak. aku meneguk sedikit. setelah beberapa saat, lapisan lama mulai mengelupas kayak bulu. di bawahnya, rasanya lebih tajam. lebih kuat. rasanya aneh tapi memuaskan ngeliat bagian-bagian yang aus terkelupas. aku suka bagaimana cakarku memungkinkan aku menggenggam dinding dengan lebih baik\n<>\naku ingat manusia-manusianya. mereka punya kuku di setiap jari. semua jari. nggak ada cakar sama sekali. keliatan sangat aneh dari dekat. lembut. tumpul. aneh bagaimana mereka bisa ngelakukan apa pun dengan tangan seperti itu.\n<>\ndulu aku mikir itu ngebuat mereka lemah.\n<>\nsekarang aku bertanya-tanya apakah itu memang tujuannya.",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "Tempat ini dipenuhi berbagai macam makhluk yang terus-menerus berkeliaran ke mana-mana. aku agak pasifis orangnya, jadi aku lebih milih lari daripada ngelawan mereka, karena aku nggak tau siapa yang akan ngebunuh siapa lebih dulu... Lagipula, luka yang mereka tinggalkan di diriku terasa menyakitkan sekali... Aku dah nggak tau lagi... Apakah para penculik kita tahu apa yang kita alami di sini?",
@@ -4562,7 +4562,7 @@
             {
                 "Item1": "(Catatan itu kusut dan remuk, seolah-olah memang dimaksudkan untuk dibuang.)\n<>\ntemanku itu... aku rasa mereka bunuh diri. setelah terjatuh lagi dengan parah, aku nyoba ngerawat kakinya, tapi mereka terus memarahi saya. mereka terus ngusir aku kayak ngusir lalat, nyuruh aku buat ngebiarin mereka sendiri. aku nggak ngerti.\naku pergi ngambil beberapa tanaman di sini untuk nyoba membalut luka mereka, tapi... saat aku balik, mereka udah punya luka baru. satu di lengan mereka. aku masih ingat bagaimana bentuknya, sangat parah, hampir tercabik-cabik. Aku nyoba gunakan tanaman yang kutemukan buat ngobati luka baru itu, tapi mereka terus mendorongku jauh. mata mereka... terlihat... kosong. aku bilang pada mereka buat berhenti dan biarkan aku membantu, tapi mereka tidak merespons. aku nyoba membantu beberapa kali lagi, dan mereka terus mendorongku hingga akhirnya... mereka berhenti. aku ingat melihat tubuh mereka rileks, kurasa itulah saat mereka berhenti bernapas. aku tidak bisa melupakan gambaran itu...\n<>\napakah... apakah aku melakukan sesuatu yang salah? aku bersumpah aku nggak... apa yang aku lakukan salah? mengapa mereka lakukan itu? aku... aku nggak melakukan apa-apa. aku nggak ngerti, aku nggak mau mati... aku nggak... aku...\n<>\n...\n<>\nhaha...\n<>\nsepi sekali di sini.\n<>\n(Kamu melihat tetesan air mata yang samar dan kering serta darah kering yang berceceran di antara catatan yang kusut.)",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "(Ada gambar-gambar berwarna-warni di kertas itu, dan tampaknya bukan tulisan tangan)\n<>\nSup! Coba Panci Spesial kami — cukup masukkan daging dan bahan-bahannya, lalu didihkan. Jangan khawatir. Anda pasti setuju bahwa rasanya sangat lezat. Dapat disimpan hingga 737 tahun!",
@@ -4573,32 +4573,32 @@
         [
             {
                 "Item1": "ugh, tempat ini nyebelin. aku terus-terusan digigit laba-laba yang nggak keliatan dan nggak sempat kuliat. kayaknya mereka berbisa, soalnya ninggalin luka yang keliatan parah dan terinfeksi di tubuhku... tapi buah sinar memang ngebantu ngobati luka-luka itu",
-                "Item2": "Sprites/noteDrawings/spider",
-                "Item3": "experiment"
+                "Item2": "Sprites/gambarCatatan/laba-laba",
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "semuanya berjalan lancar bagiku. perutku terisi makanan enak\ndan mungkin satu (cabang ekor?) atau dua ngebuatku Bahagia. para pedagang pun membalas senyumanku! aku hanya benci milihat diriku sendiri berdarah, itu ngebuatku takut",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "aku nggak suka nggak tau harus berbuat apa. dulu di rumah, mereka selalu ngasih tau aku. mainin game ini, diam pas manusia lagi ngomong, atau biarin ditusuk ama benda-benda tajam ini.\nsekarang aku harus menyelesaikan misi ini, tapi aku nggak tahu caranya. aku haus dan kakiku terluka, tapi aku juga kotor banget dan kedinginan, dan aku nggak tahu harus ke mana selain ke bawah.\nkurasa aku akan mencoba menghentikan apa yang akan membunuhku secepatnya. semoga berhasil.",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "lampu merah yang berkedip-kedip di kegelapan itu adalah perangkap paku. hati-hati. tolong. plis. baru aja ada orang yang terperosok ke salah satunya di kejauhan, aku baru aja denger teriakan dan kemudian sunyi. jaga diri baik-baik",
                 "Item2": "",
-                "Item3": "experiment"
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "di sini dingin. sangat dingin. jauh lebih dingin daripada rumah kami sebelumnya. sejujurnya, aku suka. mandi di kolam renang terasa menyenangkan, menyegarkan. aku menikmati liburan ini",
-                "Item2": "Sprites/noteDrawings/pool",
-                "Item3": "experiment"
+                "Item2": "Sprites/gambarCatatan/kolam",
+                "Item3": "eksperimen"
             },
             {
                 "Item1": "aku bertemu dengan seseorang, kita sepakat untuk mencoba keluar ke permukaan melewati salah satu lubang itu ke luar. teman ku yang pertama keluar, dan mereka langsung oleng karena kaget. kelihatannya mereka kesakitan banget. mereka muntah berkali-kali, setelah itu terjatuh dan berhenti bernafas. kulit mereka mulai melepuh juga, terutama di sekitar kepala dan leher. ada yang mencegah kita untuk keluar. aku takut.",
-                "Item2": "Sprites/noteDrawings/radiation",
+                "Item2": "Sprites/gambarCatatan/radiasi",
                 "Item3": "experiment"
             },
             {
@@ -4608,11 +4608,11 @@
             },
             {
                 "Item1": "aku bener-bener harus berhenti sering jatuhin lampu-lampuku. apa pun bisa dipakai, bahkan tanaman aneh yang bercahaya itu. aku terus-terusan meninggalkannya dan lupa, lalu tersandung dan terluka tanpa sengaja. nggak bagus.",
-                "Item2": "Sprites/noteDrawings/glowplant",
-                "Item3": "experiment"
+                "Item2": "Sprites/gambarCatatan/tanamanbercahaya",
+                "Item3": "eksperimen"
             },
             {
-                "Item1": "light is valuable resource here, especially as it gets darker the further we go. dont want to accidentally step on a trap. with the carcass of a spider and pieces of glowplant, i can fashion a headlamp so my hands remain free. in a pinch lightbulbs in the pods seem to run on a depleted battery, and can be broken off with relative ease, much to the aggression of the pods owner",
+                "Item1": "cahaya adalah sumber daya yang berharga di sini, terutama karena semakin jauh kita masuk, semakin gelap pula tempatnya. aku nggak mau ngak sengaja nginjak perangkap. dengan bangkai laba-laba dan potongan-potongan tanaman bercahaya, aku bisa ngebuat lampu kepala sehingga tanganku tetep bebas. pas keadaan darurat, bola lampu di dalam kapsul kayaknya masih nyala meski baterainya udah habis, dan bisa dipatahkan dengan relatif mudah, meski hal itu ngebuat pemilik kapsul marah besar",
                 "Item2": "Sprites/noteDrawings/lightbulb",
                 "Item3": "experiment"
             },
@@ -5043,43 +5043,43 @@
         "Setidaknya beri aku aba-aba dulu.",
         "Kita bertemu sekali lagi.",
         "Mau bantuan? Sayang sekali.",
-        "Overconfidence is a slow and insidious killer",
-        "How tragic...",
-        "We don't have all the time in the world, you know.",
-        "What's the point, really?",
-        "You know this won't save you.",
-        "Always watching.",
-        "We are not done yet. Get back to it.",
-        "Thought you'd last a little longer.",
-        "And so it stopped...",
-        "This won't change your fate.",
-        "We're done when I say we're done.",
-        "I don't like being interrupted.",
-        "Now what? What's your next step?",
-        "You are no fun.",
-        "Got something on your mind?",
-        "Paused. Why?",
-        "Use this time wisely.",
-        "I can wait all day.",
-        "I am still here.",
-        "The World has stopped. It's quiet.",
-        "Not paused. Kidding!",
-        "Rude. But I'll take it. Paused.",
-        "It's impolite to make someone wait.",
-        "Make sure to stretch your legs.",
-        "This is not a race, but do hurry.",
-        "You are terrible at this. I'm proud.",
-        "You should've seen the look on your face!",
-        "Plenty of space for improvement. Just saying.",
-        "Keep going. What else can you do?",
-        "Might as well quit. The button's right there.",
-        "Just get it over with and return.",
-        "I don't like this habit of yours.",
-        "You're gonna give me a headache. Or, you would, if I could feel pain.",
-        "Are you doing this on purpose? Get on with it.",
-        "Going to take the easy way out?",
-        "I have all the time I need. Same cannot be said about you.",
-        "A grand delusion. A grand failure and waste. But not to me.",
+        "Terlalu percaya diri adalah pembunuh yang pelan tapi pasti",
+        "Sungguh tragis...",
+        "Kita tidak memiliki semua waktu di dunia, kamu tau.",
+        "Tujuannya emang apaan?",
+        "Kamu tahu ini tidak akan menyelamatkan dirimu.",
+        "Selalu menyaksikan.",
+        "Kita belum selesai. Ayo kembali.",
+        "Aku kira kamu bisa bertahan lebih lama.",
+        "Maka terhentilah ini...",
+        "Ini tidak akan mengubahkan nasibmu.",
+        "Kita selesai ketika aku bilang kita selesai.",
+        "Aku tidak suka disela.",
+        "Sekarang apa? langkah selanjutmu?",
+        "Kamu gak seru.",
+        "Ada sesuatu dipikiranmu?",
+        "Dijeda. Kenapa?",
+        "Gunakan waktu ini dengan bijak.",
+        "Bisa aku tunggu seharian penuh.",
+        "Aku masih di sini.",
+        "Dunia telah berhenti. Sepi rasanya.",
+        "Tidak dijeda. Bercanda!",
+        "Tidak sopan. Tapi akan ku biarkan. Dijeda.",
+        "Sangatlah tidak sopan untuk membuat seseorang menunggu.",
+        "Jangan lupa untuk melemaskan kakimu.",
+        "Ini bukan perlombaan, tapi tolong bergegaslah.",
+        "Kau menyedihkan dalam ini. Aku bangga.",
+        "Kamu seharusnya lihat mukamu tadi!",
+        "Begitu banyak yang bisa diperbaiki. Hanya menyatakan.",
+        "Terus lanjut. Emang bisa apa aja kamu?",
+        "Sekalian berhenti juga. Itu tombolnya di sana.",
+        "Sudahilah dan kembali.",
+        "Saya tidak suka kebiasaanmu ini.",
+        "Kamu bakal bikin aku pusing. Atau setidaknya bakal gitu, kalo aku bisa merasakan sakit.",
+        "Kamu sengaja begini? Sudahilah.",
+        "Nyari jalan keluar mudah?",
+        "Aku punya semua waktu yang aku perlukan. Tapi hal yang sama tidak bisa dikatakan kepadamu.",
+        "Sebuah delusi agung. Kegagalan dan kesia-siaan besar. Tapi bukan bagiku.",
         "Sungguh menarik. Tolong lanjutkan.",
         "Pagelaran emosi yang membawa gelak tawa.",
         "Akulah segalanya yang dimiliki diriku. Bagaimana denganmu?",
