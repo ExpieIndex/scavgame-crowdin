@@ -1547,7 +1547,7 @@
         "gamesetfilmgrain": "Derau film",
         "gamesetfilmgraindsc": "Seberapa nampak filter derau yang kamu inginkan",
         "gamesetbrightness": "Kecerahan",
-        "gamesetbrightnessdsc": "Seberapa benyak warna selain hetam pekat harus dicerahkan",
+        "gamesetbrightnessdsc": "Seberapa banyak warna selain hitam pekat harus dicerahkan",
         "gamesetlineofsightcount": "Resolusi garis pandang",
         "gamesetlineofsightcountdsc": "Seberapa akurat shader garis pandang, jika berlaku. Nilai yang lebih tinggi berarti performa yang lebih buruk",
         "gamesetscreenshake": "Goyangan layar",
@@ -4412,37 +4412,37 @@
             {
                 "Item1": "ini mengerikan. banyak sekali mayatnya... aku takut. kenapa mereka mengirim banyak dari kami ke sini? aku nggak paham. aku benar-benar gak paham. mereka membuatku pingsan dengan semacam anak panah dan memaksa ku ke dalam kapsul untuk dikirim kesini. aku benci planet ini.",
                 "Item2": "",
-                "Item3": "experimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "Aku menanyakan yang lainnya tentang kemampuan kami untuk melihat status tubuh di dalam pikiran kami, dan ternyata ini adalah hal yang hampir semuanya mengalami nya juga. Agak menarik - ini bukanlah hal yang kita pernah lakukan di rumah kami sebelumnya. Apakah kami telah diimplan sesuatu? Gak ada benda tambahan yang terlihat di tubuh kami masing-masing. Aku juga melihat kalau beberapa sedikit orang tidak memiliki kemampuan ini, sepertinya mereka kekurangan sesuatu yang memungkinkan kami untuk hal ini. Aneh.",
-                "Item2": "Sprites/gambarCatatan/boneka",
+                "Item2": "Sprites/noteDrawings/puppet",
                 "Item3": "milky"
             },
             {
                 "Item1": "aku terus kehilangan berat badan. aku perlu makan lebih untuk tetap bugar. selama ini berlari membuat hilangnya kalori secara cepat. kayaknya aku harus lebih sering kenyang.",
-                "Item2": "Sprites/gambarCatatan/berat badan kurang",
-                "Item3": "eksperimen"
+                "Item2": "Sprites/noteDrawings/underweight",
+                "Item3": "experiment"
             },
             {
                 "Item1": "ini mengerikan. bener-bener mengerikan. aku gak bisa lakuin ini lagi. ini misi maut. gak ada harapan. gak ada gunanya semua ini",
-                "Item2": "Sprites/gambarCatatan/x",
-                "Item3": "eksperimen"
+                "Item2": "Sprites/noteDrawings/x",
+                "Item3": "experiment"
             },
             {
                 "Item1": "aku gak ngerti ngapain kami disini. buat apa sih? aku tau kita disuruh ambil sebuah batre atau semacamnya. kurasa yang lain juga disuruh yang sama. tapi emang enggak ada cara efisien yang lain? yang logis gitu? ngapain harus kami yang dikirim.. aku kangen teman ku. aku gak mau mati.",
-                "Item2": "Sprites/gambarCatatan/sendiri",
-                "Item3": "eksperimen"
+                "Item2": "Sprites/noteDrawings/alone",
+                "Item3": "experiment"
             },
             {
                 "Item1": "aku terjatuh. parah. kakiku hancur lebur. bener-bener buruk. gerak dikit bikin sakit banget. aku butuh penghilang rasa sakit untuk kakiku.",
-                "Item2": "Sprites/gambarCatatan/patahkaki",
-                "Item3": "eksperimen"
+                "Item2": "Sprites/noteDrawings/brokenleg",
+                "Item3": "experiment"
             },
             {
                 "Item1": "aku gak sengaja denger para penculik kita nyebut kita sebagai perpaduan mutan antara \"manusia, rubah dan tikus\", entahlah apa maksud itu. seberapa banyak hal yang disumbunyikan dari kita? soal informasi? mikirin itu ngebuatku takut. aku gak pernah ngebayangin ada sesuatu di luar tempat kita dibesarkan. dan sekarang aku ada di sini. aku gak paham dengan semua ini.\n(Di atas kertas itu tampak seperti sebuah potret diri.)",
-                "Item2": "Sprites/gambarCatatan/eksperimen",
-                "Item3": "eksperimen"
+                "Item2": "Sprites/noteDrawings/experiment",
+                "Item3": "experiment"
             },
             {
                 "Item1": "Aku baru aja nemuin kalo ngambar itu bisa jadi cara yang enak buat kabur dari situasi aku sekarang. sepertinya semuanya juga kesusahan dengan kondisi mental kami masing-masing, satu cara atau yang lain. agak enak bisa dapet distraksi dari kenyataan kami yang keras.",
@@ -4456,12 +4456,12 @@
             },
             {
                 "Item1": "planet bagus. makan banyak daging enak. dune senang\n(Anda dapat melihat sesuatu yang tampak seperti potret diri yang dibuat dengan sangat buruk.)",
-                "Item2": "Sprites/gambarCatatan/dune",
+                "Item2": "Sprites/noteDrawings/dune",
                 "Item3": "dune"
             },
             {
                 "Item1": "Distribusi spesies di sini kelihat banget gak seimbang. Spesies Eksperimen ada di mana-mana, namun spesies lain kayak kita tampak jauh lebih sedikit jumlahnya. Aneh... Ya gimana pun, aku gak suka ngelihat banyak korban di sini. Lebih banyak dari kita yang perlu dibantu.",
-                "Item2": "Sprites/gambarCatatan/milky",
+                "Item2": "Sprites/noteDrawings/milky",
                 "Item3": "milky"
             },
             {
@@ -4472,12 +4472,12 @@
             {
                 "Item1": "aku nggak mau ngelakuin itu. mereka punya selang penguras dada. apa lagi yang aku bisa lakuin? tenggelam di darahku sendiri? yang aku punya cuma sebatang dinamit... andai aja bisa pulang, cuma buat denger radio pelatihan pun, akan ku kasih segalanya. ini bukan salah ku. ini bukan salah ku.",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "aku suka banget tempat ini! aku terus ketemu mahluk-mahluk baru, mereka lucu banget! banyak hal-hal keren di sini! aku gak akan pernah balik ke lab lagi! hiduplah gua ini!",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "dune suka mencicipi teman . setiap teman rasanya berbeda . teman berbulu gelap teksturnya keras .  teman berbulu terang teksturnya kenyal .  seperti apa rasanya Dune ?",
@@ -4487,7 +4487,7 @@
             {
                 "Item1": "meluk orang lain bikin aku jauh lebih bahagia... namun beberapa penyintas nolak buat dipeluk, tapi mereka dapat dibujuk kok, pelan-pelan. lagian tidur di sebelah mereka jauh lebih enak daripada tidur sendirian di lantai yang dingin banget.",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "Buat siapa pun yang nemu pesan ini, mereka bisa dan pasti bakal mengontrol kamu, bahkan di neraka kayak gini. Tanpa aba-aba aku denger alarm keras banget di dalam diriku, aku bisa melihat pesan bertuliskan \"KEDALAMAN TIDAK MEMUASKAN\" dengan lampu merah berkedip-kedip muncul di sudut pandanganku.\n\nAku mulai berlari, panik, nggak ngerti kenapa mereka lakuin ini. Baru setelah aku masuk ke wilayah lain dari jaringan goa ini, alarmnya baru berhenti. Mereka tau seberapa lama Waktu yang kita habiskan di sini, dan mereka tau kalo kau akan ketakutan, dan mereka ingin kau mati. Ini semua genosida massal.",
@@ -4497,47 +4497,47 @@
             {
                 "Item1": "aku nemu senjata. senjata api. astaga... aku nggak biasa pegang yang beginian... harusnya aku lebih serius waktu sesi latihan dulu... aku nggak ngerti sama sekali alasan aku dikirim ke sini, dalam keadaan nggak siap gini, bukannya langsung dibuang gini. tadi aku hampir aja nembak seseorang secara nggak sengaja. harusnya aku aktifkan dulu pengaman senjatanya... ya mana aku tau. orang lain pada bener-bener panik pas ngeliat kamu megang senjata di tangan. jadi mungkin lebih baik simpen di dalam sesuatu dulu, biar mereka gak ngelihatnya. mereka ngira kamu bakal nembak mereka, padahal mereka nggak tau niat kamu sebenarnya apa. ya wajar sih, kalo ada orang ngacungin pistol ke aku, aku juga pasti panik.",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "aku bener-bener kesel ama diriku sendiri abis aku bertingkah kayak orang bodoh di hadapan mereka yang di sana... sekarang semua penyintas yang kutemui malah ngejar aku pergi dari pod mereka... astaga, andai aja kau tau betapa kasarnya mereka mengumpat... mereka nyoba mencakariku... dan aku cuma bisa bilang dalam hati: \"oke, maaf. sialan emang, pada sadar gak sih kalian kalo saat ini semua nyawa itu berharga? nggak ada tempat buat saling nyakitin apalagi ngebunuh satu ama lain.\" aku harap aku bisa jadi orang yang lebih baik... ini salahku sendiri.",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "jangan pernah sembarangan percaya ama barel-barel cairan yang bertebaran di sini. baru aja nemu barel besar yang aku kira isi limun, tapi pas aku teguk rasanya pahit langsung udah cukup ngebuatku sadar kalo itu bukan limun. aku coba nelen pake segelas air, tapi airnya ngebuatku mual-mual dan rambutku mulai rontok",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "hari ini barusan aku nemu beberapa kaleng logam aneh yang label nya dirobek. aku nggak tau jelas apa itu dan cairannya terlalu tebal buat dibuang, tapi ternyata bikin kenyang banget, rasanya kayak baru aja makan steak enak banget... ngantuk banget aku. aku mau minum kaleng berikutnya, aku suka ama kaleng-kaleng ini!\n(Bagian bawah kertas itu terlihat seperti ada sesuatu yang berisi gumpalan-gumpalan hitam yang terlempar ke sana dengan paksa.)",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "ini mungkin terdengar gaje atau aneh, tapi aku mulai nerima keadaan saat ini. aku berusaha merawat diriku sebaik mungkin dan menghibur semua orang yang kutemui di sini. hal itu negbuat ku ngerasa... puas? meskipun aku sering terluka aku bisa menghadapinya tanpa ngerasa sedih.\naku akan berusaha sekuat tenaga, dan meskipun aku paling gak bakal berhasil, yang mesti aku tau sudah melakukan yang terbaik dan membantu sebanyak mungkin orang. itu lah yang kita bisa lakukan.\nkalo kamu ngebaca ini, jangan nyerah, ya?",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "akhir-akhir ini aku makin sering ngeliat kapsul pendarat yang hancur berantakan, mirip kayak yang mereka gunain untuk ngirim kami ke sini tapi entah kenapa yang ini semuanya meledak <>\ndi dalam reruntuhannya, aku biasanya menemukan amunisi senjata dan semacam gumpalan daging? \n<>\nkeliatan menjijikkan banget, tapi mungkin bisa dimakan???\norang dune yang aku temui tadi bilang kalo itu enak dimakan\naku bisa coba nyicip sedikit\n<>\n\naku memakannya dan muntah-muntah selama dua puluh menit, kesalahan terburuk dalam hidup ku <>\ndemi tuhan, jangan makan apa pun itu",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "aku terus mimpi hal yang sama. aku punya sayap besar dan aku bisa terbang tinggi ke atas, ke atas, dan ke atas. nggak ada yang bisa ngehentikanku. aku menembus langit-langit gua-gua ini dan melesat ke dunia di luar sana. di luar sana sangat indah sekali tapi aku terus terbang. kan ku tinggal segalanya hingga tak tersisa apa-apa selain kekosongan yang luas. disitulah aku kan menyadari. aku aman. aku bebas.\n\nsetiap kali aku kebangun tidur, aku gak bisa berhenti nangis. aku berharap bisa terus bermimpi selama-lamanya.\n\n(Ada gambar sayap yang sangat tidak akurat, dipenuhi noda air mata.)",
-                "Item2": "Sprites/gambarCatatan/sayap",
-                "Item3": "eksperimen"
+                "Item2": "Sprites/noteDrawings/wings",
+                "Item3": "experiment"
             },
             {
                 "Item1": "apakah para ilmuan beneran bisa liat aku disini? mereka sering ingin aku ngomongin apa yang di pikiran aku, tapi disini aku cuman ngomong sama diri sendiri. memang aku bisa berhenti kapan saja, tapi rasanya seperti terapi. kalau aku ga selamat, semoga catatan ini bisa selamat.",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "aku nggak nyadar betapa parahnya kondisinya sampai aku mencoba menggali lagi dan cakarku hanya... nggaruk. nggak ada daya cengkeramnya lagi. aku telah menggaruk batu tanpa henti tanpa menyadarinya. aku ngerasa telanjang. ternyata daging nggak dimaksudkan buat nggantikan alat.\n<>\naku terus mengira aku butuh beliung untuk segala hal. tapi aku sadar parang aku berfungsi dengan baik untuk benda-benda yang lebih ringan. tanah, tumbuhan, pasir, semuanya terbelah dengan mudah. ngehemat banyak rasa sakit di tanganku.\n<>\nketemu botol bertuliskan “Peningkat Keratin”. pasti mereka sudah merencanakan agar bagian-bagian tubuh kita rusak. aku meneguk sedikit. setelah beberapa saat, lapisan lama mulai mengelupas kayak bulu. di bawahnya, rasanya lebih tajam. lebih kuat. rasanya aneh tapi memuaskan ngeliat bagian-bagian yang aus terkelupas. aku suka bagaimana cakarku memungkinkan aku menggenggam dinding dengan lebih baik\n<>\naku ingat manusia-manusianya. mereka punya kuku di setiap jari. semua jari. nggak ada cakar sama sekali. keliatan sangat aneh dari dekat. lembut. tumpul. aneh bagaimana mereka bisa ngelakukan apa pun dengan tangan seperti itu.\n<>\ndulu aku mikir itu ngebuat mereka lemah.\n<>\nsekarang aku bertanya-tanya apakah itu memang tujuannya.",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "Tempat ini dipenuhi berbagai macam makhluk yang terus-menerus berkeliaran ke mana-mana. aku agak pasifis orangnya, jadi aku lebih milih lari daripada ngelawan mereka, karena aku nggak tau siapa yang akan ngebunuh siapa lebih dulu... Lagipula, luka yang mereka tinggalkan di diriku terasa menyakitkan sekali... Aku dah nggak tau lagi... Apakah para penculik kita tahu apa yang kita alami di sini?",
@@ -4562,7 +4562,7 @@
             {
                 "Item1": "(Catatan itu kusut dan remuk, seolah-olah memang dimaksudkan untuk dibuang.)\n<>\ntemanku itu... aku rasa mereka bunuh diri. setelah terjatuh lagi dengan parah, aku nyoba ngerawat kakinya, tapi mereka terus memarahi saya. mereka terus ngusir aku kayak ngusir lalat, nyuruh aku buat ngebiarin mereka sendiri. aku nggak ngerti.\naku pergi ngambil beberapa tanaman di sini untuk nyoba membalut luka mereka, tapi... saat aku balik, mereka udah punya luka baru. satu di lengan mereka. aku masih ingat bagaimana bentuknya, sangat parah, hampir tercabik-cabik. Aku nyoba gunakan tanaman yang kutemukan buat ngobati luka baru itu, tapi mereka terus mendorongku jauh. mata mereka... terlihat... kosong. aku bilang pada mereka buat berhenti dan biarkan aku membantu, tapi mereka tidak merespons. aku nyoba membantu beberapa kali lagi, dan mereka terus mendorongku hingga akhirnya... mereka berhenti. aku ingat melihat tubuh mereka rileks, kurasa itulah saat mereka berhenti bernapas. aku tidak bisa melupakan gambaran itu...\n<>\napakah... apakah aku melakukan sesuatu yang salah? aku bersumpah aku nggak... apa yang aku lakukan salah? mengapa mereka lakukan itu? aku... aku nggak melakukan apa-apa. aku nggak ngerti, aku nggak mau mati... aku nggak... aku...\n<>\n...\n<>\nhaha...\n<>\nsepi sekali di sini.\n<>\n(Kamu melihat tetesan air mata yang samar dan kering serta darah kering yang berceceran di antara catatan yang kusut.)",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "(Ada gambar-gambar berwarna-warni di kertas itu, dan tampaknya bukan tulisan tangan)\n<>\nSup! Coba Panci Spesial kami — cukup masukkan daging dan bahan-bahannya, lalu didihkan. Jangan khawatir. Anda pasti setuju bahwa rasanya sangat lezat. Dapat disimpan hingga 737 tahun!",
@@ -4573,32 +4573,32 @@
         [
             {
                 "Item1": "ugh, tempat ini nyebelin. aku terus-terusan digigit laba-laba yang nggak keliatan dan nggak sempat kuliat. kayaknya mereka berbisa, soalnya ninggalin luka yang keliatan parah dan terinfeksi di tubuhku... tapi buah sinar memang ngebantu ngobati luka-luka itu",
-                "Item2": "Sprites/gambarCatatan/laba-laba",
-                "Item3": "eksperimen"
+                "Item2": "Sprites/noteDrawings/spider",
+                "Item3": "experiment"
             },
             {
                 "Item1": "semuanya berjalan lancar bagiku. perutku terisi makanan enak\ndan mungkin satu (cabang ekor?) atau dua ngebuatku Bahagia. para pedagang pun membalas senyumanku! aku hanya benci milihat diriku sendiri berdarah, itu ngebuatku takut",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "aku nggak suka nggak tau harus berbuat apa. dulu di rumah, mereka selalu ngasih tau aku. mainin game ini, diam pas manusia lagi ngomong, atau biarin ditusuk ama benda-benda tajam ini.\nsekarang aku harus menyelesaikan misi ini, tapi aku nggak tahu caranya. aku haus dan kakiku terluka, tapi aku juga kotor banget dan kedinginan, dan aku nggak tahu harus ke mana selain ke bawah.\nkurasa aku akan mencoba menghentikan apa yang akan membunuhku secepatnya. semoga berhasil.",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "lampu merah yang berkedip-kedip di kegelapan itu adalah perangkap paku. hati-hati. tolong. plis. baru aja ada orang yang terperosok ke salah satunya di kejauhan, aku baru aja denger teriakan dan kemudian sunyi. jaga diri baik-baik",
                 "Item2": "",
-                "Item3": "eksperimen"
+                "Item3": "experiment"
             },
             {
                 "Item1": "di sini dingin. sangat dingin. jauh lebih dingin daripada rumah kami sebelumnya. sejujurnya, aku suka. mandi di kolam renang terasa menyenangkan, menyegarkan. aku menikmati liburan ini",
-                "Item2": "Sprites/gambarCatatan/kolam",
-                "Item3": "eksperimen"
+                "Item2": "Sprites/noteDrawings/pool",
+                "Item3": "experiment"
             },
             {
                 "Item1": "aku bertemu dengan seseorang, kita sepakat untuk mencoba keluar ke permukaan melewati salah satu lubang itu ke luar. teman ku yang pertama keluar, dan mereka langsung oleng karena kaget. kelihatannya mereka kesakitan banget. mereka muntah berkali-kali, setelah itu terjatuh dan berhenti bernafas. kulit mereka mulai melepuh juga, terutama di sekitar kepala dan leher. ada yang mencegah kita untuk keluar. aku takut.",
-                "Item2": "Sprites/gambarCatatan/radiasi",
+                "Item2": "Sprites/noteDrawings/radiation",
                 "Item3": "experiment"
             },
             {
@@ -4608,8 +4608,8 @@
             },
             {
                 "Item1": "aku bener-bener harus berhenti sering jatuhin lampu-lampuku. apa pun bisa dipakai, bahkan tanaman aneh yang bercahaya itu. aku terus-terusan meninggalkannya dan lupa, lalu tersandung dan terluka tanpa sengaja. nggak bagus.",
-                "Item2": "Sprites/gambarCatatan/tanamanbercahaya",
-                "Item3": "eksperimen"
+                "Item2": "Sprites/noteDrawings/glowplant",
+                "Item3": "experiment"
             },
             {
                 "Item1": "cahaya adalah sumber daya yang berharga di sini, terutama karena semakin jauh kita masuk, semakin gelap pula tempatnya. aku nggak mau ngak sengaja nginjak perangkap. dengan bangkai laba-laba dan potongan-potongan tanaman bercahaya, aku bisa ngebuat lampu kepala sehingga tanganku tetep bebas. pas keadaan darurat, bola lampu di dalam kapsul kayaknya masih nyala meski baterainya udah habis, dan bisa dipatahkan dengan relatif mudah, meski hal itu ngebuat pemilik kapsul marah besar",
