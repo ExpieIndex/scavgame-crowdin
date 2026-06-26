@@ -2807,14 +2807,14 @@
                 "Aku kesusahan banget...",
                 "Aku... sendirian BANGET disini...",
                 "Bakal gua bunuh si bajingan yang naruh gua disini.",
-                "Gua bakal mulai ngamuk gila anjing.",
+                "Gua bakal ngamuk gila, anjing.",
                 "Mau ku banting palaku sama dinding.",
-                "Mau gua robek mata gua keluar anjing.",
+                "Mau gua robek mata gua keluar, anjing.",
                 "Aku mulai pengen ngelukain diriku sendiri.",
                 "Ah... Ahh gawat.",
                 "...",
-                "Sial... SIALAN!!! Ngapain gua DISINI ANJING???",
-                "Akan ku do'akan ajalku kan tiba dengan cepat saat tiba waktunya.",
+                "Sial... SIALAN!!! Ngapain gua DISINI, ANJING???",
+                "Ku do'akan ajalku akan tiba cepat saat waktunya.",
                 "Aku mulai pengen ngepertimbangin ngakhirin hidupku.",
                 "Jangan maksain gua lagi, anjing.",
                 "Aku gak... Gak mau mati disini...",
@@ -2849,7 +2849,7 @@
                 "CUKUP. SUDAH.",
                 "GUA GAK MAU LANJUT LAGI, ANJING.",
                 "Gua bakal cabutin urat leher gua kalau ini berlanjut.",
-                "Satu kebegoan lagi dan gua sumpah bakal tusuk tangan gua.",
+                "Satu kebegoan lagi dan gua sumpah bakal tusuk pergelangan gua.",
                 "Gua udah nyerah ama semua ini.",
                 "Gua gak mau jalan satu langkah lagi.",
                 "Gua AKAN jadiin diri gua jadi pasta kuning.",
@@ -2886,7 +2886,7 @@
                 "COK! AHAHAHAHA! AYO ANJING COK..!",
                 "Cuma sayatan kecil... Lagi... Ahahah... Sialan...",
                 "Oow-... I-itu bagus... Sial... Itu enak...",
-                "JING! Hahaha! Enak BANGET! Hahahaha....",
+                "JING! Hahaha! Enak BANGET! Hahahaha...",
                 "Itu... yang lu dapet... Tolol... Anjing lu... Hahahaha...",
                 "Tuuu... dia... hahah... enak banget...",
                 "Itu... sial... Iyaaaa... Itu cukup... Wkwk...",
@@ -2907,12 +2907,12 @@
                 "AGH! Benda BODOH! Grhh..."
             ],
             "suicide": [
-                "Sampai jumpa. Sampai JUMPA ANJING. Gua udah SELESAI!!! PERSETANLAH KALIAN INI!",
+                "Sampai jumpa. Sampai JUMPA ANJING. Gua udah SELESAI!!! PERSETAN KALIAN INI!",
                 "Gua nyerah. Sialan ini, sialan gua dan SIALAN lu.",
                 "Gua udah bilang. Gua udah BILANG, bego. Gua NYERAH!",
                 "Gua tinggalin dunia keparat ini selamanya.",
-                "Sampai jumpa. Bai. Sialan ini. Aku dah kelar anjing. biarin dah kalo masuk neraka.",
-                "Gua udah MUAK ama semua ini. Gua udah SELESAI! PERSETANLAH ANJING!!!",
+                "Sampai jumpa. Bai. Sialan ini. Gua dah kelar anjing. Biarin dah gua masuk neraka.",
+                "Gua udah MUAK ama semua ini. Gua udah SELESAI! BERENGSEK LO!!!",
                 "Akhir perjalanan, anjing. Akhir tujuan gua. GUA CABUT!!!",
                 "Itu udah cukup... Da-da... Maaf untuk ini... Semoga ada akhirat untuk aku...",
                 "Ini akhir hidupku. Semoga mayatku jadi berguna buat siapapun yang nemuin. Aku udah nggak sanggup. Maaf.",
@@ -4764,7 +4764,7 @@
             },
             {
                 "Item1": "Aku udah kehabisan air di botolku di gurun ini. Aku sangat kotor dan haus. Aku nginjek genangan air yang kutemukan buat meminumnya dan mandi, lalu semua kotoran itu buat airnya menjadi keruh. Aku nggak bisa meminumnya lagi. Seharusnya aku buang botolku ke dalamnya dulu. Aku butuh air...",
-                "Item2": "Sprites/gambarCatatan/botolair",
+                "Item2": "Sprites/noteDrawings/waterbottle",
                 "Item3": "experiment"
             }
         ],
@@ -4781,12 +4781,12 @@
             },
             {
                 "Item1": "aku... aku rasa diriku sekarat. semuanya terjadi tiba-tiba, darah berceceran di mana-mana dan aku nggak bisa membuka mata. aku takut... tapi aku nggak mau menyerah. aku ketemu banyak hal keren di tempat ini dan aku rasa udah buat banyak kemajuan dalam misi ini. aku nggak akan berhenti di sini. aku pasti bisa lewati semua kekacauan ini. aku pasti akan bertemu teman-temanku lagi.",
-                "Item2": "Sprites/gambarCatatan/pendirianterakhir",
+                "Item2": "Sprites/noteDrawings/laststand",
                 "Item3": "experiment"
             },
             {
                 "Item1": "aku nggak nyangka monster itu akan menemukanku lagi, tapi ia melakukannya. ia mengenal wajahku, kesalahanku... tapi nggak senapanku. ketika akhirnya tubuhnya meledak, aku liat beliung itu. aku liat ukiran yang kugaruk di permukaannya, sama persis dengan ukiran yang mereka ukir di beliungku. aku liat retakan kecil dari saat mereka coba menggali titanium untuk diberikan padaku. lalu, tiba-tiba, aku liat semuanya terulang kembali. bau baja yang bergesekan. getaran tanah. suara daging yang tercabik-cabik. rasa keringat dan darah, saat aku mencoba berlari, menjatuhkan makanan yang kubawa kembali ke kapsul-\n<>\napakah aku harusnya merasa tenang sekarang? atau apakah aku hanya menawar kedamaian, yang akan hancur ketika makhluk lain menemukan aku?",
-                "Item2": "Sprites/gambarCatatan/punggungberduri",
+                "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "experiment"
             },
             {
