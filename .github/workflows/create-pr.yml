@@ -113,9 +113,9 @@ jobs:
             echo "- Diff summary:"
             echo
             echo '```'
-            echo '$STATS'
+            echo "$STATS"
             echo
-            echo '$MODIFIED_FILES'
+            echo "$MODIFIED_FILES"
             echo '```'
             echo
             echo "## Locale Checklist"
@@ -135,10 +135,6 @@ jobs:
             echo
             echo "- [x] The translation has been reviewed by at least one other native speaker."
           } > pr_body.md
-
-          sed -i "s|\$CROWDIN_STATUS|$CROWDIN_STATUS|g" pr_body.md
-          sed -i "s|\$STATS|$STATS|g" pr_body.md
-          sed -i "s|\$MODIFIED_FILES|$MODIFIED_FILES|g" pr_body.md
 
           if [ -z "${GH_PR_PAT:-}" ]; then
             echo "Missing secret GH_PR_PAT."
