@@ -51,8 +51,7 @@ jobs:
           BRANCH_NAME="id-sync-$(date +%s)"
           git checkout -b $BRANCH_NAME upstream/main
           
-          git checkout main -- ID.json
-          mv ID.json id-ID.json
+          git show main:ID.json > id-ID.json
           git add id-ID.json
 
           if [ "${{ inputs.include_readme }}" = "true" ]; then
@@ -103,7 +102,7 @@ jobs:
             echo
             echo "## Target Locale"
             echo
-            echo 'Language: (e.g. pt-BR): \`id-ID\`'
+            echo 'Language: (e.g. pt-BR): `id-ID`'
             echo
             echo "## Description"
             echo
@@ -125,7 +124,7 @@ jobs:
             echo "- [x] I've read and followed the contribution guide's recommendations."
             echo '- [x] No keys are missing or extra compared to `en.json`.'
             echo "- [x] Untranslated lines remain in **English**."
-            if git diff --cached --name-only | grep -q "README.md"; then
+            if [ "${{ inputs.include_readme }}" = "true" ]; then
               echo '- [x] I updated the `README.md`'
             else
               echo '- [ ] I updated the `README.md`'
