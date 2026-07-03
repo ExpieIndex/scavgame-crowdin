@@ -359,7 +359,7 @@
         "metabolismchip": "Chip metabolisme",
         "metabolismchipdsc": "Sebuah chip yang sedikit meningkatkan metabolismemu, membuat anggota tubuhmu beregenerasi jauh lebih cepat, tetapi menggunakan lebih banyak rasa lapar untuk melakukannya.",
         "xalorissponge": "Spons Xaloris",
-        "xalorisspongedsc": "The ripped off, shriveled up spore container of a Xaloris. Can be used on a limb to counteract infection or eaten for nutritional value. Its spores might impact your immune system.",
+        "xalorisspongedsc": "Wadah spora Xaloris yang robek dan mengerut. Dapat digunakan pada anggota tubuh untuk melawan infeksi atau dimakan untuk nilai gizi. Sporanya mungkin memengaruhi sistem kekebalan tubuhmu.",
         "jetpack": "Jetpak",
         "jetpackdsc": "Alat yang dikenakan sebagai ransel yang menggunakan jet untuk mendorong pemakainya melalui udara. Memiliki bahan bakar terbatas dan fungsi terganggu jika basah. Tahan W untuk menggunakan. Juga ada kantong kecil untuk menyimpan barang.",
         "dynamite": "Dinamit",
@@ -410,7 +410,7 @@
         "lockpickingkitdsc": "Sejumlah kecil alat yang digunakan untuk membuka berbagai jenis kunci secara efisien. Simpan di inventaris utamamu saat membuka kunci. Butuh 10 INT untuk digunakan, efektivitas berskala dengan meningkatnya INT.",
         "icepack": "Kompres es",
         "icepackdsc": "Kantong dingin berisi gel pendingin yang mendinginkan sendiri. Mempercepat penyembuhan otot, mengurangi rasa sakit, dan sedikit mendinginkan tubuh. Secara otomatis mendinginkan dirinya sendiri seiring waktu.",
-        "cryogeniccore": "Cryogenic core",
+        "cryogeniccore": "Inti kriogenik",
         "cryogeniccoredsc": "An advanced device capable of controlling temperature around it. If thrown into molten rock, or if your body temperature rises high enough, it will activate, solidifying all magma around you and cooling you down considerably. One-time use.",
         "armwarmers": "Penghangat lengan",
         "armwarmersdsc": "Sepasang penghangat lengan berwarna biru. Memberikan sedikit isolasi terhadap dingin.",
@@ -629,12 +629,12 @@
         "coildsc": "Cocok untuk menggoreng apa pun yang bersifat konduktif secara instan.",
         "containercrate": "Peti kontainer",
         "containercratedsc": "Terdapat berbagai barang di dalamnya.",
-        "laserdrone": "Container crate",
-        "laserdronedsc": "Has miscellaneous items in it.",
+        "laserdrone": "Peti kontainer",
+        "laserdronedsc": "Terdapat berbagai barang di dalamnya.",
         "laserdrone2": "Cryo-drone",
         "laserdronedsc2": "A particularly angry piece of machinery.",
-        "piston": "Old machinery",
-        "pistondsc": "Some kind of cylindrical device.",
+        "piston": "Mesin tua",
+        "pistondsc": "Semacam alat silinder.",
         "corpse": "???",
         "corpseseen": "Mayat",
         "corpsedsc": "",
@@ -1506,7 +1506,7 @@
         "runsetbasetrapdensity": "Kepadatan jebakan",
         "runsetbasetrapdensitydsc": "Seberapa banyak jebakan yang muncul di setiap lapisan. Mempengaruhi hal-hal seperti jebakan mekanikal, musuh, bahaya lainnya.",
         "runsettrapincrease": "Peningkatan jarak jebakan",
-        "runsettrapincreasedsc": "Angka ini ditambahkan ke kepadatan jebakan untuk setiap lapisan yang kamu lalui\n\ndengan kata lain, jika kamu menyetelnya ke 0,5x contohnya, maka jumlah jebakan akan berubah dari 1x -> 1,5x -> 2x dan seterusnya",
+        "runsettrapincreasedsc": "Angka ini ditambahkan ke kepadatan jebakan untuk setiap lapisan yang kamu lalui\n\ndengan kata lain, jika kamu menyetelnya ke 0,5x contohnya, maka jumlah jebakan akan berubah dari 1x -> 1.5x -> 2x dan seterusnya",
         "runsettimelimit": "Batas waktu lapisan",
         "runsettimelimitdsc": "Dalam menit, seberapa lama kamu bisa menetap di setiap lapisan sebelum dihukum",
         "runsetstartingsupplies": "Suplai permulaan",
@@ -4060,17 +4060,17 @@
         },
         {
             "seeGravel": [
-                "It seems I have arrived.",
-                "New ground.",
-                "ETA: Zero hours, zero minutes, and now.. zero seconds.",
-                "How novel. Time to set out, then.",
-                "Not unlike what I envisioned during training.",
-                "Need to stay rational.",
-                "Peculiar.",
-                "Fascinating, if nothing else.",
-                "A change of pace.",
-                "It seemingly is dark here.",
-                "New environment. Curious."
+                "Sepertinya aku telah tiba. ",
+                "Wilayah baru. ",
+                "Estimasi tiba: Nol jam, nol menit, dan sekarang... nol detik. ",
+                "Sungguh hal baru. Saatnya mulai bergerak, kalau begitu.",
+                "Tak jauh berbeda dengan yang kubayangkan saat latihan. ",
+                "Harus tetap rasional",
+                "Sungguh ganjil. ",
+                "Menarik, paling tidak. ",
+                "Sebuah perubahan suasana. ",
+                "Sepertinya gelap disini. ",
+                "Lingkungan baru. Menarik juga. "
             ],
             "eatGood": [
                 "Pleasant.",
@@ -5491,7 +5491,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "Curious, I attempted to traverse in a prone position.\n<>\nThe utility was unexpected. Not only does it allow one to rinse off contaminants in shallow puddles and squeeze through narrow gaps, but remarkably, even crawling over scattered glass shards resulted in no injury.\n<>\nHowever, complacency is dangerous. I misjudged a slight drop and injured myself. \n<>\nScuttling around like that... I must have looked just like one of those \"worms\" I heard about.",
+                "Item1": "Penasaran, aku mencoba bergerak dengan posisi tengkurap.\n<>\nKegunaannya ternyata di luar dugaan. Selain bisa membilas kotoran di genangan air dangkal dan menyelip lewat celah sempit, anehnya, bahkan merayap di atas pecahan kaca pun nggak melukaiku sama sekali.\n<>\nTapi, kelengahan itu berbahaya. Aku salah memperkirakan sebuah turunan kecil dan malah terluka.\n<>\nMerayap-rayap kayak gitu... aku pasti kelihatan persis seperti salah satu \"cacing\" yang pernah kudengar itu.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -5501,44 +5501,44 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "It hurts me to admit, but the frailty of my kind cannot be denied. Luckily, I have found a wonderful container that outright nullifies the weight of most items, allowing me to carry more supplies than I'd normally be able to.\nIt runs on batteries, and that worries me. I am not sure what will happen once the power runs out, so I'll check it now, to be safe.<>\nI don't want it to become heavy mid-jump. I have an almost dead battery on me.\nTime to see how the bag behaves once its power runs out.\n\n(The rest of the note is unreadable; whatever text was written below is covered up by a copious amount of dried blood.)",
+                "Item1": "Rasanya pahit untuk kuakui, tapi kerapuhan jenisku tidak dapat disangkal. Untungnya, aku menemukan sebuah tas luar biasa yang sepenuhnya menetralkan berat sebagian besar barang, memungkinkanku membawa lebih banyak suplai daripada biasanya.\nTas ini berjalan dengan baterai, dan itu mengkhawatirkanku. Aku tidak yakin apa yang akan terjadi begitu dayanya habis, jadi aku akan memeriksanya sekarang, demi keamanan.\n<>\nAku tidak mau itu jadi berat di tengah-tengah lompatan. Aku punya baterai yang hampir habis.\nSaatnya melihat apa yang terjadi begitu dayanya habis.\n\n(Sisa catatan ini tidak dapat dibaca; apa pun yang tertulis di bawahnya tertutup oleh banyak darah kering.)",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "Not even out of this rocky hellscape, and I already feel like death is near,\nAll they gave me was a shitty torch that didnt even last an hour; not even any safety gear to help cushon these falls i've been taking.\n\nFUCK ME, I feel like a ball from one of those gambling machines I would see those humans using!\n\nI think I might be slowly dying, ever since the last fall, I've been feeling pretty heavy headed, I feel tired; but I feel if i sleep, I will die.\n\nGod save me.\nFUCK, man.\nI really don't want to die, not like this..\nThough what even is the point of all this?\nI don't even have a name for myself, just a tag..\nFuck...",
+                "Item1": "Belum juga keluar dari neraka berbatu ini, aku udah ngerasa kayak kematian udah deket,\nYang mereka kasih cuma senter murahan yang bahkan nggak tahan sejam; nggak ada pelindung apa pun buat ngeredam jatuh-jatuh yang udah aku alami.\nANJING, aku ngerasa kayak bola dari mesin judi yang pernah kulihat dipakai manusia-manusia itu!\nKurasa aku pelan-pelan sekarat, sejak jatuh terakhir, kepalaku berat terus, aku ngerasa capek; tapi aku ngerasa kalau aku tidur, aku bakal mati.\nTuhan, tolong aku.\nBANGSAT.\nAku beneran nggak mau mati, nggak kayak gini...\nTapi apa gunanya semua ini?\nAku bahkan nggak punya nama buat diriku sendiri, cuma sebuah tag...\nSialan...",
                 "Item2": "",
                 "Item3": "milky"
             }
         ],
         [
             {
-                "Item1": "panas banget disini. bener2 harus awasin gerakan ku dan hati2 gak mati rasa karna kepanasan. aku temu nyemplung di kolam air disini ngebantu... bahkan juga yang coklat kalo harus.",
+                "Item1": "ugh. panas banget di sini. bener bener perlu ngatur jarak gerakanku dan hati-hati biar gak mati rasa gara-gara kepanasan. nyemplung ke kolam-kolam air di sini bisa bantu... bahkan yang coklat sekalipun kalo lagi kepepet.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "gw dah gak bisa. kenapa\nsemua orang udah mati\ngw gak bisa\ngw mau ini berhenti\ngw gak bisa\ngw mau bebas\nmengapa\ngak bisa. gw gak mau liat ini semua lagi. udah liat kebanyakan hal2 buruk. gw dah muak.\nkaki gw dah mampus. diledakin ranjau\ntangan gw, yang kanan, juga udah mati rasa\ngw mau ini semua berakhir.\nsemua ini sengsaraan\ngw udah gak bisa lagi\nsebentar lagi gw bakal cakar arteri gw dan jadi mayat lain buat lu liat - selama gw belum dimakan sebelum lu temu gua.\n\nmakasih buat semuanya. sampai jumpa.",
+                "Item1": "aku udah gak sanggup lagi. kenapa.\nsemua orang mati\naku gak sanggup.\naku pengen ini berhenti\naku gak sanggup\naku pengen bebas\nkenapa\nkenapa aku gak bisa. aku gak mau liat ini lagi. aku udah liat terlalu banyak hal buruk. aku sakit banget.\nkakiku udah hancur kena ranjau\ntanganku, yang kanan, juga sakit parah\naku pengen ngakhirin ini semuanya\nsemuanya cuma penderitaan\naku udah gak sanggup lagi\nsebentar lagi aku bakal robek nadiku sendiri dan jadi mayat lain buat kamu liat - asal mereka belum makan aku pas kamu sampai sini.\nmakasih buat semuanya. selamat tinggal",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "The vines spread around the area are surprisingly climbable. The thin ones less so, but you can use the large ones as natural ladders. Definitely saved me a few fractured legs.",
+                "Item1": "Tanaman rambat yang tersebar di area ini ternyata bisa dipanjat. Yang tipis agak kurang bisa diandalkan, tapi yang besar bisa dipakai sebagai tangga alami. Jelas menyelamatkanku dari beberapa kali patah kaki. ",
                 "Item2": "Sprites/noteDrawings/sandvine",
                 "Item3": "milky"
             },
             {
-                "Item1": "Today I happened upon a door for which unlocking was contingent upon the insertion of some scrap. I did not possess any on my person; however, I was fortunately equipped with a laser-action drill, which made quick work of the surrounding walls. Inside, I obtained an electronic device on which some exquisite music had been stored. I listen to it from time to time.",
+                "Item1": "Hari ini aku menjumpai sebuah pintu yang penguncinya hanya bisa terbuka dengan memasukkan semacam besi tua. Aku tidak memilikinya, tetapi untungnya aku memiliki bor laser yang dengan cepat meleburkan tembok di sekitarnya. Di dalamnya, aku menemukan sebuah perangkat elektronik yang menyimpan musik yang begitu indah. Aku mendengarkannya dari waktu ke waktu.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "The oil pools on this planet are definitely unnatural. Trying to understand their origin, I crawled through one of the empty pipes only to find a tough metallic screen that stopped me from progressing.\nThere was a sign behind it that said \"Waste Disposal Source\". I drilled through the pipe to go around the screen, but the pipe stopped abruptly. It has to be connected to something from our old home, but I don't understand how.\n\nThat sign keeps worrying me. Did the humans want to dispose of us too?",
+                "Item1": "Kolam-kolam minyak di planet ini jelas tidak alami. Berusaha memahami asal-usulnya, aku merangkak melalui salah satu pipa kosong, hanya untuk menemukan sebuah layar logam kokoh yang menghalangiku untuk melanjutkan.\nAda tanda di baliknya yang bertuliskan \"Sumber Pembuangan Limbah\". Aku mengebor pipa itu untuk mengelilingi layar tersebut, tapi pipanya berhenti secara tiba-tiba. Ini pasti terhubung dengan sesuatu dari rumah lama kita, tapi aku tidak mengerti bagaimana caranya.\n\nTanda itu terus membuatku khawatir. Apakah manusia juga ingin membuang kita?",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "see evil creature... orange evil creature... creature want eat dune!   but dune fight back.   dune kill and eat evil creature!   creature very tasty!",
+                "Item1": "lihat makhluk jahat... makhluk jahat oranye... makhluk jahat mau makan dune! tapi dune lawan. dune bunuh dan makan makhluk jahat. makhluk jahat rasanya enak. ",
                 "Item2": "Sprites/noteDrawings/wallbiter",
                 "Item3": "dune"
             },
@@ -5553,7 +5553,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "tolong aku    nginjek    pelat meledak    aku    nyeri banget    tolong     tolong aku    mohon   pengen ping s   a",
+                "Item1": "tolong aku    nginjek    pelat meledak    aku    sakit banget    tolong     tolong aku    mohon   pengen ping s   a",
                 "Item2": "",
                 "Item3": "experiment"
             },
