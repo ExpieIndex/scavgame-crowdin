@@ -3746,7 +3746,7 @@
                 "...Lama juga ya.",
                 "Sumpah tadi kayaknya gak ada peredam suara.",
                 "Perjalanan cukup panjang tadi...",
-                "Oh..? That's it?"
+                "Oh...? Gitu aja?"
             ],
             "loud": [
                 "BANGSAT! Lantang banget tadi...",
@@ -4073,48 +4073,48 @@
                 "Lingkungan baru. Menarik juga. "
             ],
             "eatGood": [
-                "Pleasant.",
-                "This is adequate.",
-                "Good.",
-                "The flavour profiles are appealing enough.",
-                "Does not hurt to indulge.",
-                "A preferable palate cleanser.",
-                "This shall suffice."
+                "Lezat. ",
+                "Ini sudah memadai",
+                "Baik. ",
+                "Profil rasanya cukup menggugah.",
+                "Tidak ada salahnya memanjakan diri. ",
+                "Penawar rasa yang cukup pantas.",
+                "Ini akan mencukupi. "
             ],
             "eatMediocre": [
-                "Unsatisfactory.",
-                "Is this truly the best option?",
-                "About as exciting as watching paint dry.",
-                "How boring..",
-                "It is sufficient enough for calories.",
-                "Not terribly inspiring.",
-                "Required for my bodily functions.",
-                "It is... fine.",
-                "Edible.",
-                "If this sustains my body...",
-                "This should at least keep me up."
+                "Tidak memuaskan.",
+                "Apakah ini benar-benar pilihan terbaik?",
+                "Semenarik menonton cat mengering.",
+                "Membosankan..",
+                "Cukup untuk memenuhi kalori.",
+                "Tidak begitu menggugah.",
+                "Diperlukan untuk fungsi tubuhku.",
+                "Ini... lumayan.",
+                "Bisa dimakan.",
+                "Jika ini mampu menopang tubuhku...",
+                "Setidaknya ini akan membuatku tetap bertahan."
             ],
             "eatBad": [
-                "What a horrible taste. Never again.",
-                "Ew.",
-                "Repulsive.",
-                "Terrible.",
-                "Only slightly preferable to starvation.",
-                "My appetite has been ruined.",
-                "...if I must.",
-                "My taste buds did not enjoy that.",
-                "Not the best culinary decision.",
-                "This will make me sick."
+                "Rasa yang mengerikan. Tidak akan pernah lagi.",
+                "Ih.",
+                "Menjijikkan.",
+                "Sangat buruk.",
+                "Hanya sedikit lebih baik dibandingkan kelaparan.",
+                "Nafsu makanku telah hancur.",
+                "...kalau aku memang terpaksa.",
+                "Lidahku tidak menikmati ini.",
+                "Bukan pilihan kuliner terbaik.",
+                "Ini akan membuatku sakit."
             ],
             "refuseEat": [
-                "I refuse to engage with this line of thought.",
-                "The stuff of vermin. No.",
-                "I would rather suffer starvation.",
-                "I refuse.",
-                "I've seen rocks more appetizing than this.",
-                "I would prefer choking on my own saliva.",
-                "I cannot even process this.",
-                "This is inedible."
+                "Aku menolak untuk bahkan mempertimbangkan pemikiran ini.",
+                "Makanan hama. Tidak.",
+                "Aku lebih memilih menderita kelaparan.",
+                "Aku menolak.",
+                "Aku pernah melihat batu yang lebih menggugah daripada ini.",
+                "Aku lebih memilih tersedak air liurku sendiri.",
+                "Aku bahkan tak sanggup mencernanya.",
+                "Ini tidak layak makan."
             ],
             "tired": [
                 "Time for rest is fast approaching.",
