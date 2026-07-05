@@ -4219,44 +4219,44 @@
                 "Makanan diperlukan."
             ],
             "starving": [
-                "I urgently require sustenance...",
-                "This is a painful, burning hunger.",
-                "I need food to focus...",
-                "Stomach... Crying...",
-                "Starvation imminent.",
-                "Sustenance...Needed...",
-                "Food is critical for survival."
+                "Aku sangat memerlukan asupan segera...",
+                "Rasa lapar ini menyakitkan, seperti membara.",
+                "Aku perlu makanan untuk fokus...",
+                "Perutku... Menjerit...",
+                "Kelaparan sudah di ambang batas.",
+                "Asupan...Diperluka...",
+                "Makanan penting untuk bertahan hidup."
             ],
             "thirsty": [
-                "I require hydration.",
-                "I ought to consume water.",
-                "Hydration would be optimal.",
-                "My throat feels unusually dry. Verdict: Poor hydration.",
-                "Would be wise to prepare the day's water ration ahead of time.",
-                "I require water.",
-                "Water required."
+                "Aku perlu hidrasi.",
+                "Sebaiknya aku mengonsumsi air.",
+                "Hidrasi akan sangat optimal.",
+                "Tenggorokanku terasa kering. Kesimpulan: Hidrasi buruk.",
+                "Akan bijak jika aku menyiapkan suplai air harian lebih awal.",
+                "Aku perlu air.",
+                "Air diperlukan."
             ],
             "dehydrated": [
-                "I'm really dehydrated.",
-                "I am becoming dangerously dry on the inside.",
-                "Shouldn't be rationing water...",
-                "I believe my body's water content... is depleted.",
-                "Need to... replenish... liquids...",
-                "Situation necessitates.. hydration...",
-                "Dehydration...",
-                "Urgently... Water.",
-                "Dessication is... a pathetic way... to die...",
-                "Fluid intake is critical for continued survival..."
+                "Aku benar-benar dehidrasi.",
+                "Cairan dalam diriku mulai mengering ke tingkat berbahaya.",
+                "Harusnya aku tidak terlalu menghemat air...",
+                "Aku yakin cairan tubuhku... sudah menipis.",
+                "Perlu... mengisi ulang... cairan...",
+                "Situasi menuntut... hidrasi segera...",
+                "Dehidrasi...",
+                "Darurat... Air.",
+                "Kekeringan... cara menyedihkan... untuk mati...",
+                "Cairan tubuh sangat penting untuk kelangsungan hidup..."
             ],
             "limbmuscle": [
-                "My <limb> is in an immobile state.",
-                "Hrrr... Hmmh... I am unable to use my <limb>.",
-                "I need to tend to my <limb>.",
-                "I cannot utilize my <limb>.",
-                "My <limb> tingles.",
-                "I injured my <limb> badly.",
-                "I must take better care of myself.",
-                "I must aid my <limb>."
+                "<limb>-ku tibak bisa digerakkan.",
+                "Hrrr... Hmmh... Aku tidak bisa menggunakan <limb>-ku.",
+                "Aku perlu merawat <limb>-ku.",
+                "Aku tidak bisa mengoperasikan <limb>-ku.",
+                "<limb>-ku terasa kesemutan.",
+                "Aku melukai <limb>-ku cukup parah.",
+                "Aku harus lebih bisa menjaga diri.",
+                "Aku harus mengurus <limb>-ku."
             ],
             "limbinfected": [
                 "My <limb> appears to house an infection.",
