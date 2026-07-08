@@ -1828,7 +1828,7 @@
         "cqcondiment": "Bumbu",
         "handswitchtip": "Tukar tangan utama",
         "handswitchdsc": "Tukarkan tangan utamamu antara kanan/kiri.\nGunakan ini untuk menggali dengan tangan keduamu jika lengan utama patah.\nlengan kirimu sedikit lebih lemah daripada lengan kanan",
-        "handswitchwarning": "<color=\"orange\">AWAS\n</color>Kamu memiliki ketangkasan yang lebih rendah di tangan kirimu",
+        "handswitchwarning": "<color=\"orange\">PERHATIAN\n</color>Tangan kirimu memiliki ketengkasan rendah",
         "speed1": "Normal",
         "speed2": "Cepat",
         "speed3": "Sangat cepat",
@@ -2246,7 +2246,7 @@
         {
             "seeGravel": [
                 "Sudah sampai...",
-                "Okay... Mari kita lakukan.",
+                "Oke... Mari kita lakukan.",
                 "Aku siap...",
                 "Aku gak mau melakuin ini...",
                 "Ayo.",
@@ -2342,7 +2342,7 @@
                 "Mhh...",
                 "Gh..",
                 "...?",
-                "Okay...",
+                "Oke...",
                 "...Ew.",
                 "Meh...",
                 "Tekstur ini...",
@@ -4437,9 +4437,9 @@
                 "Ada ribuan cara untuk mencegah ini terjadi, namun tetap saja pecahan kaca berhasil menembus telapak kakiku.",
                 "Ow.",
                 "Itu sebuah kesalahan perhitungan dariku.",
-                "Why the hell would they not temper the windows?",
-                "Shards of glass in my feet.",
-                "I must clean up the shards."
+                "Kenapa pula mereka tidak memperkuat kaca jendelanya?",
+                "Serpihan kaca di kakiku.",
+                "Aku harus membersihkan pecahannya."
             ],
             "seecorpse": [
                 "Better you than me.",
