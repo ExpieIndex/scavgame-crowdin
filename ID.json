@@ -4624,26 +4624,26 @@
                 "*batuk* *ack*",
                 "Hnnh... Nggh... T-tolong... N-nafas...",
                 "*gasp*",
-                "W-will... Pass... Out...",
-                "I cannot... *cough* *hack*",
-                "Help- Ack! Cough!",
+                "Ak-akan... pingsan...",
+                "Aku gabisa... *batuk* *hack*",
+                "Tolong- Ack! Uhuk!",
                 "S-suffocating... *cough*",
-                "I am unable to breathe."
+                "Aku kesusaan bernafas."
             ],
             "pain": [
-                "I am in pain.",
-                "Ow.",
-                "My <limb> is sending pain stimuli.",
-                "Pain.",
-                "I feel discomfort around my <limb>.",
-                "My <limb> is in pain.",
-                "This feels bad.",
-                "My <limb> aches.",
-                "Pain stimuli is present.",
-                "Heck.",
-                "Yelp...",
-                "*sigh*",
-                "Unpleasant sensation in my <limb>."
+                "Aku kesakitan.",
+                "Aw.",
+                "<limb>-ku mengirim sinyal rasa sakit.",
+                "Sakit.",
+                "Aku merasakan ketidaknyamanan di <limb>-ku.",
+                "<limb>-ku kesakitan.",
+                "Ini terasa buruk.",
+                "<limb>-ku nyeri.",
+                "Ada stimulus rasa sakit.",
+                "Sial.",
+                "Akh...",
+                "*menghela nafas*",
+                "Sensasi tidak menyenangkan pada <limb>-ku."
             ],
             "hitgroundhard": [
                 "Auh!",
@@ -4651,18 +4651,18 @@
                 "Hnnnh!",
                 "...!",
                 "Gnh!",
-                "Oops."
+                "Ups."
             ],
             "bigpain": [
                 "NNNHH...",
                 ".....NGHH....",
-                "...A-Agon-ny...",
+                "...S-sakit...",
                 "N...Nhhh...Ghhh...",
-                "H..Mhhh...Hhh..H-hel-p..!",
+                "H..Mhhh...Hhh..T-To-long..!",
                 "Grrrh...",
-                "STOP IT!!",
-                "CEASE!",
-                "FUCK!!",
+                "HENTIKAN!!",
+                "BERHENTI!",
+                "BANGSAT!!",
                 "Nhhggggghhh... Urrgghh...",
                 "Hgnnhh.... Ggrrrhh...",
                 "Aagghhrhhgg... Ngghrhhhgh... Grhh...",
@@ -4677,16 +4677,16 @@
                 "Ahh!",
                 "Woah.",
                 "Huh.",
-                "That can't be good."
+                "Waduh."
             ],
             "hitbycreature": [
-                "Damn critter!!",
-                "AGH! You!",
-                "Hngh! Refrain!",
-                "*gasp*",
-                "Hhhnn! No you do not!",
-                "Piece of...!",
-                "Annoying!"
+                "Makhluk sialan!!",
+                "AGH! Kau!",
+                "Hngh! Tahan di sana!",
+                "*tersentak*",
+                "Hhhnn! Jangan harap!",
+                "Dasar...!",
+                "Menyebalkan!"
             ],
             "wet": [
                 "My fur has high water content.",
