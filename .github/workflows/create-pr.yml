@@ -60,12 +60,11 @@ jobs:
               -H "Authorization: token $GH_PR_PAT" \
               -H "Accept: application/vnd.github+json" \
               "https://api.github.com/repos/Orsoniks/scavgame-locale/pulls?state=open&per_page=100" \
-              | jq -r '.[] | select(.user.login == "mefinity" and .head.repo.owner.login == "ExpieIndex" and (.head.ref | startswith("id-sync"))) | . ' \
-              | head -1)
+              | jq -r 'first(.[] | select(.user.login == "mefinity" and .head.repo.owner.login == "ExpieIndex" and (.head.ref | startswith("id-sync")))) | "\(.number)|\(.head.ref)"')
 
-            if [ -n "$EXISTING_PR" ]; then
-              PR_NUMBER=$(echo "$EXISTING_PR" | jq -r '.number')
-              BRANCH_NAME=$(echo "$EXISTING_PR" | jq -r '.head.ref')
+            if [ -n "$EXISTING_PR" ] && [ "$EXISTING_PR" != "null" ]; then
+              PR_NUMBER=$(echo "$EXISTING_PR" | cut -d'|' -f1)
+              BRANCH_NAME=$(echo "$EXISTING_PR" | cut -d'|' -f2)
               echo "updating PR #$PR_NUMBER"
               UPDATE_MODE=true
             else
