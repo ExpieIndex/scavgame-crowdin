@@ -8,6 +8,11 @@ on:
         required: true
         type: boolean
         default: false
+      update_existing:
+        description: 'Update existing PR'
+        required: true
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -32,10 +37,10 @@ jobs:
           set -e
           git config user.name "ExpieIndex"
           git config user.email "expieindex@users.noreply.github.com"
-          
+
           git remote add upstream https://github.com/Orsoniks/scavgame-locale.git
           git fetch upstream main
-          
+
           if [ "${{ inputs.include_readme }}" = "true" ]; then
             if git diff --quiet upstream/main:id-ID.json main:ID.json && git diff --quiet upstream/main main -- README.md; then
               echo "No changes. Exiting."
@@ -48,7 +53,32 @@ jobs:
             fi
           fi
 
-          BRANCH_NAME="id-sync-$(date +%s)"
+          if [ "${{ inputs.update_existing }}" = "true" ]; then
+            [ -z "${GH_PR_PAT:-}" ] && { echo "missing GH_PR_PAT"; exit 1; }
+
+            EXISTING_PR=$(GH_TOKEN="$GH_PR_PAT" gh pr list \
+              --repo Orsoniks/scavgame-locale \
+              --author ExpieIndex \
+              --state open \
+              --search "Update Indonesian locale in:title" \
+              --json number,headRefName \
+              --limit 1 \
+              --jq '.[0]' || echo "")
+
+            if [ -n "$EXISTING_PR" ] && [ "$EXISTING_PR" != "null" ]; then
+              PR_NUMBER=$(echo "$EXISTING_PR" | jq -r '.number')
+              BRANCH_NAME=$(echo "$EXISTING_PR" | jq -r '.headRefName')
+              echo "updating PR #$PR_NUMBER"
+              UPDATE_MODE=true
+            else
+              echo "no PR found (set update_existing=false to create new)"
+              exit 1
+            fi
+          else
+            BRANCH_NAME="id-sync-$(date +%s)"
+            UPDATE_MODE=false
+          fi
+
           git checkout -b $BRANCH_NAME upstream/main
           
           git show main:ID.json > id-ID.json
@@ -65,7 +95,13 @@ jobs:
           fi
 
           git commit -m "Update Indonesian locale"
-          git push -u origin $BRANCH_NAME
+
+          if [ "$UPDATE_MODE" = "true" ]; then
+            git push -f origin $BRANCH_NAME
+            echo "pushed to PR #$PR_NUMBER"
+          else
+            git push -u origin $BRANCH_NAME
+          fi
 
           if [ "${{ inputs.include_readme }}" = "true" ]; then
             MODIFIED_FILES=$(git diff --name-status upstream/main $BRANCH_NAME -- id-ID.json README.md || true)
@@ -140,9 +176,15 @@ jobs:
             exit 1
           fi
 
-          GH_TOKEN="$GH_PR_PAT" gh pr create \
-            --repo Orsoniks/scavgame-locale \
-            --base main \
-            --head ExpieIndex:$BRANCH_NAME \
-            --title "Update Indonesian locale (id-ID.json)" \
-            --body-file pr_body.md
+          if [ "$UPDATE_MODE" = "false" ]; then
+            GH_TOKEN="$GH_PR_PAT" gh pr create \
+              --repo Orsoniks/scavgame-locale \
+              --base main \
+              --head ExpieIndex:$BRANCH_NAME \
+              --title "Update Indonesian locale (id-ID.json)" \
+              --body-file pr_body.md
+          else
+            GH_TOKEN="$GH_PR_PAT" gh pr edit $PR_NUMBER \
+              --repo Orsoniks/scavgame-locale \
+              --body-file pr_body.md
+          fi

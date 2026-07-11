@@ -24,7 +24,9 @@ jobs:
 
       - name: Dynamic fix syntax
         run: |
+          cp EN.json EN.json.orig
           python3 -c "import re; f=open('EN.json', 'r+'); content=f.read(); f.seek(0); f.write(re.sub(r',\s*([\]}])', r'\1', content)); f.truncate()"
+          git update-index --assume-unchanged EN.json
 
       - name: crowdin action
         uses: crowdin/github-action@v2
@@ -40,3 +42,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+
+      - name: Restore orig EN.json
+        if: always()
+        run: |
+          git update-index --no-assume-unchanged EN.json
+          mv EN.json.orig EN.json
