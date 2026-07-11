@@ -181,7 +181,11 @@ jobs:
               --title "Update Indonesian locale (id-ID.json)" \
               --body-file pr_body.md
           else
-            GH_TOKEN="$GH_PR_PAT" gh pr edit $PR_NUMBER \
-              --repo Orsoniks/scavgame-locale \
-              --body-file pr_body.md
+            PR_BODY=$(cat pr_body.md | jq -Rs .)
+            curl -fsSL -X PATCH \
+              -H "Authorization: token $GH_PR_PAT" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/Orsoniks/scavgame-locale/pulls/$PR_NUMBER" \
+              -d "{\"body\": $PR_BODY}" > /dev/null
+            echo "updated PR #$PR_NUMBER body"
           fi
