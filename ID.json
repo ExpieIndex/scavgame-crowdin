@@ -756,7 +756,7 @@
         "turret": "Meriam",
         "turretdsc": "Nampaknya memiliki sejenis detektor panas didalamnya.",
         "ceilingturret": "Ceiling turret",
-        "ceilingturretdsc": "Seems to have some kind of heat/motion sensor. Maybe you could sneak by?",
+        "ceilingturretdsc": "Nampaknya memiliki sejenis detektor panas/gerak didalamnya. Mungkin kamu bisa menyelinap lewat?",
         "grate": "Grate",
         "gratedsc": "",
         "stalagmite": "Stalagmit",
@@ -1410,7 +1410,7 @@
         "redsludge": "Red sludge",
         "redsludgedsc": "Absolutely disgusting. Some kind of fleshy paste. Smells abhorrent.",
         "magma": "Magma",
-        "magmadsc": "Molten rock. Every single one of your senses is screaming at you to avoid it. It'll probably slowly cool down over time.",
+        "magmadsc": "Batuan cair. Setiap indra kamu menjerit menyuruhmu untuk menghindarinya. Ini mungkin akan mendingin secara perlahan seiring berjalannya waktu.",
         "oil": "Minyak",
         "oildsc": "Ter hitam kental. Sulit untuk dilalui. Tidak bisa dikonsumsi.",
         "sap": "Getah Pohon",
@@ -5829,7 +5829,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[Inventory log 11-34X]\n[On-Site Personnel Retention Measures]\n--------------------------------------------------------<>\nRR-104 Pneumatic Area Access Denier - \"Spike Trap\"\n\nA steel, sharpened rod (180 cm in length, 10 cm in diameter) attached to a launching mechanism, capable of fully extending the spike in 0.3 seconds.\nMeant to deliver disabling piercing wounds, immediately stripping the target of the ability to move. Triggered by a motion sensor.\n\n[Note: This is stupid. Those things can be seen from a mile away, and the launching mechanism requires rearming after a single use. It won't stop anything but the most dull of escapees. Project discontinued. Trash the supply.]\n--------------------------------------------------------<>\nTG-22 Thermal-guided Projectile Distributor - \"Turret\"\n\nA 9mm caliber rifle attached to <corrupt:0xFB387A> brand mount.\nThe firing mechanism is controlled by a thermal sensor with a range of 100 meters.\nIncludes variants using higher caliber ammo for field use, but the 9mm should be sufficient for now.\n\n[Note: You stuck a gun atop a thermal camera. But it is effective. I'd recommend a higher caliber, given our recently emerged new specimens. This will not do, though. You've solved the problem of effectiveness, but its lethality is not a desired feature either. Both the Subjects and employees pose a security risk, but they are also not without value.]\n--------------------------------------------------------<>\nDD-6X1 Acoustic Compliance Enforcement System - \"Sound Cannon\"\n\nA modified directional speaker utilizing high-yield capacitor banks. Designed to enforce rapid compliance through acoustic stimulus.\nExposure causes immediate loss of motor control, mild to medium internal bleeding, and severe pain.\nOutput power listed in restricted documentation only.\n\n[Note: This will do.]",
+            "Item1": "[Log Inventaris 11-34X]\n[Tindakan Penahanan Personel di Lokasi]--------------------------------------------------------<>\nPenolak Akses Area Pneumatik RR-104 \"Perangkap Paku\"\n\nBilah baja tajam (panjang 180 cm, diameter 10 cm) yang dipasang pada mekanisme peluncur, mampu memanjangkan paku sepenuhnya dalam waktu 0,3 detik.Dirancang untuk memberikan luka tusuk yang melumpuhkan, sehingga target langsung kehilangan kemampuan bergerak. Dipicu oleh sensor gerak.\n\n[Catatan: Ini bodoh. Benda-benda itu bisa terlihat dari jarak satu mil, dan mekanisme peluncurnya butuh diisi ulang setelah satu kali penggunaan. Ini tidak akan menghentikan siapa pun kecuali pelarian yang paling bodoh. Proyek dihentikan. Buang semua pasokannya.]\n--------------------------------------------------------<>\nDistributor Proyektil Berpemandu Termal TG-22 - \"Meriam\"\n\nSenapan kaliber 9mm yang dipasang pada dudukan merek <corrupt:0xFB387A>.\nMekanisme penembakan dikendalikan oleh sensor termal dengan jangkauan 100 meter.\nTersedia varian yang menggunakan amunisi kaliber lebih tinggi untuk penggunaan di lapangan, tetapi ukuran 9mm seharusnya sudah cukup untuk saat ini.\n\n[Catatan: Anda memasang senapan di atas kamera termal. Tapi ini efektif. Saya merekomendasikan kaliber yang lebih tinggi, mengingat spesimen baru kita baru saja muncul akhir-akhir ini. Namun, ini masih kurang tepat. Anda memang telah menyelesaikan masalah efektivitas, tetapi tingkat kefatalannya bukanlah fitur yang diinginkan. Baik Subjek maupun karyawan sama-sama menimbulkan risiko keamanan, tetapi mereka juga bukan tanpa nilai.]\n--------------------------------------------------------<>\nSistem Penegakan Kepatuhan Akustik DD-6X1 - \"Meriam Suara\"\nPengeras suara terarah yang dimodifikasi menggunakan rangkaian kapasitor hasil tinggi. Dirancang untuk menegakkan kepatuhan cepat melalui stimulus akustik.Paparan gelombang menyebabkan hilangnya kontrol motorik secara instan, pendarahan internal ringan hingga sedang, dan rasa sakit yang hebat.Daya keluaran hanya tercantum dalam dokumentasi terbatas.\n\n[Catatan: Ini baru cocok.] ",
             "Item2": ""
         },
         {
