@@ -58,7 +58,7 @@ jobs:
 
             EXISTING_PR=$(GH_TOKEN="$GH_PR_PAT" gh pr list \
               --repo Orsoniks/scavgame-locale \
-              --author ExpieIndex \
+              --author mefinity \
               --state open \
               --search "Update Indonesian locale in:title" \
               --json number,headRefName \
