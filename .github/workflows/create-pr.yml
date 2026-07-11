@@ -56,18 +56,16 @@ jobs:
           if [ "${{ inputs.update_existing }}" = "true" ]; then
             [ -z "${GH_PR_PAT:-}" ] && { echo "missing GH_PR_PAT"; exit 1; }
 
-            EXISTING_PR=$(GH_TOKEN="$GH_PR_PAT" gh pr list \
-              --repo Orsoniks/scavgame-locale \
-              --author mefinity \
-              --state open \
-              --search "Update Indonesian locale in:title" \
-              --json number,headRefName \
-              --limit 1 \
-              --jq '.[0]' || echo "")
+            EXISTING_PR=$(curl -fsSL \
+              -H "Authorization: token $GH_PR_PAT" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/Orsoniks/scavgame-locale/pulls?state=open&per_page=100" \
+              | jq -r '.[] | select(.user.login == "mefinity" and .head.repo.owner.login == "ExpieIndex" and (.head.ref | startswith("id-sync"))) | . ' \
+              | head -1)
 
-            if [ -n "$EXISTING_PR" ] && [ "$EXISTING_PR" != "null" ]; then
+            if [ -n "$EXISTING_PR" ]; then
               PR_NUMBER=$(echo "$EXISTING_PR" | jq -r '.number')
-              BRANCH_NAME=$(echo "$EXISTING_PR" | jq -r '.headRefName')
+              BRANCH_NAME=$(echo "$EXISTING_PR" | jq -r '.head.ref')
               echo "updating PR #$PR_NUMBER"
               UPDATE_MODE=true
             else
