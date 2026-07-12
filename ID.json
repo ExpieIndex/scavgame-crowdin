@@ -4689,39 +4689,39 @@
                 "Menyebalkan!"
             ],
             "wet": [
-                "My fur has high water content.",
-                "I am the moist one.",
-                "I am wet.",
-                "There is an uncomfortable feeling around my body.",
-                "My fur has become wet.",
-                "Moisture has accumulated on me.",
-                "I have collected moisture on my body surface.",
-                "I am soaked",
-                "Please remove this fluid from the surface of my body.",
-                "I am covered in liquid."
+                "Buluku memiliki kadar air tinggi.",
+                "Aku lembap.",
+                "Aku kebasahan.",
+                "Aku merasa tidak nyaman di sekitar tubuhku.",
+                "Buluku basah.",
+                "Terdapat akumulasi kelembapan pada diriku.",
+                "Ada cairan di permukaan tubuhku.",
+                "Aku basah kuyup",
+                "Tolong singkirkan cairan ini dari permukaan tubuhku.",
+                "Aku tertutup cairan."
             ],
             "dirty": [
-                "I must clean myself in order to avoid complications.",
-                "I am filthy. I dislike seeing myself in this state.",
-                "Ew. I'm dirty. I should not appear before others like this.",
-                "I should get this dirt off of me.",
-                "Suboptimal hygiene.",
-                "I appear to be covered in filth.",
-                "I would like to use a shower.",
-                "It would be ideal to take a bath.",
-                "This cannot be hygienic.",
-                "My fur is covered in dirt."
+                "Aku harus membersihkan diri untuk menghindari komplikasi.",
+                "Aku sangat kotor. Aku tidak suka melihat diriku seperti ini.",
+                "Ew. Aku kotor. Aku sebaiknya tidak bertemu orang lain seperti ini.",
+                "Aku harus menyingkirkan kotoran di tubuhku.",
+                "Tingkat kebersihan suboptimal.",
+                "Sepertinya aku tertutup kotoran.",
+                "Aku ingin menggunakan shower.",
+                "Mandi akan menjadi solusi ideal.",
+                "Ini sama sekali tidak higienis.",
+                "Buluku tertutup kotoran."
             ],
             "encumbered": [
-                "My limited physical capabilities are showing themselves.",
-                "Are we going on a hike? Why am I carrying so much?",
-                "I am sure these items will be useful in reaching my objective... However, they are heavy.",
-                "This load is very heavy.",
-                "I should not carry this much.",
-                "I am carrying a lot.",
-                "Quite the heavy load on me.",
-                "My spine is not loving this.",
-                "I appear to be slightly overloaded."
+                "Keterbatasan fisikku mulai terlihat.",
+                "Apa kita akan mendaki? Kenapa aku membawa beban sebanyak ini?",
+                "Aku yakin barang-barang ini akan berguna untuk misi ini... Namun, benda-benda ini berat.",
+                "Beban ini sangat berat.",
+                "Seharusnya aku tidak membawa sebanyak ini.",
+                "Beban bawaanku terlalu banyak.",
+                "Beban yang cukup berat untukku.",
+                "Tulang punggungku tidak menyukai ini.",
+                "Sepertinya aku sedikit kelebihan muatan."
             ],
             "watchlike": [
                 "It's buzzing in my ear like the experiments do. I consider it charming."
