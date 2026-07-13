@@ -1914,7 +1914,7 @@
         "hplimbforce": "Kekuatan anggota tubuh",
         "hplimbforcedsc": "Kemampuan anggota tubuh untuk bergerak dan mengeluarkan tenaga",
         "hpopiate": "Jumlah opiat",
-        "hpvenom": "Venom amount",
+        "hpvenom": "Jumlah racun",
         "settings": "Pengaturan",
         "credits": "Kredit",
         "layer": "Lapisan",
@@ -1946,9 +1946,9 @@
         "open": "Buka",
         "insertbattery": "Masukan baterai dari tangan utama",
         "lockpick": "Buka kunci",
-        "finaltravel": "Buckle up and travel",
-        "lookcloser": "Take a closer look",
-        "examine": "Examine",
+        "finaltravel": "Bersiap dan pergi",
+        "lookcloser": "Lihat lebih dekat",
+        "examine": "Periksa",
         "learnedrecipe": "Berhasil mempelajari resep r1.\nMemperoleh <color=\"green\">25 skor INT.",
         "epdalearn": "Memperoleh <color=\"green\">35 skor INT.",
         "hasbattery": "Memiliki baterai (<>)\n<sprite index=17 tint=1>Gunakan alat untuk mengambil",
@@ -4566,7 +4566,7 @@
                 "Aku perlu... bernafas...",
                 "Terkuras...",
                 "Aku...susah... nafas...",
-                "*cough* *cough*",
+                "*batuk* *batuk*",
                 "Otot-ototku... mulai... Menyerah...",
                 "Fokus..."
             ],
@@ -4623,11 +4623,11 @@
             "cantBreathe": [
                 "*batuk* *ack*",
                 "Hnnh... Nggh... T-tolong... N-nafas...",
-                "*gasp*",
+                "*terengah-engah*",
                 "Ak-akan... pingsan...",
                 "Aku gabisa... *batuk* *hack*",
                 "Tolong- Ack! Uhuk!",
-                "S-suffocating... *cough*",
+                "T-tercekik... *batuk*",
                 "Aku kesusaan bernafas."
             ],
             "pain": [
@@ -4764,7 +4764,7 @@
             "braindamaged": [
                 "...Ada yang salah.",
                 "Rasa... Logam. Ini artinya... Mwwhahaha...",
-                "Axun si mi vi zi othokent xiekiv si hefoc kemic.",
+                "Amun si mi pi ji ontokeng jekip da gempok kemik.",
                 "Jendela kaca warna itu ada warna kuning, oranye, dan merah.",
                 "Ketiadaan menatap matahari.",
                 "Bensin nembak nanas pakai senapan mesin.",
@@ -4773,30 +4773,30 @@
                 "Ada rasa logam di mulutku",
                 "Kepalaku terasa aneh.",
                 "Aku rusak.",
-                "Luis siapa...?"
+                "Siapa Joe...?"
             ],
             "lastmoments": [
-                "Hnnh... Hmmnnhhh... Not... Good...",
-                "I...Hhhuh...",
-                "This... Is s-suboptimal...",
-                "FOCUS!",
-                "Nhh... Not... Ideal...",
-                "I do not... want to die...",
-                "Need... Help... Please...",
-                "Not....Nh... Not like this...",
-                "Save me.",
+                "Hnnh... Hmmnnhhh... Tidak... Bagus...",
+                "Aku...Hhhhuh...",
+                "Ini... S-suboptimal...",
+                "FOKUS!",
+                "Nhh... Tidak... Ideal...",
+                "Aku tidak... mau mati...",
+                "Perlu... Bantuan... Tolong...",
+                "Tidak....Nhhh... Tidak seperti ini...",
+                "Selamatkan aku.",
                 "H-h... Nhhh... hnnh... Ghhh...",
-                "I w-wish... To c-continue... Living...",
-                "I am not r-ready."
+                "Aku i-ingin... T-terus... Hidup...",
+                "Aku belum s-siap."
             ],
             "magicheal": [
-                "Hh!!!....Huh. Mm. I believe that was of no harm.",
-                "What... Was that?",
-                "Fascinating."
+                "Hh!!!...Huh. Mm. Aku yakin itu tidak berbahaya.",
+                "Hah... Apa tadi?",
+                "Menarik."
             ],
             "selfdestruct": [
-                "Oh, oh, why, what, WHY!? STOP THIS! I DO NOT DESERVE THIS! YOU COATED DIPSHITS!",
-                "Hello, beeping. What could this mean?"
+                "Oh, oh, kenapa, apa, KENAPA!? HENTIKAN INI! DASAR BAJINGAN, AKU TAK PANTAS DIGINIIN!",
+                "Halo, suara bip. Artinya apa ya kira-kira?"
             ],
             "tradermeetnormal": [
                 "Salam.",
@@ -4973,7 +4973,7 @@
             ],
             "hungryresponse": [
                 "Jika Anda berharap saya bisa melegakan laparmu tanpa pembayaran, maka Anda akan salah kaprah.",
-                "I'm not a charity. Find some food, or exchange something with me."
+                "Saya bukan badan amal. Carilah makanan, atau tukar sesuatu dengan saya."
             ],
             "thirstyresponse": [
                 "Banyak kolam air yang bisa diminum merembes disini. Gunakan mereka.",
@@ -5543,12 +5543,12 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "tons of bushes around this place, though i cant say ive seen any that are alive. i think theyre pretty useful for making ropes and cushioning falls, but they also tend to hide traps...",
+                "Item1": "ada banyak banget semak-semak disini, tapi hampir gak ada yang masih hidup. Kurasa mereka cukup berguna buat dibikin tali sama meredam jatuh, tapi kadang-kadang ada jebakan tersembunyi...",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "its so hot down here. i feel like i am just rushing from lifepod to lifepod. i don't even want to open the drop capsules, those heat me up too. yet my dune friend stimpy seems to not mind too much. are they just not complaining, or is all that skin cooling them down?",
+                "Item1": "disini panas banget. rasanya aku cuma lari-larian dari pod satu ke pod yang lain. aku bahkan gak peduli buat buka kapsul, itu juga bikin kepanasan. tapi teman dune-ku stimpy kayaknya gak terlalu peduli sama ini. apa itu karena mereka emang gak mau komplen, atau apa mereka bisa ngedinginin diri sendiri?",
                 "Item2": "",
                 "Item3": "experiment"
             },
