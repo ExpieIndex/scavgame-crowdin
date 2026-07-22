@@ -1480,7 +1480,7 @@
         "char0quirks": "[CANINE] - Perutmu tidak bisa mencerna teobromin dengan baik.\n[PENGLIHATAN_BERCAHAYA] - Dalam keadaan darurat, kamu menjadi sumber cahaya sendiri.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[FAMILI] \"Canine\"\n[KUTIPAN] \"Aku akan patuh.\"\n[PREDIKSI_BERHASIL] \"0.0103%\"\n[CATATAN] \"Agak sombong\"",
-        "char1quirks": "[NARCOLEPTIC] - Your sleep cycle is much shorter, but you don't feel the negative effects of sleeping on rough surfaces.\n[STATURE] - You're tiny!\n[ADAPTED_EYES] - You see better and light sources extend farther.\n[SEMI_HERBIVORE] - Meat makes you slightly sick and gives less nutrition.\n[SCRAWNY] - All STR gain is halved.\n[MARKSMAN] - You can use keybinds to handle firearms.\n[STRONG_FACADE] - It'll take more to break you mentally. You aren't one to be affectionate, unless you really need one.\n[CANINE] - Your stomach doesn't play well with theobromine.",
+        "char1quirks": "[NARCOLEPTIC] - Siklus tidurmu jauh lebih singkat, tetapi kamu tidak merasakan efek negatif tidur di permukaan yang keras.\n[STATURE] - Tubuhmu sangat kecil!\n[ADAPTED_EYE] - Penglihatanmu lebih baik dan jangkauan sumber cahaya menjadi lebih jauh.\n[SEMI_HERBIVORE] - Daging membuatmu sedikit mual dan memberikan nutrisi yang lebih sedikit.\n[SCRAWNY] - Semua peningkatan STR dipotong separuh.\n[MARKSMAN] - Kamu dapat menggunakan pintasan tombol untuk mengoperasikan senjata api.\n[STRONG_FACADE] - Membutuhkan lebih banyak hal untuk meruntuhkan mentalmu. Kamu bukan tipe orang yang mudah menunjukkan kasih sayang, kecuali jika sangat membutuhkannya.\n[CANINE] - Perutmu tidak bisa mencerna teobromina dengan baik.",
         "presetnormal": "Normal",
         "presetnormaldsc": "Pengalaman standard. Kesalahan berakibat buruk. Pengetahuan dan kesadaran situasional sangat dihargai. Waktu adalah hal yang sangat penting. Kematianmu hampir pasti dijamin.",
         "presetrelaxed": "Santai",
@@ -5558,34 +5558,34 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "i hear ringing.. my head hurts so, so much, i heard a loud beeping sound as i descended down a bit and then there was that loud banging sound     i dont know where it came from . i can't see that much further but there is something very dangerous in these caves, be careful with big open spaces",
+                "Item1": "aku dengar suara berdenging.. kepalaku sakit banget, aku denger suara bip keras pas aku turun sedikit dan terus ada suara dentuman keras     aku gak tau dari mana asalnya . aku gak bisa liat lebih jauh lagi tapi ada sesuatu yang sangat berbahaya di gua gua ini, hati hati sama area terbuka yang luas",
                 "Item2": "",
                 "Item3": "experiment"
             }
         ],
         [
             {
-                "Item1": "There seems to be a high amount of radioactive waste in this area. While that does make it difficult to navigate, we should keep in mind that we can take brief doses of ionizing radiation without too much issue, as long as the exposure doesn't last too long. I've heard we're already riddled with cancer.",
+                "Item1": "Tampaknya ada limbah radioaktif dalam jumlah tinggi di area ini. Meskipun hal itu membuatnya sulit untuk dinavigasi, kita harus ingat bahwa kita dapat menerima dosis radiasi pengion secara singkat tanpa masalah berarti, selama paparan tersebut tidak berlangsung terlalu lama. Aku pernah mendengar bahwa kita sebenarnya sudah dipenuhi kanker.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "Something is wrong with the environment here. In the air, I can feel it- those dilapidated fuel cells make my fur stand on end. My skin flakes when I pass them, and my body burns. Even when I can't see them, I can feel that uneasy sensation building in the air around them. I've had to use my rope spool and even claw through the rocks here to find routes around them, but even then, there are purple stones that seem to carry the same effect, just in different doses.",
+                "Item1": "Ada yang salah dengan lingkungan di sini. Di udara, aku bisa merasakannya- sel bahan bakar yang rusak itu membuat buluku berdiri. Kulitku mengelupas saat aku melewatinya, dan tubuhku terasa terbakar. Bahkan ketika aku tidak dapat melihatnya, aku bisa merasakan sensasi gelisah yang semakin meningkat di udara sekitarnya. Aku harus menggunakan gulungan taliku dan bahkan mengorek bebatuan di sini untuk menemukan jalur di sekitarnya, tetapi meski begitu, ada batu-batu ungu yang tampaknya membawa efek yang sama, hanya dalam dosis yang berbeda.",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
             {
-                "Item1": "one of the others I found fell onto a bunch of those purple rocks. i managed to pull them away but both of our coats are shedding. i don't know what's happening.<>\n\n\n\n\ni ate one of the popping fruits by a life pod… things stopped hurting. but when they bit into one they started throwing up blood just minutes later. they're not breathing. what was different? they looked the same. am i just lucky to be alive? why didn't they get better.",
+                "Item1": "salah satu dari lainnya yang kutemukan jatuh ke tumpukan batu ungu itu. aku berhasil menarik mereka menjauh tapi mantel kami berdua mulai rontok. aku tidak tahu apa yang sedang terjadi.<>\n\n\n\naku memakan salah satu buah meletup di dekat kapsul penyelamat… rasa sakitnya mereda. tapi saat mereka menggigit buah itu, mereka mulai muntah darah hanya beberapa menit kemudian. mereka tidak bernapas lagi. apa bedanya? bentuknya kelihatan sama. apakah aku cuma beruntung masih hidup? kenapa mereka tidak membaik.",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
             {
-                "Item1": "The button next to the trigger on a pistol is the magazine release, whereas on a shotgun, it's typically the safety. Also, whenever you work the action (like pulling the bolt), it ejects the round in the chamber. Last time I did that, I lost a buckshot - pretty unfortunate.",
+                "Item1": "Tombol di sebelah pelatuk pada pistol adalah pelepas magazin, sedangkan pada shotgun, itu biasanya adalah pengaman. Selain itu, setiap kali kamu mengokang mekanisme (seperti menarik kokangan), itu akan mengeluarkan peluru yang ada di dalam bilik bilik peluru. Terakhir kali aku melakukannya, aku kehilangan satu peluru sebar - sangat disayangkan.",
                 "Item2": "Sprites/noteDrawings/pistol",
                 "Item3": "milky"
             },
             {
-                "Item1": "drinkable water here is really scarce, and i dont think that tar-looking stuff is safe. some of the vegetation here has enough water content to be crushed into a juice, although the taste isnt very pleasant. it beats being thirsty though",
+                "Item1": "air minum di sini bener-bener langka, dan aku gak mikir cairan mirip tar itu aman. beberapa vegetasi di sini punya kandungan air yang cukup buat diperas jadi jus, walaupun rasanya gak begitu enak. tapi mendingan daripada haus",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5622,14 +5622,14 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "I want to leave this place, I am terrorized, I don't have words to describe what I just experienced, it was a big, horrid creature with hundreds of teeth, ready to devour me, it chase after me for what I've felt hours, it destroys everything on its path. It stopped only after I've went so far away that I was completely lost, it drained my food, water, tools, even my own sanity, I just want this to end.",
+                "Item1": "Aku ingin meninggalkan tempat ini, aku merasa ketakutan, aku tidak punya kata-kata untuk menggambarkan apa yang baru saja kualami, itu adalah seekor makhluk besar yang mengerikan dengan ratusan gigi, siap melahapku, ia mengejarku selama apa yang terasanya seperti berjam-jam, ia menghancurkan segala hal di jalurnya. Ia baru berhenti setelah aku pergi sangat jauh hingga aku benar-benar tersesat, ia menguras makananku, airku, alat-alatku, bahkan akal sehatku sendiri, aku hanya ingin ini semua berakhir.",
                 "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "milky"
             }
         ],
         [
             {
-                "Item1": "way too cold in here. have to try my best to not get wet at all, or ill be in big trouble. lucky us, there are a lot of those weird sporey plants that give off some heat, along with those weird machines. run between those when possible, i guess. better not get stuck in the freezing cold.",
+                "Item1": "dingin banget di sini. harus berusaha sekuat tenaga biar gak basah sama sekali, kalo gak aku bakal dapet masalah besar. untungnya, ada banyak tanaman berspora aneh yang ngeluarin panas, sama mesin-mesin aneh itu. lari di antara itu kalo bisa, kayaknya. mending gak terjebak di dingin yang membeku.",
                 "Item2": "Sprites/noteDrawings/xaloris",
                 "Item3": "experiment"
             },
@@ -5703,12 +5703,12 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "...\n<>...\n<>...\n<>the flying things. i dont know how they did that. holy... oh god. im fine now, but...<>\n\nhow to say this... theres weird sharp flying things. they make really weird loud noises... almost as if theyre laughign at me. they wind up sometimes and charge at me, trying to stab me. they got me once or twice, but... whenever they did that, they got stuck in the ground and i hit it a few times until it... uh... not sure... what happened, but it was gone. i think it came from one of the growths, but it was kind of moving.<>\n\ni got something after it disappeared... maybe its useful? it feels like its growing into something, ill wait and see.",
+                "Item1": "...\n<>...\n<>...\n<>benda yang terbang itu. aku gak tau gimana mereka bisa gitu. astaga... ya tuhan. aku gak papa sekarang, tapi...<>\n\ngimana bilangnya ya... ada hal hal tajam terbang yang aneh. mereka ngeluarin suara keras yang aneh banget... hampir kayak mereka lagi ngetawain aku. mereka kadang nangan terus nerjang ke aku, nyoba nusuk aku. mereka kena aku sekali dua kali, tapi... tiap kali mereka gitu, mereka tancap di tanah terus aku pukul beberapa kali sampe itu... aneh... gak tau apa yang terjadi, tapi itu ilang. kayaknya itu berasal dari salah satu benjolan pertumbuhan, tapi bentuknya agak bergerak.<>\n\naku dapet sesuatu setelah itu ilang... mungkin berguna? kerasa kayak lagi tumbuh jadi sesuatu, aku bakal nunggu dan liat.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "okay. good news and bad news. the thing i kept around after killing one of the flying things... it... grew into. more of the flying things. two of them... from one... they seemed to be slower in a group though... like, they were... giving me a chance to fight back? weird.<>\n\ni ate the cores i got from them, i didnt have any other ideas for what to do with it... it was. pretty good, actually. and it seems like it didnt morph into anything this time. maybe i could do this every once in a while to get more and more food? i cant exactly find much of it down here anyway",
+                "Item1": "oke. kabar baik dan kabar buruk. barang yang aku simpan setelah ngebunuh salah satu hal yang terbang itu... itu... tumbuh jadi. lebih banyak hal yang terbang. dua dari mereka... dari satu... tapi mereka keliatan lebih lambat kalo berdua... kayak, mereka... ngasih aku kesempatan buat ngelawan balik? aneh.<>\n\naku makan kristal yang aku dapet dari mereka, aku gak punya ide lain mau diapain itu... rasanya. lumayan enak, sebenernya. dan kayaknya itu gak berubah jadi apa apa kali ini. mungkin aku bisa gini sesekali buat dapet lebih banyak makanan? lagian aku gak gitu bisa nemu banyak makanan di bawah sini",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5797,7 +5797,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-26-14-27-52-0189]\n<>\nSUBJECT: Announcement on befriending Sawians\nFROM: Project Manager\nTO: All Employees\n<>\n[CONTENTS]\n\nDear staff,\n\nIt has come to our attention that one of our employees had been consistently meeting up with a SAW-03 and disclosing private information to it. Not only was this an egregious breach of confidentiality, but having such relationships with the specimens is completely unacceptable. The scientist in question was swiftly terminated and the SAW-03 committed suicide shortly after.\n\nDo YOU have any Sawian friends? We are closing in on you. It's not too late to turn back. But if we catch you befriending them, you will meet the same fate.\n\nYours in good faith,\nProject Manager\n\n[END]",
+            "Item1": "[EMAIL - 25##-12-26-14-27-52-0189]\n<>\nSUBJEK: Pengumuman mengenai Berteman dengan Sawian\nDARI: Manajer Proyek\nKEPADA: Seluruh Karyawan\n<>\n[ISI]\n\nKepada Staf Sekalian,\n\nTelah menjadi perhatian kami bahwa salah satu karyawan kami secara konsisten bertemu dengan SAW-03 dan membocorkan informasi rahasia kepadanya. Hal ini tidak hanya merupakan pelanggaran kerahasiaan yang sangat berat, tetapi memiliki hubungan seperti itu dengan spesimen sama sekali tidak dapat diterima. Ilmuwan yang bersangkutan telah dengan cepat ditiadakan, dan SAW-03 melakukan bunuh diri tak lama setelahnya.\n\nApakah ANDA memiliki teman Sawian? Kami sedang makin mendekati Anda. Belum terlambat untuk berbalik arah. Namun jika kami menangkap Anda berteman dengan mereka, Anda akan mengalami nasib yang sama.\n\nSalam hangat,\nManajer Proyek\n\n[SELESAI]",
             "Item2": ""
         },
         {
