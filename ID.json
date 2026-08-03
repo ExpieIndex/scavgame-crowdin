@@ -1,6 +1,7 @@
 {
     "name": "Bahasa Indonesia",
-    "description": "Terjemahan Bahasa Indonesia tak resmi buatan komunitas. Kamu bisa menemukan terjemahan lainnya di repositori (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale/forks</color>), meskipun terjemahan tersebut belum diperiksa kualitasnya dan mungkin tidak akurat atau usang.",
+    "description": "The official developer-created english translation of the game. You can find community translations in the locale repository (See credits menu). Community translations are not quality-checked and might be inaccurate or out of date!",
+    "version": "7.7.9",
     "main": {
         "bandage": "Perban",
         "bandagedsc": "Segulung perban, digunakan untuk memperlambat pendarahan, menstabilkan retakan dan membantu penyembuhan kulit. Tidak memiliki efek pada kesehatan otot.",
@@ -19,7 +20,7 @@
         "adhesivebandage": "Perban rekat",
         "adhesivebandagedsc": "Sekotak kecil perban medis, digunakan untuk merawat luka kecil. Memperlambat pendarahan.",
         "musharm": "Julur rambat",
-        "musharmdsc": "Bagian tanaman yang tidak bisa dimakan, bisa sebagai perban sekali pakai. Bisa digunakan sebagai dedaunan untuk kerajinan.",
+        "musharmdsc": "Inedible plant part, useful as a one-time makeshift bandage. Can be used as foliage for crafting.",
         "paincream": "Botol pereda nyeri",
         "paincreamdsc": "Botol 100ml kecil untuk menyimpan krim pereda nyeri. Dosisnya 10ml.",
         "morphine": "Suntik morfin",
@@ -54,7 +55,7 @@
         "aeddsc": "Alat elektronik yang mendiagnosa aritmia jantung yang mengancam nyawa melalui syok listrik. Gunakan di dada. Dibandingkan defibrilator manual, alat ini tidak memerlukan pelatihan, tetapi membutuh lebih lama untuk bekerja dan memakai tenaga lebih banyak.",
         "manualdefibrillator": "Defibrilator manual",
         "manualdefibrillatordsc": "Alat elektronik untuk menstabilkan irama jantung yang berbahaya. Gunakan di dada. Yang ini manual, berarti kamu harus tahu cara memakainya dengan benar. Dibandingkan yang otomatis, alat ini lebih cepat dan memakai tenaga lebih sedikit, tetapi tidak dijamin akan berfungsi. INT lebih tinggi akan mempermudah operasi.",
-        "antidepressants": "Antidepresan",
+        "antidepressants": "Antidepressant bottle",
         "antidepressantsdsc": "Botol pil antidepresan 140ml. Dosisnya 20ml.",
         "antibiotics": "Botol antibiotik",
         "antibioticsdsc": "Botol pil antibiotik 100ml. Dosisnya 20ml.",
@@ -75,7 +76,7 @@
         "bloodsac": "Pundi darah",
         "bloodsacdsc": "Pundi daging kecil berisi darah. Terlihat tidak jauh berbeda dengan darahmu. Bisa dimakan atau digunakan sebagai bahan rakitan.",
         "venomgland": "Kelenjar racun",
-        "venomglanddsc": "Kelenjar kecil yang membuat dan menyimpan hemotoksin. Kamu mungkin bisa mengolahnya menjadi semacam anti-racun.",
+        "venomglanddsc": "A tiny salivary gland that produces and stores hemotoxin. You could probably process it into some kind of antivenom.",
         "saline": "Kantong infus",
         "salinedsc": "Kantong 750ml dengan jarum di ujungnya, untuk menyuntikkan cairan secara intravena.",
         "ringersolution": "Kantong infus kecil",
@@ -175,7 +176,7 @@
         "hardcandy": "Permen",
         "hardcandydsc": "Sekotak kecil permen keras. Lezat, tapi tidak mengenyangkan.",
         "fleshchunk": "Potongan daging besar",
-        "fleshchunkdsc": "Daging besar yang sangat berlemak. Pasti berasal dari sesuatu yang besar. Sangat mengenyangkan dan menggemukan.",
+        "fleshchunkdsc": "A giant, very fatty chunk of flesh. Must've come from something big. Very filling and fattening.",
         "candybar": "Permen batang",
         "candybardsc": "Permen batang lezat. Bertahan lama, tapi tidak mengenyangkan. Bisa membuatmu mual jika makan terlalu banyak.",
         "chocolatebar": "Coklat batang",
@@ -299,7 +300,7 @@
         "mp3player": "Pemutar MP3",
         "mp3playerdsc": "Anehnya, ini tampaknya masih berfungsi. Memiliki drive penyimpanan kecil, dengan beberapa track musik yang tersimpan di dalamnya. Kamu bisa putar salah satunya untuk hiburanmu sendiri.",
         "mushpear": "Beri kebas",
-        "mushpeardsc": "Bagian dari buluh air yang menyaring dan menyebarkan air. Memiliki sifat aneh yang menyerap berat badan dan rasa tidak enak. Menurunkan berat tubuh jika dimakan. tampaknya mengandung sedikit konsentrasi opiat.",
+        "mushpeardsc": "A part of a hydreed that filters and distributes water. Has an odd weight-absorbing property and an off-putting taste. Lowers body mass when eaten. Seems to have trace opioid concentration.",
         "mushtail": "Ekor lelap",
         "mushtaildsc": "Ujung ekor dari buluh air. Mengandung zat kimia yang dapat langsung membuat seseorang pingsan untuk sementara waktu, dengan peningkatan emosi setelahnya. Aneh. Tidak ada nilai gizi.",
         "aquapple": "Aquapel",
@@ -334,6 +335,8 @@
         "blindfolddsc": "Sepotong kain hitam untuk menutupi matamu. Memberikan sedikit perlindungan, tetapi menutup mata karaktermu.",
         "balaclava": "Balaklava",
         "balaclavadsc": "Sepotong kain tebal dan empuk untuk melingkari tengkorakmu. Memberikan perlindungan kecil dan isolasi yang cukup baik.",
+        "earmuffs": "Earmuffs",
+        "earmuffsdsc": "A modern pair of cushions connected by a metal head-band. Protects you from loud noises and provides some insulation...somehow. Won't do much against <i>extremely</i> loud sounds.",
         "latexgloves": "Sarung tangan lateks",
         "latexglovesdsc": "Sepasang sarung tangan lateks sederhana. Memberikan sedikit isolasi dari cuaca.",
         "tacticalgloves": "Sarung tangan taktis",
@@ -358,8 +361,8 @@
         "hoodiedsc": "Hoodie hitam yang sangat besar yang membuatmu tetap hangat dan memiliki saku kecil.",
         "metabolismchip": "Chip metabolisme",
         "metabolismchipdsc": "Sebuah chip yang sedikit meningkatkan metabolismemu, membuat anggota tubuhmu beregenerasi jauh lebih cepat, tetapi menggunakan lebih banyak rasa lapar untuk melakukannya.",
-        "xalorissponge": "Spons Xaloris",
-        "xalorisspongedsc": "Wadah spora Xaloris yang robek dan mengerut. Dapat digunakan pada anggota tubuh untuk melawan infeksi atau dimakan untuk nilai gizi. Sporanya mungkin memengaruhi sistem kekebalan tubuhmu.",
+        "heatfernsponge": "Heatfern sponge",
+        "heatfernspongedsc": "The ripped off, shriveled up spore container of a heatfern. Can be used on a limb to counteract infection or eaten for nutritional value. Its spores might impact your immune system.",
         "jetpack": "Jetpak",
         "jetpackdsc": "Alat yang dikenakan sebagai ransel yang menggunakan jet untuk mendorong pemakainya melalui udara. Memiliki bahan bakar terbatas dan fungsi terganggu jika basah. Tahan W untuk menggunakan. Juga ada kantong kecil untuk menyimpan barang.",
         "dynamite": "Dinamit",
@@ -605,9 +608,9 @@
         "snowstriderdsc": "Hewan berbulu besar yang berburu makanan di bagian dingin sistem gua ini. Bulunya yang tebal menjaganya tetap hangat.",
         "spaceheater": "Pemanas udara ion",
         "spaceheaterdsc": "Alat yang memanaskan area di sekitarnya dengan sangat kuat. Dapat menyebabkan keracunan radiasi ringan jika kamu terlalu dekat terlalu lama.",
-        "xaloris": "Xaloris",
-        "xalorisdsc": "Sejenis pakis seperti spons dan berduri yang memanaskan udara di sekitarnya untuk menyebarkan spora di sekitarnya. Bermanfaat untuk melindungi dari dingin, tetapi menghirup sporanya terlalu lama dapat mengganggu sistem kekebalan tubuh.",
-        "lifepodheater": "Pemanas ruangan",
+        "heatfern": "Heatfern",
+        "heatferndsc": "A spongy and brambly fern that heats up the air around it to spread spores to its surroundings. Keeps the cold at bay, but breathing in the spores for too long might mess with your immune system.",
+        "lifepodheater": "Lifepod heater",
         "lifepodheaterdsc": "Menjaga suhu agar tetap enak dan nyaman.",
         "tutorialcraftingbutton": "Tombol Ulang",
         "tutorialcraftingbuttondsc": "Tekan ini jika kamu membuat kesalahan dan perlu mulai dari awal.",
@@ -689,7 +692,7 @@
         "landminedsc": "Diam-diam mengerikan.",
         "leadbush": "Semak timah",
         "leadbushdsc": "Di atasnya tumbuh potongan-potongan logam berat. Meskipun terlihat seperti tumbuhan, sebenarnya itu adalah hewan!",
-        "lifepodchest": "Peti kapsul penyelamat",
+        "lifepodchest": "Lifepod chest",
         "lifepodchestdsc": "Berkemungkinan berisi alat-alat bertahan hidup dasar.",
         "LifePodLight": "Lampu",
         "LifePodLightdsc": "Ada bohlam di dalamnya - mungkin bisa kamu ambil.",
@@ -996,6 +999,7 @@
         "impendingdoom": "Rasa malapetaka datang",
         "horrified": "KETAKUTAN",
         "focused": "FOKUS",
+        "cargo": "<spoiler>",
         "braindamage4dsc": "...",
         "braindamage3dsc": "realita ..  berhenti   masuk   akal",
         "braindamage2dsc": "Kerusakan mental parah. Kemampuan untuk bernalar dan memenuhi kebutuhan diri terbatas. Terdapat kerusakan otak parah.",
@@ -1039,7 +1043,7 @@
         "withdrawal1dsc": "Kamu sangat menginginkan sedosis lagi.",
         "withdrawal2dsc": "Tubuhmu sangat membutuhkan sedosis lagi. Kamu ingin muntah... Rasanya sangat tidak enak. Perawatan disarankan.",
         "withdrawal3dsc": "Kamu tidak bisa menahan diri, tubuh gemetar, dan kamu sengsara untuk setetes dosis. Rasanya menyiksa. Perawatan dibutuhkan.",
-        "withdrawal4dsc": "Tubuhmu tak mampu mempertahankan fungsinya yang tergantung opiat. Jantungmu kesulitan memompa oksigen ke seluruh tubuh; Waspada akan fibrilasi.",
+        "withdrawal4dsc": "Your body is failing to sustain itself without the opioids it became so reliant on. Your heart is struggling to pump blood around the body; Watch for fibrillation.",
         "stimulateddsc": "Obat-obatan stimulan keras dalam aliran darah. Kamu siap menghadapi apa pun yang menghalangimu... Untuk sekarang, setidaknya.",
         "drugoverdosedsc": "Mengalami overdosis obat non-opiat. Kemungkinan komplikasi kesehatan.",
         "bleeding1dsc": "Darah mengalir dari luka yang cukup kecil. Seharusnya tidak berbahaya.",
@@ -1104,7 +1108,7 @@
         "cold2dsc": "Dingin tidak nyaman. Tubuhmu melamban.",
         "cold3dsc": "Suhu rendah berbahaya, tubuh dan pikiranmu mulai diambil alih oleh kedinginan. Tubuhmu mulai mati perlahan.",
         "cold4dsc": "Kamu terasa seperti terbakar, tapi kamu begitu lelah dan bingung. kamu ingin tidur untuk waktu yang lama...",
-        "wet1dsc": "Bulumu terasa sedikit basah.",
+        "wet1dsc": "Your feel slightly wet.",
         "wet2dsc": "Basah. Suhu dan tingkat kenyamanan menurun.",
         "wet3dsc": "Basah kuyup. Suhu dan kenyamanan sangat menurun.",
         "wet4dsc": "Benar-benar tergenang! Tubuhmu terasa berat. Suhu dan kenyamanan menurun drastis.",
@@ -1113,9 +1117,9 @@
         "underweight3dsc": "Kamu sangat kurus dan rapuh. Jauh lebih lemah dari biasanya, rentan lelah dan lesu. Kapasitas bebanmu berkurang.",
         "underweight4dsc": "Kamu terlalu kurus. Tulang-tulangmu terlihat dan terasa jelas melalui bulumu. Berisiko tinggi gagal jantung. Kapasitas beban sangat berkurang.",
         "overweight1dsc": "Coba kurangi berat badan beberapa kilo.",
-        "overweight2dsc": "Gemuk yang tidak sehat, meskipun kamu terlihat tak jauh berbeda dibanding dengan spesies yang lain. Ceroboh, kamu lebih cepat lelah.",
+        "overweight2dsc": "Unhealthily overweight. Clumsier, you get tired quicker.",
         "overweight3dsc": "Terlalu gemuk dan lunak. Jauh lebih ceroboh dan sangat cepat lelah.",
-        "overweight4dsc": "Obesitas mengancam nyawa. Bagaikan kamu mengisi sekantong bulu penuh dengan lemak dan kerakusan. Berisiko tinggi gagal jantung.",
+        "overweight4dsc": "Life-threateningly obese. It's like you stuffed a meat bag full with fat and hunger. At high risk of heart failure.",
         "depression1dsc": "Mulai menyadari betapa berat situasimu. Coba alihkan perhatianmu.",
         "depression2dsc": "Kurang motivasi untuk terus maju, dilanda berbagai emosi. Keadaan benar-benar tidak membaik. Cari cara untuk mengalih perhatianmu.",
         "depression3dsc": "Hampir tidak ingin melakukan apapun. Pikiranmu, telah dilanda putus asa. Mungkin ini semua akan berakhir?",
@@ -1155,10 +1159,10 @@
         "tachycardiadsc": "Detak jantungmu terasa terlalu tinggi.",
         "bradycardiadsc": "Detak jantungmu terasa terlalu rendah.",
         "rnrsdsc": "Syok saraf yang disebabkan oleh regenerasi jaringan otak yang tiba-tiba. Meskipun kamu akan terbiasa setelah beberapa waktu, sebaiknya kamu tidak ambil dosis lagi untuk saat ini. (<>)",
-        "rippedjawdsc": "Rahang bawahmu robek akibat cedera parah di kepala. Makan dan berbicara menjadi jauh lebih sulit. Pikiranmu selamanya terluka oleh pengalaman itu.",
+        "rippedjawdsc": "Your lower jaw has been ripped off due to severe trauma to the head. Eating and talking is much harder. You are horribly scarred by the experience.",
         "rippedeyedsc": "Salah satu matamu telah hilang, mengurangi bidang pandangmu menjadi setengah. Pengalaman itu melukai pikiranmu. Jangan hilangkan yang satu lagi.",
         "rippedeyesdsc": "Kedua matamu telah hilang. Kamu hanya bisa jalan dengan meraba dan suara. Setidaknya kamu tidak lagi butuh cahaya...",
-        "lowimmunitydsc": "Sistem kekebalan tubuhmu melemah, entah karena kotor, kelaparan, kehausan, atau lainnya. Infeksi jadi jauh lebih berbahaya. Jaga kesehatanmu lebih baik.",
+        "lowimmunitydsc": "Your immune system is severely weakened, be it due to dirtiness, hunger, thirst or more. Infections are much more dangerous. Take better care of yourself.",
         "highimmunitydsc": "Sistem kekebalan tubuhmu dalam kondisi prima, kemungkinan dari antibiotik. Infeksi jauh lebih tidak berbahaya, dan bahkan mungkin sembuh sendiri jika mendekati 200%.",
         "amputationdsc": "Salah satu anggota tubuhmu telah terpenggal. Traumatis. Tentunya, fungsi anggota tubuh yang terputus itu telah hilang secara permanen.",
         "clawdamage1dsc": "Cakarmu sudah aus akibat penggunaan terus-menerus, mengurangi daya serangmu. Istirahatkan tanganmu, atau gunakan alat.",
@@ -1166,7 +1170,8 @@
         "keratinboosterdsc": "Cakarmu tumbuh kembali tiga kali lebih cepat. (<>)",
         "impendingdoomdsc": "Tiba-tiba, rasa takut luar biasa melanda dirimu, bulu-bulu di seluruh tubuhmu merinding. Seolah alam di sekitarmu menjadi sunyi...",
         "horrifieddsc": "TAK BISA FOKUS. TAK BISA MIKIR. TIADA LAIN YANG PENTING. LARI UNTUK HIDUPMU ATAU LAWAN UNTUKNYA!",
-        "focuseddsc": "<i>Kita berdua mati hari ini, yang satu belakangan dari yang lainnya."
+        "focuseddsc": "<i>Kita berdua mati hari ini, yang satu belakangan dari yang lainnya.",
+        "cargodsc": "<spoiler>"
     },
     "other": {
         "fullmouthchars": "mnoae",
@@ -1323,10 +1328,10 @@
         "naloxone": "Nalokson",
         "fentanyl": "Fentanil",
         "ceftriaxone": "Seftriakson",
-        "morphinedsc": "Opiat kuat untuk meredakan nyeri. Efeknya lebih ringan jika diminum secara oral.",
-        "opiumdsc": "Opiat ringan untuk meredakan nyeri. Efeknya lebih ringan jika diminum secara oral.",
-        "heroindsc": "Opiat yang sangat kuat untuk meredakan nyeri. Kamu kurang mengetahuinya.",
-        "naloxonedsc": "Antagonis opioid, digunakan dalam pengobatan overdosis opioid. Pengobatan cepat dapat menyelamatkan hidupmu selama overdosis yang tidak disengaja.",
+        "morphinedsc": "Strong opioid for pain relief. Lesser effect when taken orally.",
+        "opiumdsc": "Mild opioid for pain relief. Lesser effect when taken orally.",
+        "heroindsc": "Very strong opioid for pain relief. You know little about it.",
+        "naloxonedsc": "Opioid antagonist, used in treatment of opioid overdose. Quick treatment might save your life during accidental overdose.",
         "fentanyldsc": "Opioid yang sangat ampuh, 100 kali lebih kuat dari morfin. Pertimbangkan untuk mengencerkannya.",
         "ceftriaxonedsc": "Antibiotik sefalosporin generasi ketiga yang digunakan untuk pengobatan infeksi. Meningkatkan kekebalan tubuh untuk beberapa waktu, tetapi menyebabkan rasa sakit.",
         "reliefcream": "Krim pereda nyeri",
@@ -1342,7 +1347,7 @@
         "lowgradestimulant": "Stimulan kw",
         "lowgradestimulantdsc": "Obat stimulan keras yang tidak murni. Meragukan. Memberimu efek yang cukup baik, tetapi overdosis dan efek samping selanjutnya sangat melemahkan. Dosisnya tidak diketahui. Gunakan dengan hati-hati.",
         "naltrexone": "Naltrekson",
-        "naltrexonedsc": "Pil yang digunakan untuk mengobati penyakit umum seperti luah atau penyalahgunaan opiat. Menurunkan kebahagiaan dan dapat menyebabkan muntah.",
+        "naltrexonedsc": "Pills used to treat general ailments like sickness or opioid abuse. Lowers happiness and may cause vomiting.",
         "painkillers": "Obat pereda rasa sakit",
         "painkillersdsc": "Pil opioid yang digunakan untuk mengobati rasa sakit. Overdosis pada 60ml.",
         "disinfectant": "Antiseptik",
@@ -1460,6 +1465,7 @@
         "milkytraderdsc": "Makhluk berbulu putih pendek, dengan moncong rata, dan tanduk pendek yang menonjol dari kepala mereka. Kemungkinan akuatik ke titik tertentu, berdasarkan sepasang sirip yang ada di belakang mereka. Mereka terlihat lumayan pintar dan sedikit arogan, Mereka kemungkinan memiliki senjata untuk menyeimbangi penampilan mereka yang tidak mengesankan. Bukanlah yang paling memperhatikan kasih sayang, mungkin perlu kepercayaan lebih untuk memperbolehkan mu untuk memeluk mereka.",
         "dune": "Dune",
         "dunetraderdsc": "Tinggi, besar, mengesankan, dengan otot sebagai otak. Mereka punya sirip aneh tersebar di sekujur tubuh mereka, 6 duri menonjol dari sisi kepala mereka dan mulut besar mengerikan terisi banyak gigi besar yang tajam. Terlihat juga seperi ingsang yang berada di samping dada mereka. Meski tidak agresif secara langsung, mereka biasanya terdorong oleh rasa lapar, maka mereka tidak akan terlalu peduli dengan benda apapun yang kamu berikan; Kamu perlu memikirkan cara lainnya untuk berada di sisi mereka.",
+        "dunespecialtraderdsc": "Food.",
         "Shelly": "Shelly",
         "clicktocontinue": "Tekan untuk lanjut...\nESC untuk melewati",
         "favouriteditem": "Benda favorit akan disorot dan tidak akan digunakan dalam kerajinan barang",
@@ -1480,7 +1486,12 @@
         "char0quirks": "[CANINE] - Perutmu tidak bisa mencerna teobromin dengan baik.\n[PENGLIHATAN_BERCAHAYA] - Dalam keadaan darurat, kamu menjadi sumber cahaya sendiri.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[FAMILI] \"Canine\"\n[KUTIPAN] \"Aku akan patuh.\"\n[PREDIKSI_BERHASIL] \"0.0103%\"\n[CATATAN] \"Agak sombong\"",
-        "char1quirks": "[NARCOLEPTIC] - Siklus tidurmu jauh lebih singkat, tetapi kamu tidak merasakan efek negatif tidur di permukaan yang keras.\n[STATURE] - Tubuhmu sangat kecil!\n[ADAPTED_EYE] - Penglihatanmu lebih baik dan jangkauan sumber cahaya menjadi lebih jauh.\n[SEMI_HERBIVORE] - Daging membuatmu sedikit mual dan memberikan nutrisi yang lebih sedikit.\n[SCRAWNY] - Semua peningkatan STR dipotong separuh.\n[MARKSMAN] - Kamu dapat menggunakan pintasan tombol untuk mengoperasikan senjata api.\n[STRONG_FACADE] - Membutuhkan lebih banyak hal untuk meruntuhkan mentalmu. Kamu bukan tipe orang yang mudah menunjukkan kasih sayang, kecuali jika sangat membutuhkannya.\n[CANINE] - Perutmu tidak bisa mencerna teobromina dengan baik.",
+        "char1quirks": "<spoiler>",
+        "char2name": "[SAW-12] \"Dune\"",
+        "char2desc": "[FAMILY] \"Insectoid\"\n[CALLOUT_QUOTE] \"Hrrnn... Du-ne time go..?\"\n[SUCCESS_PREDICTION] \"0.001%\"\n[NOTES] \"Eww! It's drooling!\"",
+        "char2quirks": "<spoiler>",
+        "characterunlock": "[ACCESS_DENIED]",
+        "characterunlockdsc": "Finish a run with the previous character to unlock",
         "presetnormal": "Normal",
         "presetnormaldsc": "Pengalaman standard. Kesalahan berakibat buruk. Pengetahuan dan kesadaran situasional sangat dihargai. Waktu adalah hal yang sangat penting. Kematianmu hampir pasti dijamin.",
         "presetrelaxed": "Santai",
@@ -1492,13 +1503,15 @@
         "presetunchipped": "Tanpa chip",
         "presetunchippeddsc": "Meski ketiadaan chip meringankan tuntutan batas waktu yang membatasi lainnya, itu juga membuat mendiagnosis dirimu jauh lebih sulit. Mungkin itu akan sepadan di akhirnya?",
         "presetendless": "Tanpa akhir",
-        "presetendlessdsc": "Tak ada jalan keluar; inilah hukuman matimu. Seberapa jauh kamu bisa capai, dengan bahaya yang terus bertambah?\n\n[CATATAN: Tidak tersedia untuk sekarang, karena game sudah tanpa akhir bagaimanapun]",
+        "presetendlessdsc": "There is no escape; This is your death sentence. How far can you make it, with hazards multiplying before you?",
         "runsettings": "Aturan main",
         "runsettingsdsc": "Pilihlah gaya main dari preset di bawah. Kamu bisa mengubahnya di panel pengaturan khusus di samping kanan.",
         "customsettings": "Pengaturan khusus",
         "customsettingsdsc": "Atur aturan main spesifik",
         "runsetunchipped": "Tanpa chip",
         "runsetunchippeddsc": "Menonaktifkan chip kesehatanmu, memaksamu untuk lebih berusaha dalam mencari tahu penyakit yang kamu derita. Mengaktifkan garis pandang.",
+        "runsetendless": "Endless",
+        "runsetendlessdsc": "If on, the layers will loop after a certain point, making the run endless until death. You cannot beat the game this way.",
         "runsetbaselootdensity": "Kepadatan jarahan",
         "runsetbaselootdensitydsc": "Seberapa banyak jarahan yang muncul di setiap lapisan. Mempengaruhi hal-hal seperti kapsul turunan, kapsul penyelamat, peti",
         "runsetlootmultiplier": "Pengali jarak jarahan",
@@ -1514,6 +1527,8 @@
         "runsetstartingsuppliesnone": "Tidak ada",
         "runsetstartingsupplieslight": "Senter",
         "runsetstartingsuppliesfull": "Paket lengkap",
+        "runsetenemystrength": "Enemy strength",
+        "runsetenemystrengthdsc": "Multiplier for how much damage hostile fauna deals",
         "runsetxpgain": "Pendapatan pengalaman",
         "runsetxpgaindsc": "Pengali banyak skill pengalaman yang kamu dapat",
         "runsetmetabolismrate": "Kecepatan metabolisme",
@@ -1536,6 +1551,8 @@
         "runsetstaminaregendsc": "Seberapa cepat staminamu pulih setelah digunakan",
         "runsetattackdamage": "Kekuatan serangan",
         "runsetattackdamagedsc": "Seberapa besar kerusakan yang bisa di keluarkan oleh ayunanmu",
+        "runsetinsulationmultiplier": "Insulation multiplier",
+        "runsetinsulationmultiplierdsc": "How protected you are from the ambient temperature",
         "runsetstrokes": "Perbolehkan stroke",
         "runsetstrokesdsc": "Menentukan jika kamu bisa stroke saat krisis hipertensi",
         "runsetbraindamagefx": "Dampak kerusakan otak",
@@ -1616,7 +1633,7 @@
         "gamesetframerate": "Laju bingkai maksimal",
         "gamesetframeratedsc": "Jika diatas 0, mengatur seberapa cepat game bisa dijalankan. Nilai 0 berarti tak terbatas. Akan dikesampingkan jika Sinkronisasi Vertikal diaktifkan",
         "gamesetpixelate": "Tampilan berpiksel",
-        "gamesetpixelatedsc": "Beralih antara mode tampilan yang dikecilkan skalanya dengan mode render resolusi penuh. Perlu diingat bahwa mematikan mode tampilan yang diperkecil skalanya mengorbankan sebagian dari gaya game yang diperuntukkan.",
+        "gamesetpixelatedsc": "Toggle downscaled or full resolution rendering. Note that disabling pixelated rendering sacrifices some of the game's intended artstyle.",
         "gamesetdarkerbackground": "Latar belakang gelap",
         "gamesetdarkerbackgrounddsc": "Buat latar belakang gua lebih gelap untuk meningkatnya kontras",
         "gamesetbloom": "Pendar",
@@ -1685,8 +1702,8 @@
         "gamesetbark": "Menyalak",
         "gamesetconsole": "Buka/tutup konsol awakutu",
         "gamesetpause": "Jeda",
-        "gamesetmarksmanrack": "(Marksman) Kokang senjata",
-        "gamesetmarksmanunload": "(Marksman) Lepas magasin",
+        "gamesetmarksmanrack": "(Marksman only) Rack slide",
+        "gamesetmarksmanunload": "(Marksman only) Eject mag",
         "copy": "Salin ke papan klip",
         "paste": "Tempel dari papan klip",
         "descend": "Mulai",
@@ -1816,7 +1833,7 @@
         "cqrippable": "Bisa dirobek",
         "cqdisinfectant": "Antiseptik",
         "cqblood": "Darah",
-        "cqopiate": "Opiat",
+        "cqopiate": "Opioid",
         "cqdressing": "Perban",
         "cqproduce": "Hasil-hasilan",
         "cqmeat": "Daging",
@@ -1855,8 +1872,10 @@
         "basicscourse": "Pelatihan Dasar",
         "firstaidcourse": "Kursus Pertolongan Pertama",
         "craftingcourse": "Kursus kerajinan",
+        "movementcourse": "Movement Course",
         "firstaidcourseunlock": "Raih lapisan kedua untuk membuka",
         "craftingcourseunlock": "Raih lapisan ketiga untuk membuka",
+        "movementcourseunlock": "Reach third layer to unlock",
         "tutorialspecieslock": "Hanya bisa melanjutkan dengan spesies Eksperimen",
         "sandbox": "Area tes",
         "escapecourse": "WASPADA: PEMBERONTAKAN RINGAN",
@@ -1913,7 +1932,7 @@
         "hplimbbleed": "Pendarahan bagian",
         "hplimbforce": "Kekuatan anggota tubuh",
         "hplimbforcedsc": "Kemampuan anggota tubuh untuk bergerak dan mengeluarkan tenaga",
-        "hpopiate": "Jumlah opiat",
+        "hpopiate": "Opioid amount",
         "hpvenom": "Jumlah racun",
         "settings": "Pengaturan",
         "credits": "Kredit",
@@ -2071,7 +2090,7 @@
         "tutbasic13": "Luar biasa gak rasanya? Silakan habiskan makanannya.",
         "tutbasic13fail": "Kamu seharusnya mengambilnya, bukan langsung dimakan... Ya ampun, sampai habis pula..?",
         "tutbasic14": "Bener-bener laper ya kamu...",
-        "tutbasic15": "Mari kita coba sesuatu yang lain. Ini benda lain yang bisa kamu mainkan.",
+        "tutbasic15": "Let's try something else. Here's another thing to play with.",
         "tutbasic16": "Kamu punya enam slot utama untuk menaruh benda. Dua tangan, satu mulut, tiga slot di punggungmu.",
         "tutbasic17": "Pegang ini di salah satu tanganmu.",
         "tutbasic18": "Alat-alat tertentu bisa digunakan dari \"Tangan utama\" kamu. Taruh garu di slot itu dan coba ayunkan dengan [KLIK KIRI].",
@@ -2079,13 +2098,13 @@
         "tutbasic20": "Kamu juga bisa cepat menukar apapun di tanganmu dengan [Q]. Cobalah!",
         "tutbasic21": "Kamu juga bisa melempar barang. Tahan [T] lalu lepaskan untuk melempar apapun yang ada di tangan utamamu. Bidik ke target yang kami baru buat!",
         "tutbasic22": "Lemparan luar biasa!",
-        "tutbasic23": "Taruh garu itu ke tanganmu lagi.",
+        "tutbasic23": "Let's get that rake back into your hands now.",
         "tutbasic24": "Kamu bisa menggali benda-benda dengan mengayun. Ini akan membuatmu cepat lelah, tapi berguna jika dilakukan sesekali.",
         "tutbasic25": "Gali ke sisi lain. Tahan [S] untuk berjongkok.",
         "tutbasic26": "Beberapa kondisi seperti rasa sakit atau kelelahan butuh waktu untuk pulih. Percepat waktu [1-3] untuk memulih lebih cepat.",
         "tutbasic27": "Sudah istirahatnya?",
         "tutbasic28": "Sekarang, kita akan pelajari dasar-dasar pertolongan pertama. Mohon tetap diam.",
-        "tutbasic29": "Aduh! Lenganmu sakit dan berdarah! Mari kita periksa. Buka panel kesehatan dengan [R] atau tombol hati.",
+        "tutbasic29": "Ouch! Your arm's hurt and bleeding! Let's check it out. Open the health panel with [R] or the heart button.",
         "tutbasic30": "Arahkan kursor ke anggota tubuh yang sakit untuk melihat info lanjut.",
         "tutbasic31": "Luka tusuk yang cukup besar. Kabar baik - kamu akan memperbaikinya!",
         "tutbasic32": "Ini sebuah perban. Arahkan mouse ke atasnya sambil menekan [SHIFT]. Katanya \"Bisa digunakan di panel kesehatan\".",
@@ -2097,7 +2116,7 @@
         "tutbasic38": "Obat penting yang lain! Sebuah antiseptik, baca apa yang dilakukannya jika kamu mau. Ambil dan buka panel kesehatan.",
         "tutbasic39": "Sama seperti yang tadi. Gunakan antiseptiknya ke tempat terinfeksi.",
         "tutbasicfail1": "Kamu... Menggunakan keseluruhannya. Di tempat yang salah...",
-        "tutbasicfail2": "Mari kita... membayangkan kamu melakukannya dengan benar.",
+        "tutbasicfail2": "Let's just... Imagine you did it correctly.",
         "tutbasic40": "Bagus! Lakukan ini setiap beberapa menit untuk membuat infeksinya hilang. Bujur panah yang berada di ikon menunjukkan jika itu membaik atau memburuk.",
         "tutbasic41": "Kamu benar-benar tidak mau membiarkan infeksi; Mereka mengancam jiwa jika tidak diatasi. Tubuh yang makan sehat dan dalam bentuk bagus akan melambat mereka.",
         "tutbasic42": "Info kesehatan lebih detil berada di Kursus Pertolongan Pertama. Kamu bisa melakukannya nanti jika kamu mau.",
@@ -2106,7 +2125,7 @@
         "tutbasic45": "Itu adalah sebuah kontainer, artinya dia menambah seberapa banyak barang yang bisa kamu bawa. Coba seret sebuah item ke dia.",
         "tutbasic46": "Wow, itu masuk di dalam! Sekarang [KLIK KANAN] kontainernya dan ambil itemmu keluar kembali.",
         "tutbasic46fail1": "K... Kenapa... Kenapa dirobek..?",
-        "tutbasic46fail2": "..Yasudah. Mari kita lanjutkan...",
+        "tutbasic46fail2": "..'kay. It's fine. Let's move on...",
         "tutbasic46fail3": "Kamu sedang mengetes kesabaran saya. Berhenti merobek tas-tas mu. Kita akan melewati segmen ini karna kamu tidak bekerja sama.",
         "tutbasic47": "Kerja bagus. Kontainer sangat berguna untuk dimiliki, awasi keberadaan mereka.",
         "tutbasic48": "Ini sebuah barang baru. Mari kita lihat jika kamu bisa memakainya.",
@@ -2119,7 +2138,7 @@
         "tutbasic55": "Bagus. Tinggal separuh. Buat kanvasnya sekarang.",
         "tutbasic56": "Saat kamu mempunyai kedua kanvas dan sebuah tali, buat kantong dedaunan nya.",
         "tutbasic57": "Kerja bagus! Kamu juga bisa mengganti kategori resep, atau menggunakan kolom pencarian. Kamu akan mendapatkan lebih banyak info di Kursus Kerajinan.",
-        "tutbasic58": "Mari kita lihat panel kesehatan lagi.",
+        "tutbasic58": "Let's take a quick look at the health panel again.",
         "tutbasic59": "Lihat ke kanan atas. Mereka adalah skillmu. Dengan urutan, Kekuatan, Ketahanan, dan Kecerdasan.",
         "tutbasic60": "Kekuatan adalah banyak massa ototmu. Dia menambah seranganmu dan kapasitasmu.",
         "tutbasic61": "Ketahanan adalah daya tahan fisik mu dan ketabahan mental. Dia membuat kamu lebih tahan ke rasa sakit dan kecapekan.",
@@ -2142,7 +2161,7 @@
         "tutaid10": "Ini adalah staminamu. Aktivitas fisik akan menurunkannya.",
         "tutaid11": "Ini adalah rata napas kamu. Oksigenmu akan menurun jika kamu tidak bernapas cukup.",
         "tutaid12": "Ini adalah radiasi yang diserap tubuhmu. Jangan bertanya apa artinya, tapi tahulah bahwa lebih dari nol artinya masalah.",
-        "tutaid13": "Ini adalah rata detak jantungmu. Kamu ingin menjaga angka ini tetap di atas 0.",
+        "tutaid13": "This is your heart rate. You'll want to keep this above 0.",
         "tutaid14": "Ini adalah tekanan darahmu. Jangan biarkan itu mencapai angka terlalu tinggi atau terlalu rendah.",
         "tutaid15": "Ini adalah oksigen di darahmu, juga dibilang SpO2.",
         "tutaid16": "Ini adalah EKG. Ini menampilkan detak jantungmu. Biasakan dirimu dengan ini, kau akan sering memandanginya.",
@@ -2173,7 +2192,7 @@
         "tutaid39": "Artinya jika aritmia baru saja dimulai, atur tingkat daya rendah. Jika jantungmu sudah hampir berhenti, kamu atur jadi tinggi.",
         "tutaid40": "Kamu bisa menentukannya menggunakan EKG dan estimasi daya yang terlihat di sini. Semakin tepat kamu menyelaras level dayanya, semakin tinggi peluangnya untuk berhasil.",
         "tutaid41": "Coba lakukan itu. Atur daya, isi daya, lalu kejutkan hingga aritmiamu hilang. Kamu akan mengerti lama-lama. Gunakan EKG dan estimasi daya sebagai panduan.",
-        "tutaid42": "Misalnya sesuatu berjalan sangat buruk. Pakai ini, lalu buka panel kesehatan.",
+        "tutaid42": "Let's say something goes horribly wrong. Wear this, then open the health panel.",
         "tutaid43": "Jantungmu sudah tidak berdetak. Satu-satunya yang membuatmu tetap sadar adalah pompa otomatis yang baru saja kamu pasang. Ini adalah skenario terburuk.",
         "tutaid44": "Defibrilator bisa memperbaiki ini, tapi butuh waktu. Ada cara yang lebih baik.",
         "tutaid45": "Epinefrin adalah obat khusus yang bisa menghidupkan kembali jantungmu, ditemukan dalam pena tempur. Suntikkan.",
@@ -2182,7 +2201,7 @@
         "tutaid48": "Viskositas darah adalah seberapa kental atau encer darahmu. Kedua kondisi ekstrem bisa menyebabkan masalah, tapi darah yang terlalu kental lebih berbahaya.",
         "tutaid49": "Darah yang sangat kental bisa menyebabkan Emboli Paru, yang akan merusak toraksmu. Kerusakan parah pada toraks akan mengganggu dan akhirnya menghentikan pernapasanmu.",
         "tutaid50": "Untuk memecah bekuan darah, gunakan streptokinase.",
-        "tutaid51": "Bagus, tapi mari lihat apa yang terjadi jika toraksmu benar-benar gagal.",
+        "tutaid51": "Nicely done, but let's see what happens if your thorax did fail.",
         "tutaid52": "Kamu harus meningkatkan kesehatan otot toraks agar bisa bernapas lagi. Perlengkapan memar ini berfungsi untuk itu - gunakan di toraksmu.",
         "tutaid53": "Kembali berfungsi. Respirasi rendah akan menurunkan SpO2-mu, yang akhirnya menyebabkan pingsan, fibrilasi, dan kematian.",
         "tutaid54": "Satu hal lagi tentang sirkulasi adalah tekanan darah tinggi, atau hipertensi. Biasanya lebih bisa ditangani, tapi masih bisa sangat berbahaya.",
@@ -2200,10 +2219,10 @@
         "tutaid66": "Nyeri hebat adalah salah satu penyakit paling melumpuhkan yang bisa kamu alami.",
         "tutaid67": "Ini membuatmu susah bergerak, dengan cepat memperburuk suasana hati, dan bisa membuatmu pingsan karena syok.",
         "tutaid68": "Untungnya, ada cara yang cukup sederhana untuk mengobatinya.",
-        "tutaid69": "Opiat dengan cepat mengurangi rasa sakit di seluruh tubuhmu saat digunakan. Suntikkan semuanya dan lihat.",
+        "tutaid69": "Opioids quickly reduce pain across your entire body when used. Inject the entire thing and see.",
         "tutaid70": "BAA!",
         "tutaid71": "Itu hilang dengan cepat, kan?",
-        "tutaid72": "Hati-hati dengan opiat - kamu bisa mudah overdosis, atau mengalami sakau setelahnya. Nalokson dan naltrekson bisa membantu mengatasi penyalahgunaan opiat.",
+        "tutaid72": "Be careful with opioids - you can overdose on them easily, or go into withdrawals after. Naloxone and naltrexone can help with opiate abuse.",
         "tutaid73": "Ini mengakhiri Kursus Pertolongan Pertama. Kita bisa membahas lebih banyak, tapi kami yakin kamu bisa memahami kondisi lainnya dengan aman. Kamu bisa kembali ke ruanganmu.",
         "tutcraft1": "Selamat datang di Kursus Kerajinan. Hari ini, kita akan membahas detail pengadaan item dan menunjukkan beberapa alur kerja umum.",
         "tutcraft2": "Hampir semua yang kamu lihat adalah materi nyata dan bukan sampah.",
@@ -2212,10 +2231,10 @@
         "tutcraft5": "Kita akan asumsikan kamu sudah tahu dasar-dasar kerajinan. Buat tas dedaunan menggunakan bahan-bahan berikut. Gunakan tombol ulang jika kamu membuat kesalahan.",
         "tutcraft6": "Langkah awal. Bagus sekali. Mendapatkan wadah harus selalu menjadi tujuan pertamamu.",
         "tutcraft7": "Hal penting yang perlu diperhatikan adalah kamu bisa menggunakan item di dekatmu di tanah untuk kerajinan. Menyalaklah [B] setelah kamu benar-benar paham.",
-        "tutcraft8": "Mari coba lagi dengan sumber daya yang sama. Buat perban kali ini. Kamu bisa menarik item apapun ke tombol kerajinan untuk melihat resep apa saja yang bisa menggunakannya.",
+        "tutcraft8": "Let's try again with the same resources. Make a full dressing this time. You can drag any item onto the crafting button to see what recipes it can be used in.",
         "tutcraft9": "Bagus sekali. Perban sangat murah untuk dibuat dan sangat penting untuk kelangsungan hidupmu. Ini harus menjadi prioritasmu tepat setelah mendapatkan wadah.",
         "tutcraft10": "Hal penting - kamu bisa menyematkan resep agar selalu ditampilkan di sudut, menggunakan tombol di kanan bawah menu kerajinan. Sematkan resep untuk pisau tipis.",
-        "tutcraft11": "Mari tambahkan beberapa besi tua dan kayu. Buat pisau tipis menggunakan sumber daya ini. Kamu bisa menggabungkan item di inventaris.",
+        "tutcraft11": "Let's add some scrap and wood to the mix. Create a flimsy knife using these resources. You can merge items in the inventory.",
         "tutcraft12": "Bagus sekali. Yang perlu diperhatikan adalah kamu bisa memfavoritkan item untuk mencegahnya digunakan dalam resep kerajinan. Kamu harus melakukan ini untuk barang seperti tas, agar tidak merobeknya secara tidak sengaja.",
         "tutcraft13": "Tekan [F] pada pisau tipis yang baru saja kamu buat untuk memfavoritkannya.",
         "tutcraft14": "Sekarang, coba buat perban steril menggunakan barang-barang ini. Ingat kamu bisa merobek tas dan pakaian tertentu melalui kerajinan.",
@@ -2226,7 +2245,7 @@
         "tutcraft19": "1 INT lebih tinggi memiliki 50% kemungkinan merusak item yang dihasilkan. 2 INT, 50% kemungkinan membuang material sepenuhnya, dan pada 3 INT, kamu juga sedikit melukai dirimu sendiri.",
         "tutcraft20": "Kamu sekarang punya cukup INT untuk membuat parang. Lakukan itu.",
         "tutcraft21": "Pintar juga kamu. Kamu bisa lebih meningkatkan alat-alatmu dengan, misalnya, paduan titanium. Membuat alat penggali juga berguna.",
-        "tutcraft22": "Mari beralih ke kerajinan terkait makanan. Sebagian besar memerlukan api unggun.",
+        "tutcraft22": "Let's move onto food-related crafts. Most of them require a campfire.",
         "tutcraft23": "Rebus air tanah menjadi air bersih. Kamu perlu membuat botol minum untuk mengumpulkannya, dan api unggun untuk merebusnya.",
         "tutcraft24": "Bagus sekali.",
         "tutcraft25": "Buatlah sebuah pemmikan.",
@@ -2237,9 +2256,11 @@
         "tutclosehealthpanel": "Tutup panel kesehatan.",
         "tutopenhealthpanel": "Buka panel kesehatan.",
         "tutnice": "Bagus.",
+        "outdatedwarning": "<size=200%>Hey!<size=100%>\nThe selected language file is outdated. Some text may be broken.\nTry switching to english or finding a newer version.",
         "surfacebreachnote": "<spoiler>",
         "labenternote": "<spoiler>",
         "biopodnote": "<spoiler>",
+        "biopodnotealt": "<spoiler>",
         "startlorenote": "Tahun 2XXX \n<>\nTeknologi umat manusia telah berkembang secara signifikan. Hal-hal yang dulunya tampak mustahil kini menjadi hal yang lumrah.\n<>\nDi pusat semua itu terdapat satu perusahaan. Kemajuan mereka terlihat ajaib, namun mereka menjaga rahasia mereka dengan sangat ketat.\n<>\nBertahun-tahun yang lalu, mereka telah menciptakan spesies baru: kombinasi DNA hewan dan manusia yang mereka sebut sebagai \"Eksperimen\".\n<>\nEksperimen-eksperimen ini adalah subjek uji yang sempurna, cukup mirip dengan manusia, namun sepenuhnya milik mereka untuk diperlakukan sesuka hati. Mereka memeras subjek-subjek tersebut, memanipulasi biologi mereka lebih jauh lagi hanya demi memenuhi kebutuhan mereka, dan seiring berjalannya waktu, populasinya pun terus bertambah.\n\nTak satu pun dari mereka akan pernah melihat dunia luar.\n<>\nKini tampaknya Bumi tidak lagi mampu menampung ambisi mereka. Dengan teknologi teleportasi yang baru mereka ciptakan, mereka mengarahkan pandangan ke sebuah planet kelabu yang penuh dengan kehidupan.\n<>\nTak lama kemudian, berton-ton kargo dan sampah dikirimkan.\n<>\nAkibat kekeliruan kalibrasi, jumlah yang berakhir di sistem gua planet tersebut sama banyaknya dengan yang mendarat di permukaan, namun proyek itu berjalan dengan lancar.\n<>\nHal itu terus berlangsung sampai pada sebuah kesalahan yang tidak dikenali menyebabkan sebuah perangkat teknologi penting terkirim jauh ke dalam gua.\n<>\nTak lama kemudian, para ilmuwan menyusun sebuah rencana. Sebuah rencana dengan risiko yang minim bagi diri mereka sendiri.\n<>\nPeluang keberhasilannya rendah, namun persediaan umpan hidup mereka berlimpah.\n<>\nKamu adalah salah satu spesimen yang malang.\nPerlawanan bukanlah sebuah pilihan."
     },
     "character": [
@@ -2728,7 +2749,7 @@
                 "Aku perlu... air... segera...",
                 "Aku perlu air... Sekarang.",
                 "Aku mulai pusing... Aku perlu air...",
-                "Aku bener-bener terdehidrasi...",
+                "I'm seriously dehydrated.",
                 "Sudah terlalu lama gak minum air...",
                 "Air... cepetan...",
                 "Perlu... air...",
@@ -3411,7 +3432,7 @@
                 "Aku akan membeku...",
                 "Dingin ini... menyakitkan...",
                 "Aku menggigil kedinginan...",
-                "Aku mulai mati rasa...",
+                "I'm getting all numb...",
                 "Terlalu... dingin...",
                 "Brrr...",
                 "Brrrrrh...",
@@ -4005,6 +4026,21 @@
                 "...Oh. Oh. OH. OH! GAK. JANGAN JANGAN. TUNGGU. KENAPA? APA YANG GUA LAKUIN!?",
                 "...A-ah... Baiklah... Y-ya... S-sampai jumpa, k-kalau gitu..."
             ],
+            "endlessloop0": [
+                "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
+            ],
+            "endlessloop1": [
+                "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
+            ],
+            "endlessloop2": [
+                "<spoiler>"
+            ],
+            "endlessloop3": [
+                "Well! I'm not getting out of here, am I... I think I'm getting used to this."
+            ],
+            "endlessloopdefault": [
+                "Oh, round and round we go..."
+            ],
             "vomitresponse": [
                 "Uuuhmm... Kamu baik-baik saja..?"
             ],
@@ -4054,7 +4090,7 @@
                 "Bakal gua simpen baik-baik barang-barang lu!"
             ],
             "dyingresponse": [
-                "Bangkek... Uh... Aku gak pernah belajar ngasih nafas buatan ke orang lain...",
+                "Crap... Uh... I never learned how to resuscitate others...",
                 "Aku... Uh... Semoga lu kan baik-baik aja..."
             ]
         },
@@ -4184,7 +4220,7 @@
                 "Ini akan segera keluar..."
             ],
             "vomit": [
-                "Ghh... *batuk* ...sudahlah, ayo terus lanjut.",
+                "Ghh... *cough* ...Let's just move on.",
                 "Yang tadinya makan malam sekarang tergeletak di tanah.",
                 "Eugh... sungguh pemborosan nutrisi.",
                 "Aku masih bisa... merasakan muntahnya..",
@@ -4536,7 +4572,7 @@
                 "Suhu udara tergolong tinggi."
             ],
             "hot": [
-                "Aku panas. ...Gak gitu maksudnya...",
+                "I am very hot.",
                 "...Panas. Sangat. Panas.",
                 "Aku bisa kena sengatan panas jika terus begini...",
                 "Aku mengalami hipertermia yang berbahaya...",
@@ -4596,7 +4632,7 @@
                 "Badanku terasa berat."
             ],
             "opiated": [
-                "Aku sedang di bawah pengaruh zat opiat.",
+                "I am under the influence of an opioid-based substance.",
                 "Mm...Mmmmmm...Kliyengan.",
                 "Ini terasa... Ya. Enak.",
                 "Cukup pas...",
@@ -4798,6 +4834,21 @@
                 "Oh, oh, kenapa, apa, KENAPA!? HENTIKAN INI! DASAR BAJINGAN, AKU TAK PANTAS DIGINIIN!",
                 "Halo, suara bip. Artinya apa ya kira-kira?"
             ],
+            "endlessloop0": [
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
+            ],
+            "endlessloop1": [
+                "This is not going according to plan. Damn it! What the hell did the coats want me to do!? Such a waste of time and energy."
+            ],
+            "endlessloop2": [
+                "...What a d-depressing outcome. This mission is doomed to fail."
+            ],
+            "endlessloop3": [
+                "This is entirely beyond me. What an exercise in patience. Frustrating. So, so intensely frustrating. Always just out of reach."
+            ],
+            "endlessloopdefault": [
+                "......*sigh*"
+            ],
             "tradermeetnormal": [
                 "Salam.",
                 "Halo.",
@@ -4969,7 +5020,7 @@
                 "Yang benar saja? Di lantai MILIKKU?"
             ],
             "vomitbloodresponse": [
-                "...Nampaknya dirimu sedang mengalami pendarahan internal. Tolong jauhkan mulutmu dari saya sampai masa yang mendatang."
+                "...It appears you are bleeding internally. Please direct your mouth away from me for the foreseeable future."
             ],
             "hungryresponse": [
                 "Jika Anda berharap saya bisa melegakan laparmu tanpa pembayaran, maka Anda akan salah kaprah.",
@@ -4983,7 +5034,7 @@
                 "Tolong, sudahilah kesedihanmu."
             ],
             "depressedresponse": [
-                "Terjun kedalam kepasrahan tidak akan menyelesaikan masalahmu."
+                "Spiraling into despair will not solve any of your problems."
             ],
             "selfharmresponse": [
                 "...kamu benar-benar gila. Hentikan ini."
@@ -5020,6 +5071,564 @@
             ]
         },
         {
+            "seeGravel": [
+                "Hhrnnn... He-re...",
+                "Nnhh... G-ray...",
+                "Du-ne... Go...",
+                "...Why s-top..?",
+                "Nnnhh... Fo-od place...",
+                "Ar-ri-ve.",
+                "Co-ld..?"
+            ],
+            "eatGood": [
+                "Nngghhhrr! Tr-eat!!",
+                "Ngghraahhh! Du-ne li-ke..!",
+                "Hnnn...Hnnnrr...Go-od...",
+                "Fo-od... Li-ke...",
+                "Tas-te... Spe-ci-al... Nhhrr...",
+                "Nrr... Li-ke...",
+                "Wa-nt... Mo-re..."
+            ],
+            "eatMediocre": [
+                "Nnnhrrr... Fo-od...",
+                "Du-ne... Eat... Nrrhh...",
+                "Nhhhrr...Mmhhh...",
+                "Eat... Un-til... Nggrrhh... Fu-ll...",
+                "Fo-od...",
+                "Tas-ty...",
+                "Du-ne... Like eat... Ghhr..."
+            ],
+            "eatBad": [
+                "Nhhrr... Nhhghhh...!",
+                "Nggrhaahhh... Fo-od...",
+                "Nngrr... Mo-re..?",
+                "Wa-n... Du-ne... Gnnhnhrr... Fo-od... Nhhrr..."
+            ],
+            "refuseEat": [
+                "...Woh?",
+                "Du-ne... Not... Grr..",
+                "Gghhrrrr!!",
+                "Ngghhhrraaghh!",
+                "Bad..."
+            ],
+            "tired": [
+                "Sle-eep... Wa-nt...",
+                "Du-ne... Nap...",
+                "S...Leep.",
+                "Eeee... Eeeeb..!",
+                "Sleeee-p.... Slee-peeee...",
+                "Mnnhhrr... Do-wn..."
+            ],
+            "verytired": [
+                "Ne-ed.... Nap...",
+                "Tiiii... Red...",
+                "Nnnhhh......Do-wn...",
+                "Lie... Do-wn...",
+                "Hhhrrnn... S...Sle-eeeep..."
+            ],
+            "confused": [
+                "He-ad...",
+                "Gghhnn... Ghhrrrr...",
+                "Ww.... Wh-at....",
+                "Not... Kno-ww....",
+                "Con-fused....",
+                "Nnhhhrrr...",
+                "No... Du-ne... Wei-rd..... Ghhr...",
+                "Nnnnhhhh..."
+            ],
+            "wakeup": [
+                "Du-ne... Wake...",
+                "Hell-lo...",
+                "Hhrr..?",
+                "Mnnnhhh...",
+                "A-live...Ghrr...",
+                "Mmm..."
+            ],
+            "vomit": [
+                "Be-li... Fight...",
+                "Foo-d... Fight back...",
+                "Nhhgghhrrr... Ghhraghhh!",
+                "Hnnnghh..? Ghhr... W-hat...",
+                "Nhgghhrr... Du-ne...... Bad....",
+                "Ghhn... Bad... Eat..?"
+            ],
+            "vomitblood": [
+                "Du-ne... Fe-el baaad....",
+                "Guurhhh... Gnnnhh...?",
+                "Nnngghhhrr....?",
+                "Ggyiacckk! Grhrh... W-hat...",
+                "...Ngghrhh...",
+                "Grhrhaughh... Ghnnn... W-hy...",
+                "Nggh...du-ne...no...goo-d..."
+            ],
+            "full": [
+                "Du-ne fu-ll...",
+                "Ea-t much...!",
+                "Wa-it eat...",
+                "Du-ne no mo-re eat...",
+                "Ngghh... Fu-ll...",
+                "E-noff... Gnnh..."
+            ],
+            "hungry": [
+                "Wan-t... Mo-re... Foo-d...",
+                "Du-ne...hungry...",
+                "Bite?",
+                "...Nggh... Wan-t...",
+                "Hun...ger...",
+                "*drooling*",
+                "Whe-re... Eat..?",
+                "Bi-te...",
+                "E-at..?",
+                "Du-ne...e-at..?"
+            ],
+            "starving": [
+                "*drooling heavily*",
+                "Ne-ed... Eat!",
+                "Ngghhhhrrr! Foo-d!!!",
+                "NGHHRRHHH!! Whe-re eat!?",
+                "Nhghhrrr! Du-ne star-ve!!",
+                "NNGRHH!! FOO-D!! DU-NE!!"
+            ],
+            "thirsty": [
+                "S-lurp..?",
+                "Wa-ter...",
+                "Mmm... D-rink..?",
+                "Du-ne... Wa-ter...",
+                "Wan-t... Wa-ter..?",
+                "D-rink..."
+            ],
+            "dehydrated": [
+                "Need... Wa-ter..!",
+                "Ngghh... D-ry...",
+                "Wa-ter...now!!",
+                "Gghrhhh... Wa-ter!!",
+                "Du-ne... P-arch..!",
+                "Du-ne... Wa-ter... NOW!",
+                "Gghhrraaaghh! D-rink! Now..!"
+            ],
+            "limbmuscle": [
+                "<Limb> no mo-ve...",
+                "Du-ne <limb> stop wo-rk..?",
+                "Du-ne nee-d new <limb>.",
+                "<limb> no work...nnngrrhh...",
+                "<limb> is me-an..! Gghhrr!",
+                "Du-ne...<limb> hur-t..!"
+            ],
+            "limbinfected": [
+                "Du-ne <limb> war-m...",
+                "Sick..?",
+                "Nnnrr...<limb> loo-k weird..?",
+                "Du-ne <limb> r-ash..?",
+                "Hhnnn...<limb> fee-l weird..."
+            ],
+            "limbskin": [
+                "<limb> yell-ow..?",
+                "Oooouur! <limb> is ba-d!",
+                "Du-ne hurt...",
+                "Du-ne <limb> hurt...",
+                "Ghhhrr...<limb> no goo-d..."
+            ],
+            "sad": [
+                "Sad.",
+                "Du-ne sad.",
+                "No s-mile...",
+                "Du-ne no s-mile...",
+                "Du-ne fee-l bad.",
+                "No ha-pi...",
+                "Du-ne not ha-pi..."
+            ],
+            "gloomy": [
+                "Foo-d make fee-l better...",
+                "Foo-d make du-ne fee-l better...",
+                "Ve-ry saaad...",
+                "Ve-ry saaad du-ne...",
+                "Grrr..mind bad.",
+                "Grrhhh...du-ne mind bad...",
+                "Nhhhhrr...",
+                "Nnnngggrhhh... Ghhr...",
+                "Gghhhrr...",
+                "Du-ne not feel goo-d!",
+                "Not feel goo-d!"
+            ],
+            "depressed": [
+                "Woo... Whhhgrr... Nggghhhrrr...",
+                "Ngrrhhhh... Ghhhrr.. Gruughh...",
+                "Ggghhrragghhh!",
+                "Ngghhhnn... Nghhggghhh.... Nghhrr!",
+                "Ngghhruagghhh! Gghhrr...",
+                "Nnhhg... Nggghhh!",
+                "Ngghrhhh! W-hy!?"
+            ],
+            "miserable": [
+                "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
+                "NNGRHHHHHH! GGRRAAGGHHH!",
+                "GGHHRAGGHHH!! HAAATEEE!!!",
+                "GGHHRAGGHHH!! DUUNNNE!!!! HAAATEEE!!!",
+                "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
+                "AANNNGRRYY! GGRHHAANNGHHH!",
+                "NNNGRRAGHHHH! DU-NE.... DES-TROY!!!",
+                "NNNGRRAGHHHH! HHAAATEE! DES-TROY!!!",
+                "GGHHRAAHHHGNHH! DU-NE HATE! DES-TROY!!!"
+            ],
+            "angeronitem": [
+                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne des-troy... Fri-end..."
+            ],
+            "refuse": [
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "Ngrrhhh",
+                "Grrr...",
+                "Mnnhh...",
+                "*hiss*",
+                "No...",
+                "Du-ne...",
+                "Nnnnrrr...",
+                "Nnhghh..."
+            ],
+            "bleeding": [
+                "Bl-eed...",
+                "Du-ne...bl-eed...",
+                "Du-ne...leak...",
+                "Leak...yellow...",
+                "Ye-llow...b-ad...",
+                "B-ad...bl-eed...",
+                "B-ad...du-ne hurt..!",
+                "Ngghhhrr! Du-ne hurt!",
+                "Grrhhhh! Du-ne n-eed help!",
+                "He-lp!! Du-ne!",
+                "Du-ne nee-d fix..!",
+                "Nnnrr... Du-ne ye-llow...",
+                "Nrr... B-lood...",
+                "Nrrhh... Du-ne...b-lood!!"
+            ],
+            "bleedingheavy": [
+                "Bl-eed!!",
+                "Du-ne bl-eed!! Mu-ch!!",
+                "Du-ne...leak!! No-w!!",
+                "F-low...yellow! Du-ne he-lp!!",
+                "Ye-llow!! B-ad!!!",
+                "B-ad...bl-eed...",
+                "B-ad...du-ne hurt..!",
+                "Ngghhhrrrnnghhhr!",
+                "Grrhhhhnnnghh!",
+                "He-lp!! Du-ne! N-OW!!!",
+                "Du-ne nee-d FIX..! H-ELP!!",
+                "NnnrrrhhNGHHH!! DU-NE TOO YE-LLOW!!",
+                "Nrrgghhh!!! B-lood!!!",
+                "Nrrhhh..! Du-ne b-lood!! Much!!!"
+            ],
+            "steponglass": [
+                "Du-ne gl-ass...",
+                "Cl-ear t-hing hurt du-ne!!",
+                "Du-ne hu-rt sh-arp!!!"
+            ],
+            "seecorpse": [
+                "Fr-ee foo-d?",
+                "Hhnnn..?",
+                "Ooo...",
+                "Mmm... Fr-ee..?",
+                "Mmmmrr... Fri-end..?",
+                "Hrnn!! Fri-end! Oh....",
+                "Mmm... Tas-ty... Fo-und..?",
+                "Du-ne... Fi-nd fri-end..?",
+                "Why fri-end no mo-ve..?",
+                "Food!",
+                "*drooling*",
+                "Aaarrh! Hel-lo?"
+            ],
+            "seecorpsedesensitized": [
+                "Mmm!! Mo-re foo-d...",
+                "Hel-lo fri-end.",
+                "Cor-pse.",
+                "Fri-end hur-t?",
+                "Mo-re cor-pse.",
+                "Mo-re food for du-ne.",
+                "Hel-lo!!",
+                "Du-ne see mo-re cor-pse.",
+                "So mu-ch die!",
+                "Lot of foo-d!"
+            ],
+            "seecorpsesuicidal": [
+                "Du-ne join fri-end...",
+                "Du-ne jealous...",
+                "Gghrr..."
+            ],
+            "cold": [
+                "Du-ne co-ld! Nee-d water...",
+                "Du-ne chi-ll...",
+                "Du-ne no li-ke co-ld.",
+                "Not li-ke co-ld."
+            ],
+            "warm": [
+                "Du-ne wa-rm.",
+                "Du-ne hot!",
+                "Du-ne nee-d cool do-wn.",
+                "Du-ne too wa-rm...",
+                "Wa-rm.",
+                "Hot..."
+            ],
+            "hot": [
+                "Du-ne burn!",
+                "Du-ne too hot!!",
+                "Nee-d... Col-d...",
+                "Too.. Ho-t...",
+                "Nnhggh... Di..zzy!"
+            ],
+            "exerted": [
+                "Nnnghh... S-pent...",
+                "Du-ne... Rest...",
+                "*huff*",
+                "Nnnrr.. Wo-rk... Much!"
+            ],
+            "exhausted": [
+                "Nhhgh... Re-st..!",
+                "Gghrhrhh... Ti...re!!!",
+                "Ggrhhh...! S-top...",
+                "Ngghhhhrrrrrrhh...",
+                "*pant*"
+            ],
+            "freezing": [
+                "Du-ne... So... C-old...",
+                "Ngghhhrr... So c-old..!",
+                "Nnhh... N-nnhh... C-old...",
+                "S...So... C-old..! Ngr...",
+                "Fr-eeze...",
+                "Du-ne... Fr-eeze...",
+                "Nhhhrrr... Du-ne... T-oo c-old...",
+                "Ggrrrh..! T-oo c-old..."
+            ],
+            "emaciated": [
+                "Du-ne... T-oo thin...",
+                "Thin...",
+                "M...ust. Eat m-ore...",
+                "Du-ne... Th-in!!",
+                "T-oo... Thin..."
+            ],
+            "obese": [
+                "Du-ne eat ve-ry goo-d!",
+                "Nhhrr! Du-ne chub!",
+                "Du-ne... Fat..? Nrrr..."
+            ],
+            "opiated": [
+                "...",
+                "N...Nhhrr...Du-ne....",
+                "W...Whhhrrnnnnn...",
+                "Mmmnnnrrr...mmmnnnnnn...",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......like..!",
+                "Mmmmrrrhhhrrn..."
+            ],
+            "opiatedsad": [
+                "..!",
+                "N...Nhhrr...Du-ne..!",
+                "W...Whhhrrnnnnn..!",
+                "Mmmnnnrrr...mmmnnnnnn..!",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......like..!",
+                "Mmmmrrrhhhrrn..!"
+            ],
+            "opiatewithdrawal": [
+                "Du-ne...sh-ake..",
+                "Nnhrhhggh...b-ad!!",
+                "Du-ne...want mo-re...thing...",
+                "Nghhrr...! Bad..!",
+                "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
+            ],
+            "cantBreathe": [
+                "Nhhrr...nngghh...*hack*",
+                "*hack* *cough*",
+                "Nhhgg-rhhnngh!"
+            ],
+            "pain": [
+                "Nnhrrhhh...<limb>...hur-t...",
+                "Mnnhhhh...",
+                "Ghhhrrnnnhh!",
+                "Nhnngghhrr...",
+                "Gghhrahhnnh...<limb>...",
+                "Grrrhhgnn...pa-in...<limb>...",
+                "Gggrhhnn...Du-ne...pa-in...",
+                "Gggrhhnn...Du-ne...pa-in...<limb>..."
+            ],
+            "hitgroundhard": [
+                "GRRHNH!",
+                "GGRACK!",
+                "NNHHRACK!!",
+                "GGHAARCK!",
+                "MNNGGHH!",
+                "RRHHGGNH!",
+                "AAARHCNGCK!",
+                "GGHNR!"
+            ],
+            "bigpain": [
+                "GGGHHRRAAAAHHHHHH!!",
+                "NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
+                "HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
+                "GNNGGHHHRRRR!",
+                "AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
+                "NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
+                "GGGHHRRRAAAANGGHHHRRR!",
+                "RRRAANNNGGHHHHHH!!",
+                "GGNNHRRHHNNNNGGRRAAGHGH!!",
+                "SSS-TTTOPPP!! GGRRNNHGHGH!"
+            ],
+            "fallscream": [
+                "WWHHHHHEEEEEE!!",
+                "RRHHAAAAAAARRHH!",
+                "KKRRUUAAAAAAAUU!",
+                "RRRAAAUUU!",
+                "KKRRUAAEEEE!",
+                "GGRRAAAAAA!",
+                "FFRAAAAA!"
+            ],
+            "hitbycreature": [
+                "Oh? Fri-end bite?",
+                "Nggrch! E-vil thi-ng!!",
+                "GGRRGHHH! DU-NE KI-LL!!!!",
+                "GRRACK! LE-AVE DU-NE!",
+                "GGRHR! BI-TE BACK!",
+                "RGHGN! DU-NE REVENGE!",
+                "GACK! E-VIL!"
+            ],
+            "dirty": [
+                "Du-ne... Dir-ty..?",
+                "Du-ne need bat-h...",
+                "Du-ne feel smell.",
+                "Feel dirt.",
+                "Sme-ll smell.",
+                "Stin-ky.",
+                "Stink. Bad!",
+                "Too stin-k."
+            ],
+            "encumbered": [
+                "Du-ne strong!!",
+                "Du-ne carry mu-ch.",
+                "Carry mu-ch.",
+                "Lot of thing.",
+                "Du-ne strong...dune carry!",
+                "Du-ne heavy.",
+                "Du-ne wei-ght.",
+                "Hea-vy.",
+                "Weight...",
+                "Nrrr...car-ry lot.",
+                "Nrrr...du-ne car-ry lot."
+            ],
+            "watchlike": [
+                "Grrr. Met-al fri-end wei-rd!"
+            ],
+            "drillend": [
+                "Du-ne scare.",
+                "Sca-ry.",
+                "Lo-ud noi-se...",
+                "Du-ne smar-t!!"
+            ],
+            "loud": [
+                "GGRAAAAACKK! WH-AT!?",
+                "GRRRRR!!!",
+                "...hoooh.",
+                "GRRACK! LO-UD!",
+                "AUGRH! NO-ISE!!!"
+            ],
+            "murderregret": [
+                "DU-NE WIN!",
+                "DU-NE BEAT EV-IL FRI-END!",
+                "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NE STRROOOONG!!!!",
+                "DU-NE HUNT WEAK FRI-END!!!",
+                "DU-NE HUN-T FOO-D!!",
+                "GRRHCHH! WEEEAAK PR-EY!"
+            ],
+            "tradeemeet": [
+                "Du-ne find!!",
+                "Hel-lo!!",
+                "Du-ne gree-t!!",
+                "Hel-lo?",
+                "Mmmrrrrn...fri-end?",
+                "Fri-end?",
+                "Oooo! Fri-end!!",
+                "Foo-d?"
+            ],
+            "swingresponse": [
+                "QUIT. IT!",
+                "STOP!",
+                "IMBECILE!",
+                "TROGLODYTE!",
+                "STOP RESISTING!",
+                "JUST DIE ALREADY!",
+                "GIVE IT UP!"
+            ],
+            "braindamaged": [
+                "He...",
+                "...",
+                "...?",
+                "...!",
+                "......",
+                "...~",
+                "...@@",
+                "...nnn...",
+                "...r",
+                "...n",
+                "...g",
+                "h",
+                "re",
+                ".",
+                "###",
+                "Is anyone out there?",
+                "",
+                "y...",
+                "w.",
+                "The.",
+                "mw...wa....t...",
+                "Re.",
+                "Du-ne.",
+                "Me-ta-l...",
+                "GRAAAARCH!!"
+            ],
+            "lastmoments": [
+                "Du-ne...sca-red...",
+                "Du-ne...nee-d...help!",
+                "Grrhhnnchh!",
+                "Grrhhannchh!",
+                "Grrrrr!!!",
+                "Nnhhrrhuhhh! No!!!",
+                "Du-ne!!! Hel-p!!",
+                "W...wh-y...",
+                "D...dnnrhh...Nhhhh...",
+                "Rrrnn...Hhhh...Du-ne....die...?",
+                "Lig-ht....co-me...",
+                "Fee-l...dar-k...",
+                "is...end..?",
+                "is.....over...",
+                "no...re-ady...",
+                "rnhh...du-ne...h-elp..."
+            ],
+            "magicheal": [
+                "woh..."
+            ],
+            "selfdestruct": [
+                "Oooorrhhn! Du-ne new sou-nd? Hooohh..."
+            ],
+            "endlessloop0": [
+                "...Mmmrrnnngghh... Ngghh......a-gain?"
+            ],
+            "endlessloop1": [
+                "Ngghhr. Du-ne like chall-enge. Du-ne go aga-in!"
+            ],
+            "endlessloop2": [
+                "Oo! Aga-in? Mo-re place fin-d foo-d!"
+            ],
+            "endlessloop3": [
+                "Du-ne own ca-ve."
+            ],
+            "endlessloopdefault": [
+                "Nrrrg! Wheee! Du-ne win!"
+            ],
             "tradermeetnormal": [
                 "Mmm... H-Halo....",
                 "Ha-lo... Te-man...",
@@ -5337,7 +5946,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "jangan pernah sembarangan percaya ama barel-barel cairan yang bertebaran di sini. baru aja nemu barel besar yang aku kira isi limun, tapi pas aku teguk rasanya pahit langsung udah cukup ngebuatku sadar kalo itu bukan limun. aku coba nelen pake segelas air, tapi airnya ngebuatku mual-mual dan rambutku mulai rontok",
+                "Item1": "dont always trust the barrels of liquid lying around. got my hands on a big minibarrel of what i thought was lemonade, but one bitter sip was enough to tell me that it wasnt. i tried to wash it down with another barrel of water, but the water made me very sick and my hair started falling out",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5703,7 +6312,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "...\n<>...\n<>...\n<>benda yang terbang itu. aku gak tau gimana mereka bisa gitu. astaga... ya tuhan. aku gak papa sekarang, tapi...<>\n\ngimana bilangnya ya... ada hal hal tajam terbang yang aneh. mereka ngeluarin suara keras yang aneh banget... hampir kayak mereka lagi ngetawain aku. mereka kadang nangan terus nerjang ke aku, nyoba nusuk aku. mereka kena aku sekali dua kali, tapi... tiap kali mereka gitu, mereka tancap di tanah terus aku pukul beberapa kali sampe itu... aneh... gak tau apa yang terjadi, tapi itu ilang. kayaknya itu berasal dari salah satu benjolan pertumbuhan, tapi bentuknya agak bergerak.<>\n\naku dapet sesuatu setelah itu ilang... mungkin berguna? kerasa kayak lagi tumbuh jadi sesuatu, aku bakal nunggu dan liat.",
+                "Item1": "...\n<>...\n<>...\n<>the flying things. i dont know how they did that. holy... oh god. im fine now, but...<>\n\nhow to say this... theres weird sharp flying things. they make really weird loud noises... almost as if theyre laughing at me. they wind up sometimes and charge at me, trying to stab me. they got me once or twice, but... whenever they did that, they got stuck in the ground and i hit it a few times until it... uh... not sure... what happened, but it was gone. i think it came from one of the growths, but it was kind of moving.<>\n\ni got something after it disappeared... maybe its useful? it feels like its growing into something, ill wait and see.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5793,7 +6402,7 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[LAPORAN BIOMETRIK - 25##-11-19-18-49-58-4587]\n<>\nKELAS ENTITAS: Biologikal\nSUBKELAS ENTITAS: Sawian\nNAMA ENTITAS: Experiment\n<>\n[ISIAN]\n\nVersi biologis yang stabil untuk projek terbaru kita sudah selesai.\nNampaknya, secara mental, sudah tidak ada dan bakal tidak ada yang tersisa dari sukarelawan manusia kita, belum lagi subjek-subjek lainnya.\nMeski begitu, mereka nampaknya bisa belajar dengan cepat. dan tidak memberontak.\n<>\nhasil dari kombinasi DNA menyebabkan Experiment menjadi lebih kecil secara fisik dibandingkan manusia biasa, kekurangan lemak dan massa otot.\nMeskipun begitu, kepadatan otot dan tulangnya jauh lebih tinggi. Ini harusnya bisa menyebabkan spesimen untuk menjadi lebih resilien dengan trauma fisik... dan membuatnya kesusahan untuk berenang.\nAda tiga tonjolan dibelakang tengkoraknya, yang mirip seperti tulang rawan telinga. Entah bagaimana, itu memiliki struktur telinga yang mirip seperti apa yang bisa ditemukan di burung - pasti merasal dari sebuah bagian DNA yang kita silangkan.\n\nBerbulu tipis, dan memiliki daging yang agak pink kekuningan, yang bisa terlihat pada luka dan didalam mulut.\ntangannya merupakan campuran dari seekor anjing dan seorang homosapien. Saya yakin salah satu teman kerjaku pasti akan menyukainya-\nEntah bagimana matanya yang biolumisen dari prototipe sebelumnya dari spesies ini tetap bertahan. Kami masih belum dapat menentukan dampak pasti yang ditimbulkan hal ini terhadap penglihatan mereka.\n<>\nKami akan mengklona spesimen ini 30 kali untuk melakukan uji coba destruktif pada klonanya. Kami akan membiarkan beberapa untuk bereproduksi secara sendirinya, untuk menghemat sumber daya.\n\n[AKHIRAN]",
+            "Item1": "[BIOMETRIC REPORT - 25##-11-19-18-49-58-4587]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: Experiment\n<>\n[CONTENTS]\n\nThe stable biological version of our newest project is ready.\nIt appears that, mentally, there wasn't and will be nothing left of our original human volunteer, not to mention the rest of the subjects.\nDespite that, they seem to be learning fast, and are not retaliating.\n<>\nThe DNA combination caused the Experiment to be considerably smaller in stature than a human person, and lack fat and muscle mass.\nDespite this, its muscle and bone density is much higher. This will assumably result in the specimen being resilient to various forms of physical trauma... And give it a hard time swimming.\nIt has three protrusions at the back of its skull, of form similar to ear cartilage. Somehow, it has an ear structure similar to that of an avian - must've been lying around somewhere in the DNA we spliced.\nIt is thinly furred, and has pink-ish yellow-ish flesh, as seen on wounds and on the inside of the mouth.\nIts hands are some kind of combination between a canine's and a homosapiens'. I know one of my co-workers is going to enjoy the paws-\nSomehow, the bioluminescent eyes from our earlier prototypes of this species have stayed. We are yet to determine the exact effects this has on their sight.\n<>\nWe will soon clone this specimen 30 times to conduct destructive testing on the clones. We will leave a few to naturally reproduce, to save on resources.\n\n[END]",
             "Item2": ""
         },
         {
@@ -5805,15 +6414,15 @@
             "Item2": ""
         },
         {
-            "Item1": "[LAPORAN BIOMETRIK - 25##-04-01-15-29-18-1058]\n<>\nKELAS ENTITAS: Biologis\nSUBKELAS ENTITAS: Sawian\nNAMA ENTITAS: Laporan Konsumsi Daging\n<>\n[ISI]\n\nTujuan Pengurangan Limbah Korporasi\n<>\n32 Sawian direkrut secara acak dari antara mereka yang ada di situs kami dar<corrupt:0xFFFFFF> Karakteristik awal adalah: 25 SAW-01, 4 SAW-05, 3 SAW-12. Subjek secara acak dibagi ke dalam 8 kelompok yang masing-masing terdiri dari 4 subjek. Setiap kelompok diberikan satu pilihan dalam tiga jenis kondisi: mengonsumsi daging Sawian atau Terran, mengonsumsi mentah atau sebagai sup, dan mengamati atau tidak mengetahui sumber daging tersebut.\n\nDaging diperoleh dari Insiden pada [25##-12-30].\n<>\nMeskipun SAW-01 dan SAW-05 di semua kelompok yang mengonsumsi daging Sawian menunjukkan emosi negatif yang ekstrim saat mengonsumsinya, terlepas dari apakah mereka mengamati sumber daging tersebut atau tidak, SAW-12 tidak menunjukkan emosi negatif yang sama. Tidak ada Sawian yang mengonsumsi daging Terran menunjukkan emosi negatif, kemungkinan karena mereka tidak mengenali daging tersebut sebagai sesamanya, meskipun muncul keluhan tentang memakan makanan mentah. Tidak ada Sawian yang mengonsumsi daging dalam bentuk sup menunjukkan emosi negatif, bahkan jika mereka telah mengamati sumbernya.\n\nSAW-12 menunjukkan ketidakpedulian yang tidak biasa terhadap konsumsi daging Sawian mentah, sesuai perkiraan. Kita mungkin dapat menggunakan kembali spesimen yang dibuang sebagai makanan untuk SAW-12 mana pun yang ada di situs.\n\n[SELESAI]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-01-15-29-18-1058]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: Meat-Consumption Report\n<>\n[CONTENTS]\n\nReduction of Corporate Waste Objective\n<>\n32 Sawians were recruited randomly among those at our site fro<corrupt:0xFFFFFF> Baseline characteristics were: 25 SAW-01, 4 SAW-05, 3 SAW-12. The subjects were randomly assigned to 8 groups of 4 subjects each. Each group were subject to one choice in three types of conditions: consuming Sawian or Terran meat, consuming raw or as soup, and observing or being ignorant of the source of the meat.\n\nMeat was sourced from the Incident on [25##-12-30].\n<>\nWhile the SAW-01 and SAW-05 in all groups which consumed the Sawian meat, regardless of whether they observed the source of the meat, displayed extreme negative emotion upon consumption, the SAW-12 did not display the same negative emotions. No Sawians which consumed the terran meat displayed negative emotions, presumably as they did not recognize the meat as their own, although complaints were raised about eating noncooked food. No Sawians which consumed the meat in soup form displayed negative emotions, even if they had observed the source.\n\nThe SAW-12 displayed an aberrant apathy towards consuming raw Sawian meat, as expected. We might be able to repurpose discarded specimens as food for any SAW-12s on site.\n\n[END]",
             "Item2": ""
         },
         {
-            "Item1": "[LAPORAN BIOMETRIK - 25##-04-08-09-06-08-0002]\n<>\nINDEKS DATABASE: Registri Proyek Sawian\nSUBINDEKS DATABASE: Spesies\n<>\n[ISI]\n\n[UNTUK SELURUH ENTITAS DALAM REGISTRI]\n- PENGGANTIAN TIPE ENTITAS: Template\n- KELAS ENTITAS: Biologis\n- SUBKELAS ENTITAS: Sawian\n<>\nNANA ENTITAS: SAW-01 \"Experiment\"\nJUMLAH: [Tidak dinyatakan]\n- Prototipe final dari terobosan besar pertama kami dalam biorekayasa. Hasil rekayasa sambung DNA yang disempurnakan dari salah satu tikus percobaan kami dan seorang karyawan beserta hewan peliharaannya. Canine. Kecil dan relatif lemah. Pengecut dan penakut. Tidak terlalu berguna selain sebagai subjek percobaan.\n<>\nNANA ENTITAS: SAW-02 \"Orange\"\nJUMLAH: 52082\n- Versi SAW-01 yang bermutasi. Besar, kasar, bodoh dan memiliki empat tangan. Baik untuk pekerjaan berat maupun pengujian yang memerlukan tenaga fisik dimana kematian tidak diinginkan.\n<>\nNAMA ENTITAS: SAW-03 \"Milky\"\nJUMLAH: 32184\n- Mutasi SAW-01 yang disambung dengan DNA binatang laut yang tidak diketahui. Kecil, arogan tapi cerdas. Kemampuan penglihatan sangat baik. Cocok untuk pengujian mental.\n<>\nNAMA ENTITAS: SAW-04 \"Leapy\"\nJUMLAH: 2046\n- Mutasi SAW-01 yang disambung dengan DNA lumut. Butuh waktu lama untuk membuat yang ini berfungsi. Onset kanker mereka yang relatif cepat membuat mereka hampir tidak berguna untuk kerja. Juga berisiko melarikan diri.\n<>\nNAMA ENTITAS: SAW-05 \"Chompy\"\nJUMLAH: 6084\n- Mutasi SAW-03 yang disambung dengan DNA \"Hiu\". Karnivora dan akuatik. Tidak berbulu. Entah kenapa ramah. Cocok untuk menyelesaikan konflik di mana kekerasan tidak diinginkan. Ekor mereka yang besar sangat membebani mereka, mengkonfirmasi teori kami.\n- Hiu adalah spesies ikan predator air asin. Mereka sudah punah, tetapi DNA mereka disimpan untuk keperluan ilmiah.\n<>\nNAMA ENTITAS: SAW-06 \"Roza\"\nJUMLAH: 7848\n- Mutasi SAW-01 yang disambung dengan DNA \"Pelangkah Salju\".Suhu tubuh rendah secara tidak wajar. Mudah tersinggung dan rentan pads iritasi, tapi jinak bila tidak diancam. Ekornya memberatkan. Memiliki karakteristik feminin konvensional, kemungkinan sebagai hasil campuran Pelangkah Salju dengan spesies bumi.\n- Lihat <corrupt:0xFFF853> untuk detail lebih lengkap mengenai Pelangkah Salju.\n\n[HALAMAN 1 DARI 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"Experiment\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparatively quick onset of cancer renders them nigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine characteristics, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Striders\".\n\n[PAGE 1 OF 2]",
             "Item2": ""
         },
         {
-            "Item1": "[LAPORAN BIOMETRIK - 25##-04-08-09-06-19-3953]\n<>\nINDEKS DATABASE: Registri Proyek Sawian\nSUBINDEKS DATABASE: Spesies\n<>\n[ISI]\n\n[UNTUK SELURUH ENTITAS DALAM REGISTRI]\n- PENGGANTIAN TIPE ENTITAS: Template\n- KELAS ENTITAS: Biologis\n- SUBKELAS ENTITAS: Sawian\n<>\nNAMA ENTITAS: SAW-07 \"Voyager\"\nJUMLAH: 3604\n- Mutasi SAW-01 yang disambung dengan DNA kucing. Sifatnya sangat menyebalkan. Mereka membenci spesies lain entah karena alasan apa, tetapi sangat menghormati kami. Sangat lincah, tetapi mereka tidak terlalu berisiko melarikan diri. Mereka suka bersembunyi, sangat menyulitkan prosedur pengujian kami.\n<>\nNAMA ENTITAS: SAW-08 \"Baron\"\nJUMLAH: 73\n- Mutasi SAW-02 yang disambung dengan DNA <corrupt:0xFFDED0>. Menjulang tinggi. Sekitar dua kali ukuran manusia. Sangat kuat, namun stabil secara emosional. Meskipun bukan risiko melarikan diri, menjaga mereka di bawah protokol yang lebih ketat sangat direkomendasikan. Ukuran mereka membuat mereka sulit untuk dikloning maupun bereproduksi - hindari membunuh jika memungkinkan.\n<>\nNAMA ENTITAS: <corrupt:0xFFFFEA>\nJUMLAH: 3067\n- Mutasi SAW-03 yang disambung dengan DNA insektoid. Tulang berongga. Warna bulu merah muda cerah yang aneh. Memiliki organ seperti sayap dan ciri insektoid. Mereka cenderung bersikap menyebalkan, meski sepertinya tanpa niat jahat. Penampilan mereka tampaknya menarik perhatian sawian lain.\n<>\nNAMA ENTITAS: SAW-10 \"Crystal\"\nJUMLAH: 2360\n- Mutasi SAW-06 yang disambung dengan DNA kadal. Memiliki tonjolan keras seperti kristal di sekujur tubuhnya. Lidah panjang dan sangat lengket, cukup kuat untuk menopang berat badan mereka. Entah kenapa mereka suka menggantung di langit-langit. Pengujian mental belum dilakukan, tapi mereka tampak agak arogan. Ciri feminin yang sama seperti SAW-06.\n<>\nNAMA ENTITAS: SAW-11 \"Velvet\"\nJUMLAH: 158\n- Mutasi SAW-06 yang disambung dengan DNA artropoda. Tampak seperti laba-laba pada umumnya. Sangat sedikit pengujian yang dilakukan, karena biasanya membuat karyawan merinding, baik dari perilaku maupun penampilan fisik. Protokol ketat diperlukan - seorang petugas kebersihan yang malang dilaporkan tergoda hingga melakukan kontak dengan SAW-11. Mayatnya yang dimakan separuh ditemukan beberapa jam kemudian, dengan bekas darah terlihat di sekitar seluruh SAW-11 yang disimpan di unit yang sama.\n<>\nNAMA ENTITAS: SAW-12 \"Dune\"\nJUMLAH: 1839\n- Mutasi SAW-05 yang disambung dengan DNA artropoda. PROTOKOL KETAT SANGAT DIPERLUKAN - Beberapa pembunuhan karyawan dan sawian telah dilaporkan. Hanya lakukan kontak dari jarak jauh dan dengan senjata mematikan. Jangan biarkan penampilan mereka mengecoh Anda. Mereka memiliki kecenderungan kanibalisme dan rasa lapar yang hampir tak terpuaskan. Kecerdasan mereka yang sangat rendah makin memperjelas fakta tersebut. Sebagian besar populasi mereka direncanakan untuk dideportasi ke <corrupt:0xFF0011> demi menjamin keselamatan berlanjut karyawan kami, karena memusnahkan semuanya tidak memungkinkan.\n<>\nNAMA ENTITAS: SAW-13 \"Shelly\"\nJUMLAH: 784\n- Mutasi SAW-10 yang disambung dengan DNA artropoda. Jangan takut pada penampilan mereka - SAW-10 pada umumnya penurut. Mereka tidak memiliki mulut dan sepertinya mendapat nutrisi dari radiasi latar belakang. Mereka tidak dapat berbicara, tetapi sepertinya memiliki kecerdasan yang relatif tinggi. Karyawan yang menguasai Bahasa Isyarat Universal direkomendasikan untuk melakukan pengujian mereka. Cangkang mereka membatasi reproduksi, tetapi mengkloning mereka masih relatif mudah. Batasi pengujian destruktif jika memungkinkan.\n<>\n[HALAMAN 2 DARI 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as they usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and nigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
             "Item2": ""
         },
         {
