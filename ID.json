@@ -4572,7 +4572,7 @@
                 "Suhu udara tergolong tinggi."
             ],
             "hot": [
-                "I am very hot.",
+                "Aku kepanasan.",
                 "...Panas. Sangat. Panas.",
                 "Aku bisa kena sengatan panas jika terus begini...",
                 "Aku mengalami hipertermia yang berbahaya...",
@@ -4847,29 +4847,29 @@
                 "This is entirely beyond me. What an exercise in patience. Frustrating. So, so intensely frustrating. Always just out of reach."
             ],
             "endlessloopdefault": [
-                "......*hela nafas*"
+                "......*menghela nafas*"
             ],
             "tradermeetnormal": [
                 "Salam.",
                 "Halo.",
                 "Senang bertemu dengan Anda.",
-                "Ah! Halo disana!",
+                "Ah! Halo!",
                 "Selamat datang, pengembara.",
                 "Salam kepada dirimu.",
                 "Selamat datang.",
                 "Senang bertemu dengan mu!",
-                "Saya berharap semua baik-baik saja."
+                "Saya harap semua baik-baik saja."
             ],
             "tradermeetgood": [
-                "Saya merasa terhormat untuk bertemu penyitas lainnya.",
+                "Saya merasa terhormat bisa bertemu sesama penyintas.",
                 "Oh! Halo! Bagaimana kabarmu, kawan?",
-                "Salam. Apa kabar?",
+                "Salam hangat. Apa kabar?",
                 "Ah! Salam. Anda terlihat sangat ceria!",
-                "Ah, betapa senangnya hati saya bisa bertemu seorang seperti dirimu!"
+                "Ah, senangnya hati saya bisa bertemu seorang seperti dirimu!"
             ],
             "tradermeetbad": [
                 "...Aku tidak terkesan.",
-                "Aduh. Halo...",
+                "Ah. Halo...",
                 "...Kamu membingungkan diriku. Salam.",
                 "...Halo.",
                 "Salam. Tolong tetap menjauh dari diri saya.",
@@ -4887,10 +4887,10 @@
                 "Aku tidur seperti anak anjing kecil, haha..."
             ],
             "tradergiveitem": [
-                "Makasih.",
+                "Terima kasih.",
                 "Ini akan berguna.",
                 "Terima kasih dengan pemberiannya.",
-                "Akan saya bawa.",
+                "Akan saya ambil.",
                 "Berguna.",
                 "Dengan senang hati.",
                 "Akan saya gunakan dengan sebaik-baiknya."
@@ -4900,32 +4900,32 @@
                 "Anda saya persilahkan untuk berhenti memberi, Saya lebih memilih untuk tidak memberikan semua yang saya miliki."
             ],
             "traderhagglesuccess": [
-                "Baik.",
+                "Boleh.",
                 "Akan aku beri pengeculaian untuk kamu.",
                 "Ah, Anda nampak baik.",
-                "Kau pintar.",
+                "Itu masuk akal juga.",
                 "Akan saya terima permintaan dirimu.",
                 "Saya mengerti. Tentu.",
                 "Saya setuju.",
                 "Dipahami..."
             ],
             "traderhagglefail": [
-                "Bagaimana kalau enggak?",
+                "Bagaimana kalau tidak?",
                 "Aku bukan badan amal.",
                 "Saya hanya menerima fakta dan logika, bukan permohonan tidak jelas.",
                 "Tidak.",
                 "Itu adalah argumen terburuk yang saya pernah dengar.",
                 "Saya harus menolak permintaanmu.",
                 "Ditolak.",
-                "Tidak ada pengecualian. maafkan saya."
+                "Tidak ada pengecualian. maaf."
             ],
             "traderbuy": [
                 "Tidak ada pengembalian.",
-                "Ini dia.",
-                "Jangan di rusak.",
+                "Silahkan.",
+                "Jangan sampai rusak.",
                 "Semoga Anda beruntung dengan ini.",
-                "Semoga Anda tahu bagaimana cara menggunakan ini.",
-                "Semoga ini akan bermanfaat.",
+                "Semoga Anda tahu cara menggunakan ini.",
+                "Semoga bermanfaat.",
                 "Ini balas budiku."
             ],
             "traderbuyfail": [
@@ -4936,19 +4936,19 @@
                 "Saya tidak akan memberikan apapun tanpa timbal balik yang setara.",
                 "Apakah ahu terlihat seperti badan amal untukmu?",
                 "Kamu bercanda.",
-                "Betapa mengejek."
+                "Betapa hinanya."
             ],
             "traderbuyfailmaxvalue": [
-                "Sudah cukup untuk hari ini. Kamu sudah beli banyak sekali.",
+                "Sudah cukup untuk hari ini. Kamu sudah beli banyak.",
                 "Saya tidak mengharapkan untuk menukar seluruh kepemilikan kita. Mari kita sudahi untuk sekarang."
             ],
             "traderthreatensuccess": [
-                "Bukan niat saya untuk sampai terluka. Ambil apapun dan pergilah.",
-                "Sudah. Ambil yang kamu inginkan dan tolong keluar dari kapsulku.",
+                "Bukan keinginan saya untuk sampai terluka. Ambil apapun dan pergilah.",
+                "Terserahlah. Ambil yang kamu inginkan dan tolong keluar dari kapsulku.",
                 "Saya harapkan akan ada malapetaka bagimu. Ya sudah. Ambilah dan pergi.",
-                "Dirimu adalah seorang yang buruk, kamu tahu itu?",
+                "Kamu adalah seorang yang buruk, kamu tahu?",
                 "Jadi beginikah caramu menyelesaikan masalah. Mhm. Ya sudah.",
-                "Apakah harus menjadi seperti ini? Kamu tahu yang lebih baik... Ugh. Ya sudah.",
+                "Apakah harus menjadi seperti ini? Kamu tahu yang lebih baik... Ugh. Terserahlah.",
                 "Perampokan bukanlah hal yang aku rencanakan. Tapi, silahkan. Jangan lukai diriku."
             ],
             "traderwarning": [
