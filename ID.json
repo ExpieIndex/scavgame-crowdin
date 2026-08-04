@@ -76,7 +76,7 @@
         "bloodsac": "Pundi darah",
         "bloodsacdsc": "Pundi daging kecil berisi darah. Terlihat tidak jauh berbeda dengan darahmu. Bisa dimakan atau digunakan sebagai bahan rakitan.",
         "venomgland": "Kelenjar racun",
-        "venomglanddsc": "A tiny salivary gland that produces and stores hemotoxin. You could probably process it into some kind of antivenom.",
+        "venomglanddsc": "Kelenjar ludah kecil yang memproduksi dan menyimpan hemotoksin. Kamu mungkin bisa mengolahnya menjadi semacam antivenin.",
         "saline": "Kantong infus",
         "salinedsc": "Kantong 750ml dengan jarum di ujungnya, untuk menyuntikkan cairan secara intravena.",
         "ringersolution": "Kantong infus kecil",
@@ -176,7 +176,7 @@
         "hardcandy": "Permen",
         "hardcandydsc": "Sekotak kecil permen keras. Lezat, tapi tidak mengenyangkan.",
         "fleshchunk": "Potongan daging besar",
-        "fleshchunkdsc": "A giant, very fatty chunk of flesh. Must've come from something big. Very filling and fattening.",
+        "fleshchunkdsc": "Daging besar yang sangat berlemak. Pasti berasal dari sesuatu yang besar. Sangat mengenyangkan dan menggemukan.",
         "candybar": "Permen batang",
         "candybardsc": "Permen batang lezat. Bertahan lama, tapi tidak mengenyangkan. Bisa membuatmu mual jika makan terlalu banyak.",
         "chocolatebar": "Coklat batang",
@@ -1328,10 +1328,10 @@
         "naloxone": "Nalokson",
         "fentanyl": "Fentanil",
         "ceftriaxone": "Seftriakson",
-        "morphinedsc": "Strong opioid for pain relief. Lesser effect when taken orally.",
-        "opiumdsc": "Mild opioid for pain relief. Lesser effect when taken orally.",
-        "heroindsc": "Very strong opioid for pain relief. You know little about it.",
-        "naloxonedsc": "Opioid antagonist, used in treatment of opioid overdose. Quick treatment might save your life during accidental overdose.",
+        "morphinedsc": "Opiat ringan untuk meredakan nyeri. Efeknya lebih ringan jika diminum secara oral.",
+        "opiumdsc": "Opiat kuat untuk meredakan nyeri. Efeknya lebih ringan jika diminum secara oral.",
+        "heroindsc": "Opiat yang sangat kuat untuk meredakan nyeri. Kamu kurang mengetahuinya.",
+        "naloxonedsc": "Antagonis opioid, digunakan dalam pengobatan overdosis opioid. Pengobatan cepat dapat menyelamatkan hidupmu selama overdosis yang tidak disengaja.",
         "fentanyldsc": "Opioid yang sangat ampuh, 100 kali lebih kuat dari morfin. Pertimbangkan untuk mengencerkannya.",
         "ceftriaxonedsc": "Antibiotik sefalosporin generasi ketiga yang digunakan untuk pengobatan infeksi. Meningkatkan kekebalan tubuh untuk beberapa waktu, tetapi menyebabkan rasa sakit.",
         "reliefcream": "Krim pereda nyeri",
@@ -4835,10 +4835,10 @@
                 "Halo, suara bip. Artinya apa ya kira-kira?"
             ],
             "endlessloop0": [
-                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-oke. Bu-bukan... Bu-bukan. Apa yang. A-aku harapkan. Aku pasti melakukan kesalahan. A-aku akan kembali dan mencoba sekali lagi."
             ],
             "endlessloop1": [
-                "This is not going according to plan. Damn it! What the hell did the coats want me to do!? Such a waste of time and energy."
+                "Ini tidak berjalan sesuai rencana. Sialan! Apa sih yang diinginkan para jas putih dariku!? Benar-benar membuang-buang waktu dan tenaga."
             ],
             "endlessloop2": [
                 "...What a d-depressing outcome. This mission is doomed to fail."
@@ -6422,7 +6422,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as they usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and nigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
+            "Item1": "[LAPORAN BIOMETRIK - 25##-04-08-09-06-19-3953]\n<>\nINDEKS DATABASE: Registri Proyek Sawian\nSUBINDEKS DATABASE: Spesies\n<>\n[ISI]\n\n[UNTUK SELURUH ENTITAS DALAM REGISTRI]\n- PENGGANTIAN TIPE ENTITAS: Template\n- KELAS ENTITAS: Biologis\n- SUBKELAS ENTITAS: Sawian\n<>\nNAMA ENTITAS: SAW-07 \"Voyager\"\nJUMLAH: 3604\n- Mutasi SAW-01 yang disambung dengan DNA kucing. Sifatnya sangat menyebalkan. Mereka membenci spesies lain entah karena alasan apa, tetapi sangat menghormati kami. Sangat lincah, tetapi mereka tidak terlalu berisiko melarikan diri. Mereka suka bersembunyi, sangat menyulitkan prosedur pengujian kami.\n<>\nNAMA ENTITAS: SAW-08 \"Baron\"\nJUMLAH: 73\n- Mutasi SAW-02 yang disambung dengan DNA <corrupt:0xFFDED0>. Menjulang tinggi. Sekitar dua kali ukuran manusia. Sangat kuat, namun stabil secara emosional. Meskipun bukan risiko melarikan diri, menjaga mereka di bawah protokol yang lebih ketat sangat direkomendasikan. Ukuran mereka membuat mereka sulit untuk dikloning maupun bereproduksi - hindari membunuh jika memungkinkan.\n<>NAMA ENTITAS:<corrupt:0xFFFFEA>\nJUMLAH: 3067\nMutasi SAW-03 yang disambung dengan DNA insektoid. Tulang berongga. Warna bulu merah muda cerah yang aneh. Memiliki organ seperti sayap dan ciri insektoid. Mereka cenderung bersikap menyebalkan, meski sepertinya tanpa niat jahat. Penampilan mereka tampaknya menarik perhatian sawian lain.\n<>\nNAMA ENTITAS: SAW-10 \"Crystal\"\nJUMLAH: 2360\n- Mutasi SAW-06 yang disambung dengan DNA kadal. Memiliki tonjolan keras seperti kristal di sekujur tubuhnya. Lidah panjang dan sangat lengket, cukup kuat untuk menopang berat badan mereka. Entah kenapa mereka suka menggantung di langit-langit. Pengujian mental belum dilakukan, tapi mereka tampak agak arogan. Ciri feminin yang sama seperti SAW-06.\n<>\nNAMA ENTITAS: SAW-11 \"Velvet\"\nJUMLAH: 158\\n- Mutasi SAW-06 yang disambung dengan DNA artropoda. Tampak seperti laba-laba pada umumnya. Sangat sedikit pengujian yang dilakukan, karena biasanya membuat karyawan merinding, baik dari perilaku maupun penampilan fisik. Protokol ketat diperlukan - seorang petugas kebersihan yang malang dilaporkan tergoda hingga melakukan kontak dengan SAW-11. Mayatnya yang dimakan separuh ditemukan beberapa jam kemudian, dengan bekas darah terlihat di sekitar seluruh SAW-11 yang disimpan di unit yang sama.\\n<>\\nNAMA ENTITAS: SAW-12 \"Dune\\\"\\nJUMLAH: 1839\\n- Mutasi SAW-05 yang disambung dengan DNA artropoda. PROTOKOL KETAT SANGAT DIPERLUKAN - Beberapa pembunuhan karyawan dan sawian telah dilaporkan. Hanya lakukan kontak dari jarak jauh dan dengan senjata mematikan. Jangan biarkan penampilan mereka mengecoh Anda. Mereka memiliki kecenderungan kanibalisme dan rasa lapar yang hampir tak terpuaskan. Kecerdasan mereka yang sangat rendah makin memperjelas fakta tersebut. Sebagian besar populasi mereka direncanakan untuk dideportasi ke <corrupt:0xFF0011> demi menjamin keselamatan berlanjut karyawan kami, karena memusnahkan semuanya tidak memungkinkan.\\n<>\\nNAMA ENTITAS: SAW-13 \\\"Shelly\\\"\\nJUMLAH: 784\\n- Mutasi SAW-10 yang disambung dengan DNA artropoda. Jangan takut pada penampilan mereka - SAW-10 pada umumnya penurut. Mereka tidak memiliki mulut dan sepertinya mendapat nutrisi dari radiasi latar belakang. Mereka tidak dapat berbicara, tetapi sepertinya memiliki kecerdasan yang relatif tinggi. Karyawan yang menguasai Bahasa Isyarat Universal direkomendasikan untuk melakukan pengujian mereka. Cangkang mereka membatasi reproduksi, tetapi mengkloning mereka masih relatif mudah. Batasi pengujian destruktif jika memungkinkan.\\n<>\\n[HALAMAN 2 DARI 2]",
             "Item2": ""
         },
         {
